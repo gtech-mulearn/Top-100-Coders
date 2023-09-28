@@ -3,7 +3,9 @@
 
 | ID  | Name           | Organisation     | Rank       | Link to profile                                  |
 |-----|----------------|------------------|------------|--------------------------------------------------|
-| 1   | Deepu          | FAYA             | 5282809    | [Profile](https://www.hackerrank.com/Deepusnath) |     
+| 1   | Deepu            | FAYA                  | 5282809      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
+| 2   | Vishakh          | Mulearn               | 5282811      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
+| 3   | Shaheen          | Mulearn               | 5282812      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
 
 
 ![Cyberpunk Theme](https://images.pling.com/img/00/00/36/95/68/1318110/2e3ef3fc41982266d0a184df01d5f05ba244.png)
