@@ -1,3 +1,6 @@
+![Cyberpunk Theme](https://images.pling.com/img/00/00/36/95/68/1318110/2e3ef3fc41982266d0a184df01d5f05ba244.png)
+
+
 # 🌆 Top 100 Coders: The Cybernetic Showdown 🌌
 
 Welcome to the neon-lit streets of the coding metropolis. Where every byte and bit battles in the digital arena, and only the elite rise to the top. Are you ready to join the ranks of the **Top 100 Coders**?
