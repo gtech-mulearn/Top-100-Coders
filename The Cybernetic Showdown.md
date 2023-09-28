@@ -1,6 +1,9 @@
+![Cyberpunk Theme](https://images.pling.com/img/00/00/36/95/68/1318110/2e3ef3fc41982266d0a184df01d5f05ba244.png)
+
 # 🌆 Top 100 Coders: The Cybernetic Showdown 🌌
 
 Welcome to the neon-lit streets of the coding metropolis. Where every byte and bit battles in the digital arena, and only the elite rise to the top. Are you ready to join the ranks of the **Top 100 Coders**?
+
 
 ---
 
@@ -36,9 +39,9 @@ The glowing neon leaderboard showcases those who've mastered the code. Do you ha
 
 ## 🤖 Join the Revolution
 
-Ready to etch your name in the digital hall of fame? Register now and embark on the ultimate coding journey.
+Ready to etch your name in the digital Hall of fame? Register now and embark on the ultimate coding journey.
 
-[Register Here](#)
+[Register Here](https://huddleglobal.co.in/top100coders/)
 
 ---
 
@@ -46,9 +49,9 @@ Ready to etch your name in the digital hall of fame? Register now and embark on 
 
 Dive into the matrix and connect with us on our digital channels.
 
-- [Twitter](#)
-- [Discord](#)
-- [Website](#)
+- [Twitter](https://twitter.com/GtechMulearn)
+- [Discord](https://discord.gg/gtech-mulearn-771670169691881483)
+- [Website](https://mulearn.org/)
 
 ---
 
