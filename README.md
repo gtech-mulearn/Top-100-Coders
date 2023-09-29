@@ -1,6 +1,6 @@
 <div align="center">
    <a>
-<h1> Top 100 Coders: The Cybernetic Showdown </h1>
+<h1> Top 💯 Coders: The Cybernetic Showdown </h1>
       </a>
 </div>
 
@@ -12,51 +12,41 @@ Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This even
 
 
 <div align="center">
+
+***
    
-## Top 100 leaderboard
-
-Here are the top 100 coders from Kerala who have demonstrated their coding skills:
-
-| ID  | Name           | Organisation     | Rank       | Link to profile                                  |
-|-----|----------------|------------------|------------|--------------------------------------------------|
-| 1   | Deepu            | FAYA                  | 5282809      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
-| 2   | Vishakh          | Mulearn               | 5282811      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
-| 3   | Shaheen          | Mulearn               | 5282812      | [Profile](https://www.hackerrank.com/Deepusnath)   |    
-| 4   | .......          | .......               | .......      | [Profile](https://www.hackerrank.com/Deepusnath)   |    
-
-The table will be updated regularly as participants join and achieve qualifying ranks.
-
-</div>
 
 ## How to Participate
 
-1.  Join the Gtech Mulearn Discord server.( [server link](https://discord.gg/gtech-mulearn-771670169691881483) )
-3.  Check the "Top-100 Announcement" channel.
-4.  Introduce yourself in the designated channel.
-5.  Visit the "Top 100 Intro" section and provide details of your open-source contributions, why you should be chosen, and your rank.
-6.  Create a table in the readme containing:
-   >  Karma points for the introduction.
-   > And Profile submission.
-7.  Participate in the "Office Hours" for clarification, every day at 6 pm.
-8.  Stay updated on announcements and challenges.
-9.  Join the Telegram group for further information.
-10. Consider alternatives if necessary.
-11. Aim for a 10-day algo ranking of 1 lakh (then only GitHub).
-12. Keep an eye on the leaderboard for updates.
 
 
-To be considered for the Top 100 Coders list, follow these steps:
+### Step 1: 
 
-> Register for the event and participate in our coding challenge on HackerRank.
-> Achieve a ranking of 50,000 or below in the HackerRank challenge.
-> Fork the `preview` branch of this repository.
-> Add your information to the `leaderboard.md` file.
-> Create a pull request (PR) to the `preview` branch with the following details:
-   - ID (based on your rank on top 100)
-   - Name
-   - Organization 
-   - Rank
-   - Link to your HackerRank profile
+Join the Gtech Mulearn Discord Server.
+
+<img width="431" alt="Screenshot 2023-09-29 at 10 11 09 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/64688be6-3188-4556-9ccb-f7b3644ccf64">
+
+### You can join the server by clicking [here](https://discord.gg/your-discord-invite-link).
+#
+### Step 2: 
+ Check the `top100-announcements` channel on the Discord server for further information and updates.
+ 
+
+
+> That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates.
+> If you have any questions or need assistance, please feel free to ask on the Discord server.
+
+<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
+
+
+</div>
+
+
+
+
+
+
+
 
 
 
