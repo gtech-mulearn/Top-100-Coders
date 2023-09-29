@@ -26,7 +26,7 @@ Join the Gtech Mulearn Discord Server.
 
 <img width="431" alt="Screenshot 2023-09-29 at 10 11 09 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/64688be6-3188-4556-9ccb-f7b3644ccf64">
 
-### You can join the server by clicking [here](https://discord.gg/your-discord-invite-link).
+### You can join the server by clicking [here](https://discord.gg/gtech-mulearn-771670169691881483).
 #
 ### Step 2: 
  Check the `top100-announcements` channel on the Discord server for further information and updates.
