@@ -1,69 +1,51 @@
-# Top-100-Coders
+# Kerala Top 100 Coders - Huddle Global 2023
 
+Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across the state of Kerala and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
 
-| ID  | Name           | Organisation     | Rank       | Link to profile                                  |
-|-----|----------------|------------------|------------|--------------------------------------------------|
-| 1   | Deepu            | FAYA                  | 5282809      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
-| 2   | Vishakh          | Mulearn               | 5282811      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
-| 3   | Shaheen          | Mulearn               | 5282812      | [Profile](https://www.hackerrank.com/Deepusnath)   |     
+## Event Details
 
+- **Event Coordinator:** [Your Name]
+- **Email:** [Your Email]
+- **GitHub Repo:** [Link to Your GitHub Repo]
 
-![Cyberpunk Theme](https://images.pling.com/img/00/00/36/95/68/1318110/2e3ef3fc41982266d0a184df01d5f05ba244.png)
+## How to Participate
 
+To be considered for the Top 100 Coders list, follow these steps:
 
-# 🌆 Top 100 Coders: The Cybernetic Showdown 🌌
+1. Register for the event and participate in our coding challenge on HackerRank.
+2. Achieve a ranking of 30,000 or below in the HackerRank challenge.
+3. Fork the `preview` branch of this repository.
+4. Add your information to the `data/coders.csv` file.
+5. Create a pull request (PR) to the `preview` branch with the following details:
+   - ID (unique identifier)
+   - Name
+   - Organization (if applicable)
+   - Rank
+   - Link to your HackerRank profile
 
-Welcome to the neon-lit streets of the coding metropolis. Where every byte and bit battles in the digital arena, and only the elite rise to the top. Are you ready to join the ranks of the **Top 100 Coders**?
+## Repository Structure
 
----
+- `data/`: Contains the CSV file for coders' data.
+- `preview/`: The branch where participants can fork and create pull requests for adding their data.
+- `master/`: The branch where only organizers can merge approved pull requests.
 
-## 🚀 The Mission
+## Top 100 Coders
 
-In this dystopian digital world, only the best coders can navigate the complex labyrinths of algorithms, data structures, and systems. Your mission, should you choose to accept, is to prove your coding prowess and ascend to the top.
+Here are the top 100 coders from Kerala who have demonstrated their coding skills:
 
----
+| ID | Name | Organization | Rank | Profile Link |
+|---|---|---|---|---|
+| 1 | John Doe | [Your Organization] | 500 | [John's Profile](https://github.com/johndoe) |
+| 2 | Jane Smith | [Your Organization] | 600 | [Jane's Profile](https://github.com/janesmith) |
+| 3 | Alan Johnson | - | 700 | [Alan's Profile](https://github.com/alanj) |
+| ... | ... | ... | ... | ... |
 
-## 🎮 Challenges
+The table will be updated regularly as participants join and achieve qualifying ranks.
 
-- **Neon Algorithms:** Dive deep into the glowing alleys of complex problems.
-- **Cybernetic Systems:** Design and architect the future of digital landscapes.
-- **Hacker's Gauntlet:** Face off against timed challenges in the digital arena.
+## Contact Us
 
----
+If you have any questions or need assistance, please contact us at [Your Email].
 
-## 🏆 Leaderboard
+Let's celebrate and promote the coding talent of Kerala!
 
-The glowing neon leaderboard showcases those who've mastered the code. Do you have what it takes to see your name in lights?
-
-[View the Leaderboard](#)
-
----
-
-## 🛠 Tools & Resources
-
-- **Digital Toolkit:** Equip yourself with the best tools from the cybernetic armory.
-- **Neon Docs:** Illuminate your path with the glowing documentation.
-- **Hacker's Forum:** Collaborate and discuss with fellow coders in the digital square.
-
----
-
-## 🤖 Join the Revolution
-
-Ready to etch your name in the digital hall of fame? Register now and embark on the ultimate coding journey.
-
-[Register Here](#)
-
----
-
-## 🌐 Connect
-
-Dive into the matrix and connect with us on our digital channels.
-
-- [Twitter](#)
-- [Discord](#)
-- [Website](#)
-
----
-
-*Stay luminous in the code. And remember, in the world of bytes and bits, only the best shine the brightest.*
 
