@@ -68,10 +68,10 @@ Head over to the `top100-introduction` channel on the Discord server. Here, you 
 
 
 
-> :memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023.Keep an eye on the announcements channel for any additional instructions or updates.If you have any questions or need assistance, please feel free to ask on the Discord server. 
+ :memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023.Keep an eye on the announcements channel for any additional instructions or updates.If you have any questions or need assistance, please feel free to ask on the Discord server. 
 
 
 
-
+#
 
 ![New Project (11)](https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/1bf63001-87ed-47b6-a057-88ec027f844b)
