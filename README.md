@@ -30,10 +30,9 @@ Check the `top100-announcements` channel on the Discord server for further infor
 
 Create your own portfolio in this repository's `readme.md` file by following these instructions:
 
+- [ ] Fork this repository to your GitHub account.
+- [ ] Edit the `readme.md` file in your forked repository.
 </div>
-
-- Fork this repository to your GitHub account.
-- Edit the `readme.md` file in your forked repository.
 
 #
 
@@ -57,7 +56,7 @@ Create your own portfolio in this repository's `readme.md` file by following the
 > >
 > > **Career Plan:** outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 > >
-> > [x] Once you've completed your portfolio, share the link to your forked repository in the `top100-introduction` channel on the Discord server.
+> - [x] Once you've completed your portfolio, share the link to your forked repository in the `top100-introduction` channel on the Discord server.
 
 #
 
