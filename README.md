@@ -1,10 +1,11 @@
 <div align="center">
    <a>
-<h1> Top 💯 Coders: The Cybernetic Showdown </h1>
+<h1> Top 💯 Coders Series</h1>
       </a>
 </div>
 
-![Kerala Top 100 Coders Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d867561-99af-4778-a3d2-81302ef18579/demqbsq-fe75d998-6d45-4da1-9462-0d7cd19178b7.png/v1/fill/w_1600,h_186,q_80,strp/art_fight_2021__cyberpunk_banner_1_by_artyfight_demqbsq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg2IiwicGF0aCI6IlwvZlwvNWQ4Njc1NjEtOTlhZi00Nzc4LWEzZDItODEzMDJlZjE4NTc5XC9kZW1xYnNxLWZlNzVkOTk4LTZkNDUtNGRhMS05NDYyLTBkN2NkMTkxNzhiNy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.25HRIaCNb8XSkD6PRWbeOkLI64CatLwwSRw7EJsgjUU)
+![Top 100](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/cc94a75d-3172-49b2-bf8f-6e94182313c6)
+
 
 <div align="center">
 Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across the state of Kerala and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
@@ -31,26 +32,50 @@ Join the Gtech Mulearn Discord Server.
 ### Step 2: 
  Check the `top100-announcements` channel on the Discord server for further information and updates.
  
+#
 
+### Step 3:
 
-> That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates.
-> If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
-
-
+Head over to the `top100-introduction` channel on the Discord server. Here, you can complete the following steps:
 </div>
 
 
+> **History of Open Source Contributions:** Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+>
+> **History of Community Engagement:** Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+>
+> **Highly Visible Technical Content:** Highlight any highly visible technical blog posts, articles, or video series you have created.
+>
+> **Highly Used Software Tools:** If you've developed software tools that are widely used by users (not just contributors), mention them.
+>
+> **Competitive Website Profiles:** Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+>
+> **Leadership and Influence:** explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+>
+> **Networking:** explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+>
+> **As a Top 100 Member:** outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+>
+> **Career Plan:** outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+>
+> - [x] All of the above steps can be completed in the `top100-introduction` channel on the Discord server. We look forward to your participation!
+
+#
+
+<div align="center">
+
+#### Discord Channels
+<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
+</div>
+
+</br>
+
+
+
+> :memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023.Keep an eye on the announcements channel for any additional instructions or updates.If you have any questions or need assistance, please feel free to ask on the Discord server. 
 
 
 
 
-
-
-
-
-
-***
 
 ![New Project (11)](https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/1bf63001-87ed-47b6-a057-88ec027f844b)
