@@ -1,8 +1,4 @@
-<div align="center">
-   <a>
-<h1> Top 💯 Coders Series</h1>
-      </a>
-</div>
+
 
 ![Top 100](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/cc94a75d-3172-49b2-bf8f-6e94182313c6)
 
