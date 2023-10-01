@@ -78,31 +78,30 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 #### 📢 top100-announcements
 
-Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-Tip: Stay alert! You wouldn't want to miss out on any crucial info.
+- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
+- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
 
 #### 🤖 #top100-introduction
 
-Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-Action: Drop a short bio and the GitHub repo link of your profile for the Top 100.
+- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
+- Action: Drop a short bio and the GitHub repo link of your profile for the Top 100.
 
 #### 🚀 #top-100-submission
 
-Purpose: The battleground where you showcase your skills.
-Action: Submit your completed tasks and let the world witness your coding prowess.
+- Purpose: The battleground where you showcase your skills.
+- Action: Submit your completed tasks and let the world witness your coding prowess.
 
 #### 🏆 #top-100-leaderboard
 
-Purpose: The hall of fame! See where you stand among the coding elites.
-Tip: Aim for the top. Every byte and bit counts!
+- Purpose: The hall of fame! See where you stand among the coding elites.
+- Tip: Aim for the top. Every byte and bit counts!
 
 #### 🎙️ #top-100-officehours
 
-Purpose: Got questions? We've got answers!
-Timing: Tune in every day from 6 PM to 7 PM.
+- Purpose: Got questions? We've got answers!
+- Timing: Tune in every day from 6 PM to 7 PM.
+-  Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
-> #### Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
->
 > Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
 
 </div>
@@ -118,3 +117,4 @@ Timing: Tune in every day from 6 PM to 7 PM.
 <div aling='center'>
 <img width="1080" alt="im" src="./doc/assets/footer.jpeg">
 </div>
+
