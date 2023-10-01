@@ -24,7 +24,7 @@ Join the Gtech Mulearn Discord Server.
 
 ### Step 2:
 
-Type `/get-muid` command in any channel on the Discord server to obtain your MUID (Mulearn User ID).
+#### Type `/get-muid` command in any channel on the Discord server to obtain your MUID (Mulearn User ID).
 
 <div aling='center'>
 <img width="200" alt="im" src="./doc/assets/getmu.png">
@@ -33,7 +33,7 @@ Type `/get-muid` command in any channel on the Discord server to obtain your MUI
 
 ### Step 3:
 
-Create your own portfolio in this repository's `/profile` file by following these instructions:
+#### Create your own portfolio in this repository's `/profile` file by following these instructions:
 
 - [ ] Fork this repository to your GitHub account.
 - [ ] Create a new markdown file with your MUID as the filename.
@@ -50,13 +50,12 @@ Create your own portfolio in this repository's `/profile` file by following thes
 
 ### Step 4:
 
- - [x] Check the `top100-announcements` channel on the Discord server for further information and updates.
+ #### Check the `top100-announcements` channel on the Discord server for further information and updates.
 
-#### Discord Channels
+
 
 <img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
 </div>
-</br>
 
 #
 
