@@ -50,7 +50,7 @@ Create your own portfolio in this repository's `/profile` file by following thes
 
 ### Step 4:
 
-> - [x] Check the `top100-announcements` channel on the Discord server for further information and updates.
+ - [x] Check the `top100-announcements` channel on the Discord server for further information and updates.
 
 #### Discord Channels
 
