@@ -69,7 +69,8 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 ## 🚀 Step 4: Dive into the Digital Arena!
 
-### Welcome to the heart of our competition - the Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
+### Welcome to the heart of our competition 
+> The Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
 
 <img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
 </div>
