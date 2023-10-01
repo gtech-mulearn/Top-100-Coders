@@ -41,7 +41,7 @@ Ready to carve out your space in the coding cosmos? It's time to showcase your u
 
 #### 🍴 Fork It!
 
-Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/) to your own GitHub realm.
+Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/fork) to your own GitHub realm.
 
 #### 📄 Name Your File!
 
