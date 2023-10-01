@@ -1,5 +1,5 @@
 <div aling='center'>
-<img width="1720" alt="im" src="./doc/assets/header.jpeg">
+<img width="1080" alt="im" src="./doc/assets/header.jpeg">
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ Embark on this step with passion and precision.
 
 Your portfolio is the beacon that will guide others to recognize your coding prowess! 🌌🌠
 
-</div>
+
 
 #
 
@@ -99,5 +99,5 @@ Remember, in the world of coding, it's not just about skills, but also about com
 #
 
 <div aling='center'>
-<img width="1720" alt="im" src="./doc/assets/footer.jpeg">
+<img width="1080" alt="im" src="./doc/assets/footer.jpeg">
 </div>
