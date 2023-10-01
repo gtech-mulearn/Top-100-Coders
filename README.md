@@ -1,5 +1,5 @@
 <div aling='center'>
-<img width="1720" alt="im" src="./doc/assets/header.jpeg">
+<img width="1080" alt="im" src="./doc/assets/header.jpeg">
 </div>
 
 <div align="center">
@@ -35,6 +35,8 @@ Join the Gtech Mulearn Discord Server.
 
 #### Create your own portfolio in this repository's `/profile` file by following these instructions:
 
+</div>
+
 - [X] Fork this repository to your GitHub account.
 - [X] Create a new markdown file with your MUID as the filename inside `/profile` folder
 - [X] Write answers to the questions in the  the file by following the template.Check out [TEMPLATE.md](./TEMPLATE.md) for the example.
@@ -42,7 +44,7 @@ Join the Gtech Mulearn Discord Server.
 
 
 
-</div>
+
 
 #
 
@@ -66,5 +68,5 @@ Join the Gtech Mulearn Discord Server.
 #
 
 <div aling='center'>
-<img width="1720" alt="im" src="./doc/assets/footer.jpeg">
+<img width="1080" alt="im" src="./doc/assets/footer.jpeg">
 </div>
