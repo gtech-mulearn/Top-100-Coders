@@ -38,9 +38,7 @@ I'm continuously enhancing my knowledge in statistics and development.
   
 #### Thoughts on Kerala's Tech Ecosystem:
 1. **Emerging Innovation Hub**: Kerala's tech ecosystem is rapidly emerging as a hub for innovation and entrepreneurship. With a growing number of startups and tech companies, it showcases the state's potential to become a major player in the tech industry.
-
 2. **Strong Talent Pool**: Kerala boasts a strong pool of tech talent, with numerous engineering colleges and a focus on technical education. This talent pool serves as a valuable resource for both local startups and established tech firms.
-
 3. **Government Support**: The government's initiatives, such as the Kerala Startup Mission (KSUM), play a pivotal role in fostering the tech ecosystem. Financial incentives, mentorship programs, and infrastructure development contribute to the ecosystem's growth and success.
 
 ---
