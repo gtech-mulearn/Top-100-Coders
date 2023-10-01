@@ -6,7 +6,7 @@ I'm continuously enhancing my knowledge in statistics and development.
 
 ### Portfolio Highlights
 #### History of Open Source Contributions:
-- Actively engages in Hacktober festivals, contributing to open source projects.
+ - Actively engages in Hacktober festivals, contributing to open source projects.
 
 #### History of Community Engagement:
  -  Regularly answer technical questions on Stack Overflow,Kaggle and Reddit.
