@@ -1,5 +1,5 @@
 <div aling='center'>
-<img width="1080" alt="im" src="./doc/assets/Top 100.jpg">
+<img width="1080" alt="im" src="./docs/assets/Top 100.jpg">
 </div>
 
 <div align="center">
@@ -114,5 +114,5 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 ---
 
 <div aling='center'>
-<img width="1080" alt="im" src="./doc/assets/footer.jpeg">
+<img width="1080" alt="im" src="./docs/assets/footer.jpeg">
 </div>
