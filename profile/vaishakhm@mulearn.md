@@ -20,7 +20,7 @@ I'm continuously enhancing my knowledge in statistics and development.
 -Developing a CV parser leveraging LLM for resume parsing and automating job application data entry. A dynamic project in progress.
 
 #### Competitive Website Profiles:
-- Active involved in [kaggle](https://www.kaggle.com/vaishakhraveendran}) competitions.
+- Active involved in [kaggle](https://www.kaggle.com/vaishakhraveendran) competitions.
 
 #### Leadership and Influence:
 - Active member of GDSC CET's Technical team
