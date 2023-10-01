@@ -22,18 +22,15 @@
 #### Highly Visible Technical Content:
 
 - Have open-sourced multiple projects on github.
-<!---
+
 #### Highly Used Software Tools:
 
-- Developed a app-based Crop management tool called [Agromed](https://github.com/cloneartist/AgroMed) used by 10+ users.
--->
+- Worked in a team developing a website for college hackathon [Beachhack](https://github.com/Jcupzz/beach-hack-website-2022) visited by 1000+ users.
 
-<!--
 #### Competitive Website Profiles:
 
 - Consistent coder on Leetcode.
-- 5 star Python coder on Hackerrank.
--->
+- 5 star python coder on Hackerrank.
 
 #### Leadership and Influence:
 
