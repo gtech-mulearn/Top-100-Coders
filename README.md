@@ -55,7 +55,7 @@ Use the provided template to fill out your details.
 
 Once you're ready, create a pull request targeting the preview branch. Let the world see your brilliance!
 
-### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./TEMPLATE.md) for the perfect template to light your way.
+> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./TEMPLATE.md) for the perfect template to light your way.
 
 Embark on this step with passion and precision.
 
