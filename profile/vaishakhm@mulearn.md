@@ -9,15 +9,15 @@ I'm continuously enhancing my knowledge in statistics and development.
 -Actively engages in Hacktober festivals, contributing to open source projects
 
 #### History of Community Engagement:
--Regularly answer technical questions on Stack Overflow,Kaggle and Reddit.
--Authored Kaggle notebooks with 50+ views and 20+ upvotes.
--Active in Kaggle discussions.
+- Regularly answer technical questions on Stack Overflow,Kaggle and Reddit.
+- Authored Kaggle notebooks with 50+ views and 20+ upvotes.
+- Active in Kaggle discussions.
 
 #### Highly Visible Technical Content:
--Working a technical blog for "Towards Data Science" publication. 
+- Working a technical blog for "Towards Data Science" publication. 
 
 #### Highly Used Software Tools:
--Developing a CV parser leveraging LLM for resume parsing and automating job application data entry. A dynamic project in progress.
+- Developing a CV parser leveraging LLM for resume parsing and automating job application data entry. A dynamic project in progress.
 
 #### Competitive Website Profiles:
 - Active involved in [kaggle](https://www.kaggle.com/vaishakhraveendran) competitions.
