@@ -35,12 +35,13 @@ Join the Gtech Mulearn Discord Server.
 
 #### Create your own portfolio in this repository's `/profile` file by following these instructions:
 
-- [ ] Fork this repository to your GitHub account.
-- [ ] Create a new markdown file with your MUID as the filename.
-- [ ] Write the file by following the template.
-- [ ] Create a pull request to the preview branch.
+- [X] Fork this repository to your GitHub account.
+- [X] Create a new markdown file with your MUID as the filename inside `/profile` folder
+- [X] Write answers to the questions in the  the file by following the template.Check out [TEMPLATE.md](./TEMPLATE.md) for the example.
+- [X] Write the file by following the template.
+- [X] Create a pull request to the preview branch.
 
-> Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the template.
+
 
 </div>
 
