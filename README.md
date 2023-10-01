@@ -14,20 +14,17 @@ Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This even
 
 ## Step 1:
 
-Join the Gtech Mulearn Discord Server.
+<img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83">
 
-<img width="431" alt="im" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/64688be6-3188-4556-9ccb-f7b3644ccf64">
-
-### You can join the server by clicking [here](https://discord.gg/gtech-mulearn-771670169691881483).
+### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
 
 #
 
 ## Step 2:
 
-#### Type `/get-muid` command in any channel on the Discord server to obtain your MUID (Mulearn User ID).
+### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
 
-<div aling='center'>
-<img width="200" alt="im" src="./doc/assets/getmu.png">
+![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
 
 #
 
@@ -69,7 +66,8 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 ## 🚀 Step 4: Dive into the Digital Arena!
 
-### Welcome to the heart of our competition 
+### Welcome to the heart of our competition
+
 > The Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
 
 <img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
@@ -101,7 +99,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 - Purpose: Got questions? We've got answers!
 - Timing: Tune in every day from 6 PM to 7 PM.
--  Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
+- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
 > Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
 
@@ -118,4 +116,3 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 <div aling='center'>
 <img width="1080" alt="im" src="./doc/assets/footer.jpeg">
 </div>
-
