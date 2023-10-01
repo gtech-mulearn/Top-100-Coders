@@ -58,7 +58,7 @@ Create your own portfolio in this repository's `/profile` file by following thes
 </div>
 </br>
 
-</br>
+#
 
 :memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023.Keep an eye on the announcements channel for any additional instructions or updates.If you have any questions or need assistance, please feel free to ask on the Discord server.
 
