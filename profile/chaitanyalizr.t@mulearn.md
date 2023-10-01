@@ -3,7 +3,7 @@
 ### About Me
 
 Passionate about designing and creating systems that address real-world issues like a Tremor Control Hardware System for Parkinson Patients.
-Im also a self-taught computer science enthusiast and a Freeelance Web Developer.
+Im also a self-taught computer science enthusiast and a Freelance Web Developer.
 Networks and cryptography are my current research interests. As a Community Evangelist,
 I take an active role in a number of tech communities on both a managerial and technical level.
 
@@ -27,7 +27,7 @@ I take an active role in a number of tech communities on both a managerial and t
 
 #### Competitive Website Profiles:
 
-- I am always a Youtube Learner so I have currently started working on my DSA : [Leetcode](https://leetcode.com/CLiz17/)
+- I am always a Youtube Learner so I have currently started working on my sites scores : [Leetcode](https://leetcode.com/CLiz17/)
 
 #### Leadership and Influence:
 
