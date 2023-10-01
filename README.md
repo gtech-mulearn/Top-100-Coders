@@ -38,7 +38,6 @@ Join the Gtech Mulearn Discord Server.
 - [X] Fork this repository to your GitHub account.
 - [X] Create a new markdown file with your MUID as the filename inside `/profile` folder
 - [X] Write answers to the questions in the  the file by following the template.Check out [TEMPLATE.md](./TEMPLATE.md) for the example.
-- [X] Write the file by following the template.
 - [X] Create a pull request to the preview branch.
 
 
