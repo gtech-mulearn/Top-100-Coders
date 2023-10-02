@@ -7,14 +7,31 @@
 
 ### Portfolio Highlights
 
+#### History of Open Source Contributions:
+
+- I am still learning various tools and technologies so I have not been very active in contributions.
+
 ##### History of Community Engagement:
 
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
+
+#### Competitive Website Profiles:
+
+- I am also active on LinkedIn and Medium with various posts and activities.
+
+- LinkedIn: www.linkedin.com/in/naslukk
+
+- GitHub: https://github.com/Naslukk/
 
 #### Leadership and Influence:
 
 - Active member of IEDC AWH
 - Organized and hosted 2 tech workshop in the local developer community.
+
+#### Networking:
+
+- I love sharing my experience and exchanging it each other for bonding experience.
+- Doing projects together and collaborating is an another opportunity to know eachother well and work as a team.
 
 #### As a Top 100 Member:
 
@@ -32,6 +49,8 @@
 - Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive.
 - The achievement of this vision will depend on collaboration between academia, government, and industry.
 
+> In your portfolio, include the following details:
+>> Check Out: [naslukk@mulearn.md](./profile/naslukk@mulearn.md)
 
 ---
 
