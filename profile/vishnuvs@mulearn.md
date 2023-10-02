@@ -16,6 +16,9 @@
 
 - Answered questions on StackOverflow ,  arduino forums , zappAR forums , many other tech discord channels etc.
 
+#### Highly Visible Technical Content:
+
+ -  Working on a Tech channel for simplified tech tutorials and innovation.
 
 #### Highly Used Software Tools:
 
