@@ -4,7 +4,7 @@
 ### About Me
 
 
-> I am a self-taught developer who loves to learn, connect, and grow. I'm currently pursuing my bachelor's in technology from the University College of Engineering, Kariavattom, Thiruvananthapuram. I am a freelancer who focuses on frontend web and Flutter application development. I help startups and small traditional businesses give life to their dreams. I am currently the Google Developers Students Club (GDSC) Lead of my campus and the CTO of Legacy IEDC-UCEK. My skillsets include `Javascript`, `React JS`, `Bootstrap/Tailwind CSS', `Dart`, 'Firebase', `Solidity` for development, and `Figma` for UI/UX designing. I had the opportunity to intern at `Syncrayons Technologies Pvt. Ltd.` as a frontend developer, where I got to explore and understand the tech industry.
+> I am a self-taught developer who loves to learn, connect, and grow. I'm currently pursuing my bachelor's in technology on computer science Engineering from the University College of Engineering, Kariavattom, Thiruvananthapuram. I am a freelancer who focuses on frontend web and Flutter application development. I help startups and small traditional businesses give life to their dreams. I am currently the Google Developers Students Club (GDSC) Lead of my campus and the CTO of Legacy IEDC-UCEK. My skillsets include `Javascript`, `React JS`, `Bootstrap/Tailwind CSS', `Dart`, 'Firebase', `Solidity` for development, and `Figma` for UI/UX designing. I had the opportunity to intern at `Syncrayons Technologies Pvt. Ltd.` as a frontend developer, where I got to explore and understand the tech industry.
 
 
 
