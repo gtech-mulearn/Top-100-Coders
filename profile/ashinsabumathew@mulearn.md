@@ -35,8 +35,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- 
-Kerala can excel by fostering innovation, investing in education, providing infrastructure, and creating a supportive regulatory environment for tech startups.
+- Kerala can excel by fostering innovation, investing in education, providing infrastructure, and creating a supportive regulatory environment for tech startups.
 
 
 > In your portfolio, include the following details:
