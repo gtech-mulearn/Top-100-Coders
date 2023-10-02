@@ -11,9 +11,7 @@
 ### Portfolio Highlights
 
 
-#### History of Open Source Contributions:
 
-- None
 
 #### History of Community Engagement:
 
