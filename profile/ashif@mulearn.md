@@ -82,9 +82,9 @@ In essence, my career plans go beyond personal success; they are anchored in a d
 #### Thoughts on Kerala's Tech Ecosystem:
 
 
--Recognize the changing landscape of IT services and encourage a transition from service-based startups to product-based solutions. Focus on developing SaaS and innovative products to address real-world challenges, taking inspiration from successful examples like Gen Robotics.
--Leverage Kerala's unique model of collaboration between educational institutions, industries, research centers, and startups. Strengthening this interconnectedness can drive innovation, enhance the skill pool, and provide a supportive environment for technological entrepreneurship.
--Foster sustainable growth by investing in education, infrastructure, and innovation. Connect the success of tech startups to the overall improvement of living standards, emphasizing the importance of government support, skill development, and addressing challenges in product design, marketing, and branding.
+- Recognize the changing landscape of IT services and encourage a transition from service-based startups to product-based solutions. Focus on developing SaaS and innovative products to address real-world challenges, taking inspiration from successful examples like Gen Robotics.
+- Leverage Kerala's unique model of collaboration between educational institutions, industries, research centers, and startups. Strengthening this interconnectedness can drive innovation, enhance the skill pool, and provide a supportive environment for technological entrepreneurship.
+- Foster sustainable growth by investing in education, infrastructure, and innovation. Connect the success of tech startups to the overall improvement of living standards, emphasizing the importance of government support, skill development, and addressing challenges in product design, marketing, and branding.
 
 
 ---
