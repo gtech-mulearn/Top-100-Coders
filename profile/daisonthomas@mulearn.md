@@ -1,4 +1,4 @@
-# Daison Thomas (Web Developer)
+# Daison Thomas (Web Developer/ Blockchain Developer)
 
 ### About Me
 
