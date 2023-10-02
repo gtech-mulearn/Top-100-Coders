@@ -30,6 +30,6 @@ Before submitting this PR, please ensure that you have:
 - [ ] Checked all the relevant boxes above.
 - [ ] Named your file using your MUID (e.g., `your-muid.md`).
 - [ ] Followed the provided template for each section.
-- [ ] Make sure you joind the Whatsapp Group 
+- [ ] Make sure you joined the Whatsapp Group 
 
 Thank you for participating in Kerala Top 100 Coders - Huddle Global 2023!
