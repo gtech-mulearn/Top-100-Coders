@@ -23,7 +23,9 @@
 -  [LinkedIn](https://www.linkedin.com/in/althaf-hussain-a9926b257/)
 - [Github](https://github.com/Althafmu)
 
+#### Leadership and Influence:
 
+- digital marketing and design lead IEDC SNGIST
 
 #### Networking:
 
@@ -31,16 +33,15 @@
 
 #### As a Top 100 Member:
 
-- I'm driven to be a part of the Top 100 program, collaborating with like-minded individuals to positively influence Kerala's startup ecosystem.
-- I firmly believe that participating in the Top 100 initiative will unlock opportunities and elevate my professional journey through innovation and fresh perspectives.
+- I am determined to join the Top 100 program, where I can work alongside fellow visionaries to make a positive impact on Kerala's startup landscape.
+- I am confident that this initiative will open doors to fresh perspectives and innovative opportunities, enhancing my professional journey significantly.
 
 #### Career Plan:
 
 - In the short term, I plan to mentor students and organize workshops to foster tech talent in Kerala, nurturing the next generation of innovators.
-- Looking ahead, my long-term goal is to play a pivotal role in shaping the future of the tech industry.
-
+- My overarching ambition is to assume a pivotal position in shaping the tech industry's future, leveraging my expertise and vision to drive innovation and lead transformative initiatives that leave a lasting impact.
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala's vibrant tech ecosystem thrives on curious teens, robust projects, and collaborative efforts among academia, government, and industry, fostering innovation and growth
+- Kerala's tech ecosystem has been steadily evolving, showcasing promising growth and potential. It benefits from a pool of talented professionals, a vibrant startup culture, and government initiatives that support the industry. However, challenges like infrastructure development and attracting more investment remain. With continued efforts, Kerala has the potential to become a significant player in India's tech landscape.
 
 ---
