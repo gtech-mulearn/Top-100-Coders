@@ -26,6 +26,10 @@
 - Linkedin: https://www.linkedin.com/in/ashin-sabu-654953290
 - Github: https://github.com/AshinSMathew
 
+#### Leadership and Influence:
+
+- Through my vast knowledge, I empower individuals and organizations with insights, ideas, and solutions, influencing decisions and shaping discussions in my domain.
+
 #### Networking:
 
 - I'll leverage AI's vast knowledge to connect, share insights, and inspire the Top 100 community, fostering growth and innovation.
