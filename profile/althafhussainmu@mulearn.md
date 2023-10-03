@@ -13,13 +13,13 @@
 
 #### History of Community Engagement:
 
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) `Current rank #35`.
+- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) `Current rank #36`.
 - IEDC lead from 2022 - 2023 at IEDC SNGIST
 - Active member in the weekly tech program `Scale it` where we discuss about the system design of an application.
 
 #### Competitive Website Profiles:
 
-- Was the Rank #12 at [(https://app.mulearn.org/profile/althafhussainmu@mulearn)  based on Karma Points.
+- Was the Rank #35 at [(https://app.mulearn.org/profile/althafhussainmu@mulearn)  based on Karma Points.
 -  [LinkedIn](https://www.linkedin.com/in/althaf-hussain-a9926b257/)
 - [Github](https://github.com/Althafmu)
 
