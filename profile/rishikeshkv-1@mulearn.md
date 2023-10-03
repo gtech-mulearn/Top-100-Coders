@@ -42,6 +42,6 @@ Leetcode-https://leetcode.com/rishikeshkaroth/
 
 #### Career Plan:
 
--I aspire to start a fulfilling career as a full-stack web developer. I'm enthusiastic about the prospect of working on amazing projects and contributing positively to them.
+- I aspire to start a fulfilling career as a full-stack web developer. I'm enthusiastic about the prospect of working on amazing projects and contributing positively to them.
 
 
