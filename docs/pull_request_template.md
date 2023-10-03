@@ -13,6 +13,7 @@ Please make sure to complete the following profile highlights by checking the bo
 - [ ] Networking:
 - [ ] As a Top 100 Member:
 - [ ] Career Plan:
+- [ ] Thoughts on Kerala's Tech Ecosystem:
 
 ### Additional Information
 
