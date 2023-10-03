@@ -38,7 +38,7 @@
 
 #### Leadership and Influence:
 
-- Been media lead for Summer internship prgram 23 of collge of engineering Chengannur
+- Been media lead for Summer internship program 23 of collge of engineering Chengannur
 
 #### Networking:
 
