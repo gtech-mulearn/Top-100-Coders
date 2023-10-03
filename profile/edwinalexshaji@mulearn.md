@@ -36,6 +36,10 @@
 - [Leetcode](https://leetcode.com/edwinalexshaji/).
 
 
+#### Leadership and Influence:
+
+- Been media lead for Summer internship prgram 23 of collge of engineering Chengannur
+
 #### Networking:
 
 - Hope to find many like minded people and network with them while doing this challenge.
