@@ -11,11 +11,11 @@
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
-- 🌐 **DebConf 23 Attendee:** I recently had the privilege to attend DebConf 23, where I had engaging interactions with experts and enthusiasts in Debian development.
+-  **DebConf 23 Attendee:** I recently had the privilege to attend DebConf 23, where I had engaging interactions with experts and enthusiasts in Debian development.
 
-- 👥 **Community Engagement:** I'm an active member of our local tech community, and one of our notable achievements was organizing Hacktoberfest Kochi, fostering collaboration and open-source contributions.
+-  **Community Engagement:** I'm an active member of our local tech community, and one of our notable achievements was organizing Hacktoberfest Kochi, fostering collaboration and open-source contributions.
 
-- 🚀 **Open Source Advocate:** I'm passionate about open source and have conducted various workshops to empower individuals with the skills and knowledge needed to contribute to open source projects, making technology more accessible.
+-  **Open Source Advocate:** I'm passionate about open source and have conducted various workshops to empower individuals with the skills and knowledge needed to contribute to open source projects, making technology more accessible.
 
 #### Highly Visible Technical Content:
 
@@ -28,11 +28,11 @@
 
 #### Leadership and Influence:
 
-- 🏢 **Active Club Member:** I'm actively involved in prominent clubs at CUSAT, where I contribute to various technical and non-technical activities.
+-  **Active Club Member:** I'm actively involved in prominent clubs at CUSAT, where I contribute to various technical and non-technical activities.
 
-- 🖥️ **DHISHNA CUSAT TECH TEAM:** I'm proud to be a member of the DHISHNA CUSAT TECH TEAM, where I work on exciting technology-related projects and initiatives.
+-  **DHISHNA CUSAT TECH TEAM:** I'm proud to be a member of the DHISHNA CUSAT TECH TEAM, where I work on exciting technology-related projects and initiatives.
 
-- 👥 **Community Engagement:** I'm an active member of our local tech community, and one of our notable achievements was organizing Hacktoberfest Kochi, fostering collaboration and open-source contributions.
+-  **Community Engagement:** I'm an active member of our local tech community, and one of our notable achievements was organizing Hacktoberfest Kochi, fostering collaboration and open-source contributions.
 
 #### Networking:
 
