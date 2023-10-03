@@ -2,8 +2,6 @@
 
 ### About Me
 
-> Certainly! Here's your revised "About Me" statement:
-
 >I am a self-taught Tech enthusiast with a strong love for problem-solving and an unshakable dedication to creativity. My area of specialty is web and app development, and I'm also skilled in product design and UI/UX design. I can change with the situation and always use the best technologies for the particular requirements of each project. I have developed my skills in Figma, User Experience Design, User Interface Design, and Front-end Development through a combination of practical projects, in-depth training, and certifications. I use technology as a potent instrument to advance progressive ideas and spark significant innovation.
 ---
 
