@@ -15,7 +15,17 @@
 
 #### History of Community Engagement:
 
-- Participant in the [Gtech Mulearn](https://discord.gg/tech-community) 
+- Participant in the [Gtech Mulearn](https://discord.gg/tech-community)
+
+#### Highly Visible Technical Content:
+
+- Beginer Level Github projects.
+
+#### Highly Used Software Tools:
+
+- VS code
+- Git
+- Android Studio
 
 #### Competitive Website Profiles:
 
