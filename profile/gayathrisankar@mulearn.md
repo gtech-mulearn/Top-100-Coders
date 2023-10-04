@@ -39,8 +39,4 @@
 - Check out [My Hackerrank profile!](https://www.hackerrank.com/gayathri_sankar5?hr_r=1)
 - Check out [My LeetCode profile!](https://leetcode.com/user3082bN/))
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
