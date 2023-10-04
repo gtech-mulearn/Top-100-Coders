@@ -1,8 +1,8 @@
-# Aswanth V C (
+# Aswanth V C (Full-Stack Web and Mobile Developer)
 
 ### About Me
 
-> I'm a dedicated BCA student with a profound love for coding. Self-taught and versatile, I excel in full-stack development, specializing in Android and Flutter app creation. My journey has been a personal one, honing my technical skills and problem-solving abilities. I'm eager to embrace new opportunities and turn innovative concepts into digital solutions. 
+> I'm a passionate BCA student with a profound love for coding. Self-taught and versatile, I excel in full-stack development, specializing in Android and Flutter app creation. My journey has been a personal one, honing my technical skills and problem-solving abilities. I'm eager to embrace new opportunities and turn innovative concepts into digital solutions. 
 
 
 ### Portfolio Highlights
@@ -10,55 +10,49 @@
 
 #### History of Open Source Contributions:
 
-- I have shared several personal projects on my GitHub profile, including AVC Manager, Cash Book, Lets Share app, Database Manager, and Niram.
-- While I haven't directly contributed to existing open-source projects, I have embraced the open-source philosophy by making my work accessible to the community.
+- I have shared several personal projects on my GitHub profile, including [AVC Manager](https://github.com/aswanthabam/Manager), [Cash Book](https://github.com/aswanthabam/CashBook), [Lets Share app](https://github.com/aswanthabam/LetsShare-1.0.0), [Database Manager](https://github.com/aswanthabam/DbManager), and [Niram](https://github.com/aswanthabam/Niram).
+- While I haven't directly contributed to existing open-source projects, I have embraced the open-source philosophy by making my work accessible to the community. [Checkout My Github](https://github.com/aswanthabam)
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+-  Active participation in technical events, both as a participant and organizer, has allowed me to serve as a mentor and provide guidance to newcomers while sharing my expertise with experts in the field.
+-  By Participating events like in GTech CodeStorm, Tathva, Tech Fest at NIT etc. enriched me through networking and knowledge sharing with like-minded individuals.
 
 #### Highly Used Software Tools:
 
 - [Vijnana Website](https://github.com/aswanthabam/Vijnana2023) website created for hosting tech fest of GCT.
-- [AVC Manager](https://github.com/aswanthabam/Manager) Android app for device optimization, space cleanup, and other utilities
+- [AVC Manager](https://github.com/aswanthabam/Manager) Android app for device optimization, space cleanup, and other utilities.
+- [Robo Car](https://github.com/aswanthabam/robocarapp) - An app for communicating and controlling with arduino based smart cars.
 
 #### Competitive Website Profiles:
 
 - Git Hub : https://github.com/aswanthabam
 - Linkedin : https://www.linkedin.com/in/aswanth-vc-2612b91b9
 - Medium : https://medium.com/@aswanth-vc
-- 
+- Portfolio : https://aswanthvc.web.app
+  
 #### Leadership and Influence:
 
-- Cheif Operating Officer of IEDC GCT.
-- Organized and Lead Tech Fest at GCT.
+- Cheif Operating Officer (COO) of IEDC GCT.
+- Organized and Lead Tech Fest [Vijnana](https://vijnana.web.app) at GCT.
 - Conducted Several Coding competitions.
 
 #### Networking:
 
-- Strong networking skills demonstrated through active participation in Developer communities, attending Hackathons, Competitions.
+- Proven networking abilities showcased through my active engagement in events like GTA CodeStorm, Tathava, ZeitGeist.
+- Attended and actively participated in workshops, competitions and other tech activities.
 
 #### As a Top 100 Member:
 
-- articipation in the Top 100 Coders competition presents a valuable opportunity to connect with like-minded individuals, fostering collaboration and knowledge exchange within the coding community.
+- Participation in the Top 100 Coders competition presents a valuable opportunity to connect with like-minded individuals, fostering collaboration and knowledge exchange within the coding community.
 - It serves as a platform to showcase my coding skills, potentially opening doors to career advancement and recognition in the field of programming.
 
 #### Career Plan:
 
-- In the immediate term, I plan to continue my studies from tier college.
+- In the immediate term, I intend to pursue my studies at a tier-one college..
 - In long term, My vision extends towards launching a groundbreaking startup, where I can channel my talents into the global market, leaving an indelible mark on the world.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala's tech-savvy population, supported by organizations like KKEM, forms a strong talent base.
 - The state's thriving startup ecosystem, with entities like Startup Mission, KSUM, and IEDC, positions Kerala for significant growth in the tech industry.
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
