@@ -1,55 +1,48 @@
-# Full Name 
-
-### About Me
-
-> write about your self .................. (minimum 200 Characters)
-
-
-### Portfolio Highlights
-
-
-#### Leadership and Influence: `required field` 
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking: `required field` 
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
-#### As a Top 100 Member: `required field` 
-
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
-
-#### Career Plan: `required field` 
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem: `required field` 
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-  #### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+# Anandha Krishnan S 
+  
+ ### About Me 
+  
+ > Hello! I'm Anandha Krishnan S , a third-year B.Tech Computer Science and Engineering student at Government Engineering College, Idukki. I am a self-taught web designer and developer, passionate about creating visually appealing and functional websites.With a strong foundation in HTML, CSS, and JavaScript. Through self-study, I have diligently followed free YouTube tutorials and utilized online documentation to enhance my knowledge and proficiency in these areas. 
+  
+  
+ ### Portfolio Highlights 
+ Anandhakryshnan.github.io
+ #### History of Open Source Contributions: 
+  
+ - I am still learning various tools and technologies so I have not been very active in contributions. 
+  
+ ##### History of Community Engagement: 
+  
+ - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge. 
+  
+ #### Competitive Website Profiles: 
+  
+ - I am also active on LinkedIn and Medium with various posts and activities. 
+  
+ - GitHub: https://github.com/anandhakryshnan/ 
+  
+ #### Leadership and Influence: 
+  
+ - Active member of IEDC GECI
+ - Volunteer of NSS Rudhirasena 
+  
+ #### Networking: 
+  
+ - I love sharing my experience and exchanging it each other for bonding experience. 
+ - Doing projects together and collaborating is an another opportunity to know eachother well and work as a team. 
+  
+ #### As a Top 100 Member: 
+  
+ - I'm interested in joining the Top 100 initiative to work alongside individuals who share my passion and make a meaningful contribution to Kerala's burgeoning startup ecosystem. 
+ - Believing that achieving a spot within the Top 100 will unlock new opportunities, stimulate innovation, and elevate my career. 
+  
+ #### Career Plan: 
+  
+ - In the short term, my plan involves mentoring junior developers and orchestrating workshops to nurture tech talent in Kerala. 
+ - In the foreseeable future, my goal is to establish a technology startup with a primary focus on developing sustainable solutions in the region of Kerala. 
+  
+  
+ #### Thoughts on Kerala's Tech Ecosystem: 
+  
+ - Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive. 
+ - The achievement of this vision will depend on collaboration between academia, government, and industry.
