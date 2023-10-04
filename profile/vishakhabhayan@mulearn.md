@@ -8,30 +8,6 @@
 
 ### Portfolio Highlights
 
-#### History of Open Source Contributions:
-
-- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by implementing feature Push Notification.
-- Actively maintain a popular open-source library for web development tools used by developers worldwide.
-
-#### History of Community Engagement:
-
-- Regularly answer technical questions on Stack Overflow, with a reputation score of 2k.
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
-
-#### Highly Visible Technical Content:
-
-- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
-
-#### Highly Used Software Tools:
-
-- Developed a web-based Task management tool called [TodoNow](https://github.com/vishakh-abhayan/TodoNow) used by 2000+ users.
-
-#### Competitive Website Profiles:
-
-- Active member on HackerRank with a 145k ranking in Data Structures.
-- Kaggle profile showcasing 3 completed data science projects.
-
 #### Leadership and Influence:
 
 - Led a team of 5 developers in delivering a complex drop-shiping platform ahead of schedule.
@@ -56,5 +32,30 @@
 
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
 - Collaboration between academia, government, and industry will be key to achieving this vision.
+
+#### History of Open Source Contributions:
+
+- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by implementing feature Push Notification.
+- Actively maintain a popular open-source library for web development tools used by developers worldwide.
+
+#### History of Community Engagement:
+
+- Regularly answer technical questions on Stack Overflow, with a reputation score of 2k.
+- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
+
+#### Highly Visible Technical Content:
+
+- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
+- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
+
+#### Highly Used Software Tools:
+
+- Developed a web-based Task management tool called [TodoNow](https://github.com/vishakh-abhayan/TodoNow) used by 2000+ users.
+
+#### Competitive Website Profiles:
+
+- Active member on HackerRank with a 145k ranking in Data Structures.
+- Kaggle profile showcasing 3 completed data science projects.
+
 
 ---
