@@ -41,6 +41,9 @@
 - Proven networking abilities showcased through my active engagement in events like GTA CodeStorm, Tathava, ZeitGeist.
 - Attended and actively participated in workshops, competitions and other tech activities.
 
+#### Highly Visible Technical Content:
+
+- [Significant LinkedIn profile views and post likes.](https://www.linkedin.com/in/aswanth-vc-2612b91b9/)  
 #### As a Top 100 Member:
 
 - Participation in the Top 100 Coders competition presents a valuable opportunity to connect with like-minded individuals, fostering collaboration and knowledge exchange within the coding community.
