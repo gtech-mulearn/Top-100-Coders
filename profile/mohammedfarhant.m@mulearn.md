@@ -42,4 +42,17 @@
 
 -  I am an active member in the MuLearn discord server with over 4k+ karma points.
 
+#### Highly Visible Technical Content:
+
+- My articles have not recieved recognition yet.
+
+#### Highly Used Software Tools:
+
+- Currently I havent developed such tools.
+
+#### Competitive Website Profiles:
+
+- https://www.hackerrank.com/mdfarhantm29?hr_r=1
+
+
 ---
