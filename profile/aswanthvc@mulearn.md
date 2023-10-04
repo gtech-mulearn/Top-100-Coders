@@ -2,15 +2,14 @@
 
 ### About Me
 
-> I'm a passionate BCA student with a profound love for coding. Self-taught and versatile, I excel in full-stack development, specializing in Android and Flutter app creation. My journey has been a personal one, honing my technical skills and problem-solving abilities. I'm eager to embrace new opportunities and turn innovative concepts into digital solutions. 
-
+> I'm a passionate BCA student with a profound love for coding. Self-taught and versatile, I excel in full-stack development, specializing in Android,Web and Flutter app creation. My journey has been a personal one, honing my technical skills and problem-solving abilities. I'm eager to embrace new opportunities and turn innovative concepts into digital solutions. 
 
 ### Portfolio Highlights
 
 
 #### History of Open Source Contributions:
 
-- I have shared several personal projects on my GitHub profile, including [AVC Manager](https://github.com/aswanthabam/Manager), [Cash Book](https://github.com/aswanthabam/CashBook), [Lets Share app](https://github.com/aswanthabam/LetsShare-1.0.0), [Database Manager](https://github.com/aswanthabam/DbManager), and [Niram](https://github.com/aswanthabam/Niram).
+- I have shared several personal projects on my GitHub profile, including [AVC Manager](https://github.com/aswanthabam/Manager), [Cash Book](https://github.com/aswanthabam/CashBook), [Lets Share app](https://github.com/aswanthabam/LetsShare), [Database Manager](https://github.com/aswanthabam/DbManager), and [Niram](https://github.com/aswanthabam/Niram).
 - While I haven't directly contributed to existing open-source projects, I have embraced the open-source philosophy by making my work accessible to the community. [Checkout My Github](https://github.com/aswanthabam)
 
 #### History of Community Engagement:
@@ -49,7 +48,7 @@
 
 #### Career Plan:
 
-- In the immediate term, I intend to pursue my studies at a tier-one college..
+- In the immediate term, I intend to pursue my studies at a tier-one college.
 - In long term, My vision extends towards launching a groundbreaking startup, where I can channel my talents into the global market, leaving an indelible mark on the world.
 
 #### Thoughts on Kerala's Tech Ecosystem:
