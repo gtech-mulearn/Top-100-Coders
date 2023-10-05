@@ -11,7 +11,8 @@ In summary, my journey through BTech in Computer Science and Engineering, my int
 
 #### History of Open Source Contributions:
 
-- PArticipated in HacktoberFest
+- Participated in HacktoberFest
+- Learned about open source tools as a part of foss club of our campus
 
 #### History of Community Engagement:
 
