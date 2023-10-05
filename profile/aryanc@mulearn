@@ -1,4 +1,4 @@
-# Arya C
+# Aryan C
 
 ### About Me
 
