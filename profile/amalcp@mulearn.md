@@ -1,4 +1,4 @@
-# Vishakh Abhayan (Full Stack Developer)
+# Amal C P (Frontend Developer)
 
 ### About Me
 
@@ -46,19 +46,19 @@
 
 #### Highly Visible Technical Content:
 
-- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
+- https://www.linkedin.com/in/amal-c-p/
 
 #### Highly Used Software Tools:
 
 - Developed a websites for several hackathons and events and for a government project as listed below.
 - https://www.unnathikerala.org/
-- 
+- https://gta.mulearn.org/
+- https://mulearn-campus-chapter.vercel.app/
 
 #### Competitive Website Profiles:
 
-- Active member on HackerRank with a 145k ranking in Data Structures.
-- Kaggle profile showcasing 3 completed data science projects.
+- Active member on HackerRank with a 250k ranking in python.
+
 
 
 ---
