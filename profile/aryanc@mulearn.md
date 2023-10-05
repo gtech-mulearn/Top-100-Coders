@@ -24,7 +24,21 @@ I am actively engaged in projects that aim to assist differently abled children 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has many a numerous, vibrant students which are been enlighted during last few years. There can be a exponential growth in Kerala's Tech Ecosystem.  
+- Kerala has many a numerous, vibrant students which are been enlighted during last few years. There can be a exponential growth in Kerala's Tech Ecosystem.
+
+#### History of Open Source Contributions
+
+- At present I have'nt contributed to any open source, but soon I will engage in contributions.
+
+#### History of Community Engagement:
+
+- Active member IEDC, it enhanced me to connect with technical communities in various other collages.
+- Also a execom meber of MuLearn in campus.
+- Member of ISTE, looking forward for oppurtinities.
+
+#### Highly Visible Technical Content:
+
+- Has'nt done any technical content.
 
 #### Competitive Website Profiles:
 
