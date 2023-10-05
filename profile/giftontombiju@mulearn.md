@@ -29,7 +29,7 @@
 - I'm applying for the Top 100 because it's a unique opportunity to connect with the best in my field, stay updated with industry trends, and expand my network.
 - Being part of this community will boost my career by opening doors to collaborations, learning, and potential job opportunities.
 
-#### Career Plan: `required field` 
+#### Career Plan: 
 
 ##### Immediate Plans:
 
