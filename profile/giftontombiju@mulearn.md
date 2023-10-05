@@ -2,25 +2,23 @@
 
 ### About Me
 
-> #### Experienced Flutter Developer 
-> 📱 As a skilled Flutter developer with 1 year of hands-on expertise, I'm dedicated to turning your mobile app vision into a reality. 🚀 Specializing in creating top-notch, user-friendly applications for both Android and iOS platforms using the versatile Flutter framework. Let's collaborate and bring your app dreams to life! 💡 #FlutterDev #MobileApps #Freelancer"
+> #### Professional Flutter Developer 
+> I'm a dedicated Flutter developer with 1.5 years of experience in creating high-quality, user-friendly mobile applications for Android and iOS. My expertise includes UI design, Firebase integration, Bloc for state management, and more. I've had the privilege of working on diverse projects, from e-commerce to healthcare apps. Let's collaborate to turn your app ideas into reality and deliver exceptional mobile experiences! 📱💼 #FlutterDev #MobileApps
 
-Feel free to adjust it to your liking and include any additional details that showcase your skills and accomplishments.
 
 ### Portfolio Highlights
 
 
 #### Leadership and Influence: `required field` 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I've demonstrated leadership in my domain as a Flutter developer through proactive UI design improvements during my internship at Edapt. I've also influenced project decisions, such as integrating blockchain technology for enhanced security in the Deonex E-commerce app. Additionally, I've provided expert guidance to clients in UI design and app development choices, showcasing my influence in the field.
 
-#### Networking: `required field` 
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
+#### Networking: 
+- I'll engage with the Top 100 community through active participation, sharing my knowledge, and collaborating on projects. By offering mentorship, attending events, and striving to be a thought leader, I aim to influence and lead others in the field of Flutter development.
+- 
 #### As a Top 100 Member: `required field` 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I'm applying for the Top 100 because it's a unique opportunity to connect with the best in my field, stay updated with industry trends, and expand my network. Being part of this community will boost my career by opening doors to collaborations, learning, and potential job opportunities.
 
 #### Career Plan: `required field` 
 
