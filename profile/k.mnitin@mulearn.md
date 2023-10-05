@@ -12,7 +12,7 @@ K.M  Nitin (Front End Developer)
 
 - Led a team of 3 members to create a visualizer which helps stundents understand algorithms much better
 
-#### Networking: `required field` 
+#### Networking:
 
 - Strong networking skills demonstrated by my active participation in various tech conferences organized by FOSS and various other organisations.
 
