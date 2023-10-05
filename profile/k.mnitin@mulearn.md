@@ -8,7 +8,7 @@ K.M  Nitin (Front End Developer)
 ### Portfolio Highlights
 
 
-#### Leadership and Influence: `required field` 
+#### Leadership and Influence: 
 
 - Led a team of 3 members to create a visualizer which helps stundents understand algorithms much better
 
@@ -16,17 +16,17 @@ K.M  Nitin (Front End Developer)
 
 - Strong networking skills demonstrated by my active participation in various tech conferences organized by FOSS and various other organisations.
 
-#### As a Top 100 Member: `required field` 
+#### As a Top 100 Member:
 
 - Applying for Top 100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
 - Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and enhance my career.
 
-#### Career Plan: `required field` 
+#### Career Plan:  
 
 - Currently I just aim on becoming the lead of my local GDSC with the dream to inspire and teach my juniors and share my experiences.
 - In the long run I wish to work for one of the FAANG companies.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field` 
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala can excel in the technology startup ecosystem for the future by fostering innovation through strong government support, educational initiatives, and collaborative industry partnerships, while also promoting a culture of entrepreneurship and providing access to funding and infrastructure.
 
