@@ -14,23 +14,23 @@ Looking ahead, I am excited about the endless possibilities in the world of comp
 ### Portfolio Highlights
 
 
-#### Leadership and Influence: `required field` 
+#### Leadership and Influence:
 
 - I have a history of leadership and influence in various tech-related organizations. I served as the Woman in Tech Lead of Tinkerhub JEC, held the position of Chief Technical Officer at IEDC, and played a vital role in the Community Development teams of both IEDC JEC and NEST 2023. These experiences have allowed me to lead and inspire others in my domain.
 
-#### Networking: `required field` 
+#### Networking:
 
 - I am an active participant in hackathons and conferences, where I have had the opportunity to connect with many remarkable individuals in the tech industry. My networking skills enable me to build valuable relationships and collaborations within the community.
 
-#### As a Top 100 Member: `required field` 
+#### As a Top 100 Member:
 
 - I am applying for the Top 100 to further enhance my career in the tech industry. Being part of this community will provide me with the opportunity to learn from and collaborate with like-minded professionals, enabling me to contribute even more effectively to the Kerala Startup Ecosystem.
 
-#### Career Plan: `required field` 
+#### Career Plan: 
 
 - My immediate plan is to continue working with Mulearn to contribute to building a better ecosystem. In the long term, I aim to become a tech leader who fosters innovation and growth within the Kerala Startup Ecosystem. I envision a future where Kerala excels in the Technology Startup Ecosystem through strong community collaboration and support.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field` 
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has immense potential in the Technology Startup Ecosystem. To excel, it needs to focus on nurturing talent through education, fostering innovation through support systems, and promoting collaboration among startups. Building a vibrant tech community and encouraging investment in technology-driven ventures will be key to Kerala's success in this field.
 
