@@ -7,11 +7,11 @@ I am actively engaged in projects that aim to assist differently abled children 
 
 #### Leadership and Influence:
 
-- Currently holding position as Technical Lead in IEDC, has organized and conducted many events like IoT Bootcamps and various other.
+- Currently holding position as Technical Lead in IEDC, has organized and conducted many events like IoT Bootcamps and various other. Currently working on evening culture which promotes technical knowledge and innovation in the campus.
 
 #### Networking: 
 
--Bieng a part of IEDC, I had connecred with various other collages execoms which promoted my experience level.
+- Bieng a part of IEDC, I had connecred with various other collages execoms which promoted my experience level.
 
 #### As a Top 100 Member:
 
