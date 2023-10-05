@@ -3,11 +3,8 @@
 ### About Me
 
 > I am a passionate and dedicated individual currently pursuing a Bachelor of Technology (BTech) degree in Computer Science and Engineering. My journey through this field has ignited my curiosity and fueled my desire to explore the limitless possibilities it offers. With a strong foundation in programming, algorithms, and various facets of computer science, I am eager to apply my knowledge in real-world scenarios.
-
 Recently, I had the privilege of interning with Mulearn as part of their Operations team. This experience allowed me to dive deep into the inner workings of a tech company. It provided valuable insights into project management, quality assurance, and effective teamwork. I learned how to streamline processes, optimize resources, and ensure seamless operations, which I believe will be invaluable in my future career.
-
 Beyond academics and my internship, I am an active member of the Community Development team at NEST 2023. This role has given me the opportunity to engage with my community and make a positive impact through various initiatives. Whether it's organizing events, conducting workshops, or fostering partnerships, I am committed to using technology to address pressing societal issues.
-
 Looking ahead, I am excited about the endless possibilities in the world of computer science and engineering. My goal is to leverage my academic knowledge, internship experience, and community involvement to make a meaningful difference in the tech industry and beyond. I aspire to continue learning, innovating, and collaborating with others to create a brighter future for all.
 
 
