@@ -8,19 +8,19 @@
 ### Portfolio Highlights
 
 
-#### Leadership and Influence: `required field` 
+#### Leadership and Influence:
 
 - In the tech domain, leadership isn't just about giving orders; it's about inspiring others to push boundaries. I've led a dynamic team of developers at the District Tourism Promotion Council, where we're creating a mobile app that's turning tourism into an adventure. Through UX case studies and agile methodologies, I'm steering the ship towards a user-centric paradise.
 
-#### Networking: `required field` 
+#### Networking: 
 
 - I'm not just a techie; I'm a people person too! As a Flutter IG State Facilitator, I've hosted weekly gatherings where we brainstorm and innovate. I don't just connect; I create synergies that move mountains. Imagine coordinating a 15-member team across 26 committees for a grand Onam Celebration - that's networking on steroids. I'm all about making waves in the tech community, one connection at a time. My secret sauce? Building bridges, forging connections, and sparking collaborations that ignite my comfort space. As a Top 100 coder, I plan to sprinkle my networking magic, bringing like-minded techies together. Imagine a galaxy of tech enthusiasts orbiting around a shared vision - that's what I bring to the table.
 
-#### As a Top 100 Member: `required field` 
+#### As a Top 100 Member:
 
 - Why am I applying for the Top 100? Well, it's simple. I see it as the VIP pass to the future. Also, because I'm ready to level up! Being in the Top 100 is like adding rocket fuel to my career. It's the launchpad for new opportunities, collaborations, and the chance to contribute to the ever-growing Startup Ecosystem. 
 
-#### Career Plan: `required field` 
+#### Career Plan: 
 
 - My plan? It's a mix of tech expertise, entrepreneurial drive, mentorship, and a vision for Kerala's technology startup ecosystem. The big picture: I aim to launch a groundbreaking hardware-software fusion as a visionary entrepreneur.
 
@@ -32,7 +32,7 @@
 
 - Picture this: I'm more than an entrepreneur; I'm an innovator, a leader, a mentor, and a contributor to Kerala's tech evolution. Brace yourself for a future where tech and education merge, guided by my expertise in engineering and a commitment to nurturing Kerala's tech ecosystem. 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field` 
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala's tech future is brimming with possibilities. To excel, we need to nurture talent from grassroots, invest in cutting-edge technology, and create an environment that fosters innovation. With the right mix of talent and resources, Kerala can be the Silicon Valley of the East.
 
