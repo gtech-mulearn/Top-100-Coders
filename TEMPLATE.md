@@ -1,55 +1,59 @@
-# Full Name 
+# Agnivesh P. S.
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> Myself Agnivesh Priyadarsanan. A B.Tech student from Thiruvananthapuram's Mar Baselios College of Engineering & Technology (Autonomous), Nalanchira. I got my school done at The School of the Good Shepherd. Mainly, I like to design stuff, especially posters, logos and related content. I am also a tech and cricket fanatic.
 
 ### Portfolio Highlights
 
 
 #### Leadership and Influence: `required field` 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Founder of Dynasty Establishments
+- Project Head of 2022 SGS Tech Expo
+- Co-ordinator of Athleta 2022
+- Winner of the Young Designer Award of 2023
+
 
 #### Networking: `required field` 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I just want to make the world of coding easier than it appears today. More simple functions and keywords replacing traditional long-written codes will be the main step ahead for changing the big confusing sector of coding.
 
 #### As a Top 100 Member: `required field` 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- As a Top 100 Member, I will try to utilize the maximum of the resources and will use them to make things easier and more efficient.
 
 #### Career Plan: `required field` 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I basically love to be a Software Engineer or a Designer for some reputed company, so that I will be efficient as well as happy with my passion as the job.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field` 
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Bringing in more IT options and career roads can make Kerala one of the best Tech regions in the entire world. More and more updated tech would help in Kerala's Tech side growth.
 
   #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I did not share any codes until now and I was a school student. But as a college student, it would be a pleasure to shout out my skills here in Github.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  I was a former Server manager to many multiple subject servers during the past 4 years.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- I have my own design centre, named 'Dynasty Establishments' and here is a link where my small tech-world is listed: https://dynastyverse.carrd.co/
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Canva, Topaz, kinemaster, Python, C++, MySQL
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- I currently don't have accounts over there.
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>> check out agniveshp.s.@mulearn
+>> check out [agniveshp.s.@mulearn.md](./profile/agniveshp.s.@mulearn.md)
 
 ---
