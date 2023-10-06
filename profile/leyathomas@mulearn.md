@@ -15,9 +15,6 @@ As an intern with Gtech mulearn, I am resolute in my commitment to delivering ex
 -  volunteered in IEEE Xtreme at prelevel competition held at college  
 
 
-#### Highly Visible Technical Content:
-
-
 
 #### Highly Used Software Tools:
 
@@ -36,11 +33,11 @@ As an intern with Gtech mulearn, I am resolute in my commitment to delivering ex
 #### Networking:
 
 - I look forward to connecting with fellow participants who share similar interests and goals during this challenge. Networking and collaborating with like-minded individuals can lead to valuable connections and opportunities for personal and professional growth
-- 
+  
 #### As a Top 100 Member:
 
 - During this challenge, I hope to delve deep into my abilities and talents to uncover my true potential.
-- 
+  
 #### Career Plan:
 
 - I would like improve skils in full stak development.
