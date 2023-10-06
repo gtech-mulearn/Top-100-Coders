@@ -42,7 +42,7 @@ Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Code
 
 #### 📄 Name Your File!
 
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
+Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on how to get the MUID). It's like your digital signature!
 
 #### ✍️ Fill It Out!
 
