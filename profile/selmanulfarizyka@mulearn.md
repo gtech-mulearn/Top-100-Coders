@@ -9,26 +9,26 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - TinkerHub Campus Tech lead.
 - Co-founder of Tzet It Solutions.pvt.ltd
 
-#### Networking: `required field`
+#### Networking: 
 
 - Attended Gta Hack Conducted by Gtech mulearn.
 - One of the organizer of Hack23, Conducted by KMEA Engineering college.
 - Attended Campus Leadership Summit 2023, by TinkerHub.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - I am interested in this, becouse i can learn more, will get connections, etc.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - Want to become more stronger in Tech industry by learning more coding skills.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala can promote students from school level itself, so that students can develope their skills
 
