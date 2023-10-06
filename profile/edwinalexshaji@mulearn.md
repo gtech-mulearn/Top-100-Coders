@@ -7,11 +7,6 @@
 
 ### Portfolio Highlights
 
-
-#### History of Open Source Contributions:
-
-- I am still learning various tools and technologies so I have not been very active in contributions.
-
 #### History of Community Engagement:
 
 -  Active participant in the Gtech Mulearn where I help newcomers and share my knowledge.
@@ -46,11 +41,11 @@
 
 #### As a Top 100 Member:
 
-- While on this challenge i would like to find my true potential and find and learn new skills.
+- While on this challenge i would like to find my true potential.
 
 #### Career Plan:
 
-- I would like to learn new skills like full stak development. Get a well paid job. Then after a while i would like to start my own company. 
+- I would like improve skils in full stak development. Get a well paid job. Then after a while i would like to start my own company. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
