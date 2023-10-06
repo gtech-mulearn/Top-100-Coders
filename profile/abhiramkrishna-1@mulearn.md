@@ -1,7 +1,7 @@
 # Abhiram Krishna
 
 ### About Me
-> I'm a Full Stack Developer with a love for tech and problem-solving. I've built various web applications, from simple websites to more complex systems and tools. I enjoy learning and adapt well to new tech trends. I like finding efficient solutions to tricky problems. I work well in teams and communicate effectively. In the future, I'm excited to explore more into big data systems and maybe even dive into low-level programming.
+I'm a Full Stack Developer with a love for tech and problem-solving. I've built various web applications, from simple websites to more complex systems and tools. I enjoy learning and adapt well to new tech trends. I like finding efficient solutions to tricky problems. I work well in teams and communicate effectively. In the future, I'm excited to explore more into big data systems and maybe even dive into low-level programming.
 
 
 ### Portfolio Highlights
@@ -42,8 +42,6 @@ I am very much excited about Kerala's tech ecosystem. I have been seeing a treme
 - Participated in many conferences virtually
 
 
+<br>
 
->> check out [github.com/abhikrishnaram](https://github.com/abhikrishnaram)
-
----
-
+Check out [github.com/abhikrishnaram](https://github.com/abhikrishnaram)
