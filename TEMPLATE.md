@@ -14,6 +14,7 @@ I am still learning various tools and technologies so I have not been very activ
 
 #### Competitive Website Profiles:
 - Attended multiple hackathons
+- Attended a Figma design competition.
 - Started solved problems in hackerrank.
 - GitHub: https://github.com/pavan-sree
 - Mulearn:pavansreekumar@mulearn
