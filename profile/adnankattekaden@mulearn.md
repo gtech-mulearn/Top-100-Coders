@@ -50,13 +50,14 @@ Overall, I've learned a lot through my self-taught journey and have enjoyed ever
 
 #### Highly Visible Technical Content:
 
-- Authored a technical blog post on [Medium]([https://linkedin.com/vishakh-abhayan](https://medium.com/dev-genius/django-rest-framework-crud-guide-e0e1ce1ee766)).
-- Created a Podcast About InideDev and Coding [Code Build Launch Malayalam Podcast]([https://open.spotify.com/episode/0MW9zgVUWsfiqlEgC5XBGM?si=eb73140a742542d8)).
+- Authored a technical blog post on [Django REST framework (CRUD Guide)](https://medium.com/dev-genius/django-rest-framework-crud-guide-e0e1ce1ee766) & [My Experience with Inserting UUIDs into a Database Using IDfy](https://blog.devgenius.io/my-experience-with-inserting-uuids-into-a-database-using-idfy-c8a2924c95ec).
+- Created a Podcast About InideDev and Coding [Code Build Launch Malayalam Podcast](https://open.spotify.com/show/72xbcXTLWL3WqeJyFqyhm7?si=d1e23841522946e1).
 
 #### Highly Used Software Tools:
-- [Mulearn]([[https://linkedin.com/vishakh-abhayan](https://app.mulearn.org/)
-- [Idfy]([[https://linkedin.com/vishakh-abhayan](https://idfy.buildnship.in/)
-- [MailMan]([[https://linkedin.com/vishakh-abhayan](https://mailman.buildnship.in/)
+- [Mulearn Dashboard](https://app.mulearn.org).
+- [MailMan](https://mailman.buildnship.in/) A user-friendly platform that simplifies sending bulk emails with attachments while providing comprehensive reporting.
+- [IDfy](https://idfy.buildnship.in/) IDfy is a simple and easy tool that generates unique ID for your app.
+
 
 #### Competitive Website Profiles:
 
