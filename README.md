@@ -1,5 +1,7 @@
 <div aling='center'>
-<img width="1080" alt="im" src="./docs/assets/Top 100.jpg">
+  
+![Top 100](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/d5b1180e-f3e3-4e8b-aed8-77c64300dc87)
+
 </div>
 
 <div align="center">
@@ -114,5 +116,5 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 ---
 
 <div aling='center'>
-<img width="1080" alt="im" src="./docs/assets/footer.jpeg">
+
 </div>
