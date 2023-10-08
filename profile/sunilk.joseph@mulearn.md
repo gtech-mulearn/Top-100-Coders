@@ -8,23 +8,23 @@ I am Sunil K. Joseph, an experienced educator with over 18 years in the field of
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - I am a leader and influencer in my domain through my extensive experience as a dedicated faculty member in the Department of Computer Science, with over 18 years of service. My leadership is evident in my role as the IQAC coordinator, where I successfully led our institution through its initial NAAC accreditation cycle, achieving an 'A' grade. I also actively mentor students in various technology domains, participate in open-source collaborations, and advocate for technology education. These actions demonstrate my ability to inspire and guide both students and peers, foster innovation, and contribute positively to the fields of computer science and education.
 
-#### Networking: `required field`
+#### Networking: 
 
 - My networking skills are well-honed, grounded in building strong relationships with colleagues, students, and professionals within the technology and education sectors. To engage with the Top 100 community, I plan to actively participate in events, share knowledge, and offer mentorship. My aim is to influence by advocating for educational excellence, fostering collaboration, and recognizing achievements within the community.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - I am applying for the Kerala Top 100 Coders event because it offers a valuable opportunity to align my passion for computer science education and mentorship with Kerala's burgeoning startup ecosystem. As a seasoned faculty member in the field of computer science, I see this as a chance to directly engage with the brightest coding talents in Kerala, potentially identifying and guiding students with exceptional potential. Being part of the Top 100 would not only expand my professional network but also enrich my ability to provide valuable insights to my students. Furthermore, this opportunity opens doors for collaboration, mentorship, and contributions to innovation, enhancing my personal and professional growth while enabling me to make a significant impact on the local tech community.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - I plan to actively engage with budding tech entrepreneurs and startups in Kerala by providing mentorship, sharing insights, and facilitating connections. I aim to foster an environment of innovation and knowledge exchange by organizing workshops, seminars, and collaborative initiatives. In the longer term, my vision is to play a pivotal role in establishing stronger ties between educational institutions and the startup ecosystem, promoting research-driven innovation, and advocating for policies that support entrepreneurship.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala can excel in the Technology Startup Ecosystem by embracing a holistic approach that combines education, innovation, and collaboration. By fostering strong ties between educational institutions and startups, promoting research-driven innovation, and investing in technology education, Kerala can cultivate a talent pool equipped with cutting-edge skills. Encouraging public-private partnerships, providing access to funding, and creating a supportive regulatory environment will further stimulate entrepreneurial growth. Embracing emerging technologies and emphasizing sustainability and social impact initiatives will position Kerala as a global tech startup hub, driving innovation, economic growth, and social development for the future.
 
