@@ -38,7 +38,7 @@
 #### History of Community Engagement:
 
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community).
-- Participated in Testing of website of NITI AYYOG's Woman Entrepreneurship platform  <a href="wep.gov.in ">WEP</> conducted by TinkerHub.
+- Participated in Testing of website of NITI AYYOG's Woman Entrepreneurship platform  <a href="wep.gov.in ">WEP</a> conducted by TinkerHub.
 - Active participant of IEEE, Workshop, Competions etc.SRE mentorship is one the real world experience provider and they are from leading Industries.
 
 ### Highly Visible Technical Content:
