@@ -26,6 +26,9 @@
 - The state should invest more in skill development, establish innovation hubs, simplify regulatory procedures, provide incentives for startups, and encourage a culture of entrepreneurship.
 - By doing so, Kerala can attract talent, investments, and create a vibrant tech ecosystem for the future.
 
+#### History of Community Engagement:
+- I have actively engaged with the technical community by answering questions on platforms like Stack Overflow, participating in mailing lists, and contributing to Discord servers dedicated to tech discussions. I believe in the power of community support and knowledge sharing.
+
 #### Highly Used Software Tools:
 - Neovim (nvim)
 - Arch Linux
