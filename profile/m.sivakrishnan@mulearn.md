@@ -10,7 +10,7 @@ Currently Pursuing B.Tech in Computer Science and Engineering at SNGCE. I love l
 
 #### Leadership and Influence: 
 
-I am currently serving as NSS CSE Head and Microsoft Learn Ambassador.
+I am currently serving as NSS CSE Head,Microsoft Learn Ambassador and Student Union Member.
 
 #### Networking: 
 
