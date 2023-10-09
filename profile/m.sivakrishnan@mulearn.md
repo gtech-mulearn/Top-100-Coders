@@ -22,7 +22,7 @@ My current focus is to engage in every coding-related sector in order to find a 
 
 #### Career Plan: 
 
-My intermediate plane is Study,Study and Study.I want gather as much information as possible which in turn help me to create a product which can help for betterment of society.Which ironically,is my long term plan also.
+My intermediate plane is Study every aspect of the sector.I want gather as much information as possible which in turn help me to create a product which can help for betterment of society.Which ironically,is my long term plan also.
 
 #### Thoughts on Kerala's Tech Ecosystem: 
 
