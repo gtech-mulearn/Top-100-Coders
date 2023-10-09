@@ -34,7 +34,7 @@ I have done more than 8+ open projects which is availiable in my github.Please d
 
 #### History of Community Engagement:
 
-Quora blogger
+Quora blogger , Gtech-Mulearn Discord , Kerala Blockchain Academy Discord
 
 > In your portfolio, include the following details:
 >> check out [m.sivakrishnan@mulearn](./profile/m.sivakrishnan@mulearn) 
