@@ -11,7 +11,7 @@
 #### Leadership and Influence: 
 
 -  Mulearn Campus Web Lead @ CEV
--  Active participant in the GTech Mulearn Current rank #208
+-  Active participant in GTech Mulearn Current rank #168
 
 #### Networking: 
 
@@ -28,7 +28,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem: 
 
-- Currently, it's for all tech enthusiasts in Kerala to build a career in the Technology field.
+- Currently, all tech enthusiasts in Kerala to build a career in Technology field.
 
 #### Competitive Website Profiles:
 
