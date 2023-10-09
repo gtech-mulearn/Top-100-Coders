@@ -1,8 +1,7 @@
-# Full Name 
+# M Sivakrishnan
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+Currently Pursuing B.Tech in Computer Science and Engineering at SNGCE. I love learning about technology and exploring its branches. My dream is to secure Cybersecurity Analyst Position and help society to create a more secure environment for all levels of the public.
 
 
 ### Portfolio Highlights
