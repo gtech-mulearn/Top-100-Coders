@@ -37,7 +37,7 @@ I have done more than 8+ open projects which is availiable in my github.Please d
 Quora blogger
 
 > In your portfolio, include the following details:
->> check out [m.sivakrishnan@mulearn](./profile/m.sivakrishnan@mulearn) /n
+>> check out [m.sivakrishnan@mulearn](./profile/m.sivakrishnan@mulearn) \n
 >> check out [Linkdin](https://www.linkedin.com/in/m-sivakrishnan/) 
 ---
 
