@@ -1,7 +1,7 @@
 # M Sivakrishnan
 
 ### About Me
-I am currently a fourth year student in B.Tech Computer Science. My journey has always been for my unquenched thirst for knowledge. I have a foundation in coding Blockchain,Javascript and Postman Api. Furthermore, my interest in cybersecurity has enabled me to learn about various concepts in networks, linux etc and how to manipulate and navigate my way through various vulnerabilities. I am actively engaged in projects and help my fellow peers in their projects.
+I am currently a fourth year student in B.Tech Computer Science at SNGCE. My journey has always been for my unquenched thirst for knowledge. I have a foundation in coding Blockchain,Javascript and Postman Api. Furthermore, my interest in cybersecurity has enabled me to learn about various concepts in networks, linux etc and how to manipulate and navigate my way through various vulnerabilities. I am actively engaged in projects and help my fellow peers in their projects.
 
 
 ### Portfolio Highlights
