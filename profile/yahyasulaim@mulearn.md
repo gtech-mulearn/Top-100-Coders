@@ -13,7 +13,7 @@
 
 #### History of Community Engagement:
 
-- Active participant in the Gtech Mulearn where I help newcomers and share my knowledge.
+- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
 
 #### Competitive Website Profiles:
 - LinkedIn: https://www.linkedin.com/in/yahyasulaim
