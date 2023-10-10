@@ -38,7 +38,6 @@
 
 - Continue to enhance my knowledge in software development while exploring new domains and technologies that align with my interests.
 - Improve my skills and ensure peer learning among students.
--
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
