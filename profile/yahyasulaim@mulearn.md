@@ -7,6 +7,17 @@
 
 ### Portfolio Highlights
 
+#### History of Open Source Contributions:
+
+- I am still learning various tools and technologies so I have not been very active in contributions.
+
+#### History of Community Engagement:
+
+- Active participant in the Gtech Mulearn where I help newcomers and share my knowledge.
+
+#### Competitive Website Profiles:
+- LinkedIn: https://www.linkedin.com/in/yahyasulaim
+- GitHub: https://github.com/YahyaSulaim
 
 
 #### Leadership and Influence: 
@@ -33,18 +44,6 @@
 
 - Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive.
 - The achievement of this vision will depend on collaboration between academia, government, and industry.
-
-#### History of Open Source Contributions:
-
-- I am still learning various tools and technologies so I have not been very active in contributions.
-
-#### History of Community Engagement:
-
-- Active participant in the Gtech Mulearn where I help newcomers and share my knowledge.
-
-#### Competitive Website Profiles:
-- LinkedIn: https://www.linkedin.com/in/yahyasulaim
-- GitHub: https://github.com/YahyaSulaim
 
 ---
 
