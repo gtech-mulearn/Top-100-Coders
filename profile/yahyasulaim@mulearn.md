@@ -30,11 +30,11 @@
 - I love helping people and learning from them.
 - Doing projects together and collaborating is an opportunity to know eachother well and work as a team.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
 - I believe as a Top 100 member I will be able to interact and work with talented developers. I can contribute to a lot of projects and boost my career
 
-#### Career Plan: `required field`
+#### Career Plan:
 
 - Continue to enhance my knowledge in software development while exploring new domains and technologies that align with my interests.
 - Improve my skills and ensure peer learning among students.
