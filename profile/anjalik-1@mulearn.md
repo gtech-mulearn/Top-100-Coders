@@ -1,7 +1,7 @@
 
 # Anjali K (Backend Developer) 
 
-### About Me
+### About Me 
 
 > I am a dedicated Python Django developer with over 2 years of professional experience. My passion lies in building robust web applications and contributing to the success of the projects I work on within my company. While I may not have extensive open-source project experience, my commitment to excellence and my ability to work on multiple projects simultaneously have allowed me to thrive in a professional setting.
 
