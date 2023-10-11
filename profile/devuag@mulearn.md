@@ -1,5 +1,4 @@
-# Full Name 
-Devu A G
+# Devu A G
 ### About Me
 
 Hello, I'm Devu A G, a third-year B.Tech Computer Science and Engineering student at St. Thomas Institute for Science and Technology, Trivandrum. As a driven and curious student, I am on a relentless quest to explore the fascinating realms of Artificial Intelligence, Machine Learning, and Robotics. Armed with coding proficiency in Python and C programming, I find myself on the precipice of an exhilarating journey into the world of technology.
