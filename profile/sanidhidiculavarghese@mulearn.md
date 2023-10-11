@@ -2,30 +2,30 @@
 
 ### About Me
 
-> Hi, I am a web & mobile developer from MBCET, Trivandrum with experience in basic HTML/CSS, Flutter, Python, C & SQL. I participated in a some hackathons & other competitions from 3rd year onwards & won a few. I just of basics of the main languages & have done some basic web & app layouts & ML development. Currently working as an intern on Enterprise Data Management at Nissan Digital India at Technopar, trivandrum.
+> Hi, I am a web & mobile developer from MBCET, Trivandrum with experience in basic HTML/CSS, Flutter, Python, C & SQL. I participated in a some hackathons & other competitions from 3rd year onwards & won a few. I just of basics of the main languages & have done some basic web & app layouts & ML development. Currently working as an intern on Enterprise Data Management at Nissan Digital India at Technopark, Trivandrum.
 
 
 ### Portfolio Highlights
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: ``
 
-- Worked in a few team as part of some hackathons & ideathons & won some of them.
+- Worked in a few team as part of some hackathons & ideathons and won some of them. Good in working with a team & doing projects.
 
-#### Networking: `required field`
+#### Networking: ``
 
 - I am interested in meeting new people & working with them in events or competitions.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: ``
 
 - I want to learn more & compete with others & expand my network.
 
-#### Career Plan: `required field`
+#### Career Plan: ``
 
 - More connections & interactions with industry experts to learn more & to better enter the workforce & get good jobs. Also, improve my knowledge of technologies at the same time.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: ``
 
 - Kerala has a very good tech ecosystem now but it should work a bit more towards connecting with schools & colleges to better integrate them into the industry if they are interested.
 
