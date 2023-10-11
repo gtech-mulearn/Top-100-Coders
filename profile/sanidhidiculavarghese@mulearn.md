@@ -9,23 +9,23 @@
 
 
 
-#### Leadership and Influence: ``
+#### Leadership and Influence: `req`
 
 - Worked in a few team as part of some hackathons & ideathons and won some of them. Good in working with a team & doing projects.
 
-#### Networking: ``
+#### Networking: `req`
 
 - I am interested in meeting new people & working with them in events or competitions.
 
-#### As a Top 100 Member: ``
+#### As a Top 100 Member: `req`
 
 - I want to learn more & compete with others & expand my network.
 
-#### Career Plan: ``
+#### Career Plan: `req`
 
 - More connections & interactions with industry experts to learn more & to better enter the workforce & get good jobs. Also, improve my knowledge of technologies at the same time.
 
-#### Thoughts on Kerala's Tech Ecosystem: ``
+#### Thoughts on Kerala's Tech Ecosystem: `req`
 
 - Kerala has a very good tech ecosystem now but it should work a bit more towards connecting with schools & colleges to better integrate them into the industry if they are interested.
 
@@ -47,7 +47,7 @@
 
 #### Competitive Website Profiles:
 
-- Not active on Exercism or Kaggle but participate in some competitions on HackerEarth & Unstop.
+- Not active on Exercism or Kaggle but participate in some competitions on HackerEarth & [Unstop](https://unstop.com/u/_chris_p).
 
   
 
