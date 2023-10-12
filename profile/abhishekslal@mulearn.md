@@ -63,8 +63,3 @@
     
 - Tinkerhub Quiz Bot, is actively used and embraced within Telegram groups, where it serves as a dynamic quiz platform.
 - The Campuzon App is another widely used software designed to provide valuable resources to engineering students. 
-
-#### Social Media Profiles:
-
-- [LinkedIn]: https://www.linkedin.com/in/abhishekslal
-- [Medium]: https://medium.com/@abhishekslal
