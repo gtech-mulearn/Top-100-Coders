@@ -62,4 +62,10 @@
 #### Highly Used Software Tools:
     
 - Tinkerhub Quiz Bot, is actively used and embraced within Telegram groups, where it serves as a dynamic quiz platform.
-- The Campuzon App is another widely used software designed to provide valuable resources to engineering students. 
+- The Campuzon App is another widely used software designed to provide valuable resources to engineering students.
+
+#### Competitive Website Profiles:
+
+- [HackerRank](https://www.hackerrank.com/abhishekslal)
+- [GitHub](https://github.com/Abhishek-S-Lal)
+- [LinkedIn](https://www.linkedin.com/in/abhishekslal)
