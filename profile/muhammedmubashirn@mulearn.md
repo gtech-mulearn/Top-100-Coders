@@ -9,23 +9,23 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
-#### Networking: `required field`
+#### Networking: 
 
 - Strong networking skills demonstrated by my active participation in various tech conferences FOSS, Google Developers Meet and various other organisations.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - The primary objective of attending Top100 is to get the advantage of community in my career. This community consist of noob to god level programmers, So I can get advice, code debugging, career advices and career opportunities etc and vice versa
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - In the short term, I aim to further enhance my technical skills and take on challenging projects. Long-term, I aspire to contribute to the growth of the technology sector, possibly through entrepreneurship or leadership roles.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala boasts a strong and enthusiastic tech community, making it ripe for becoming a tech innovation leader. To unlock its full potential, it's essential to enhance the skills and knowledge of the existing workforce. The key lies in fostering collaboration among businesses, government entities, and tech-minded students seeking career opportunities. Together, they can fuel the growth of the region's tech ecosystem, nurturing fresh, inventive, and game-changing ideas
 
