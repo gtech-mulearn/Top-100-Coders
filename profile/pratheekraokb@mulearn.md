@@ -5,7 +5,7 @@
 I'm Pratheek Rao K B, a third-year CSE student at LBS College of Engineering in Kerala. My passion lies in full-stack web development, and I've undertaken various projects, with a current focus on an E-Commerce web application. Additionally, I'm enthusiastic about machine learning, from model creation to practical implementations in real-life situations. My goal is to blend these skills and knowledge to create innovative solutions for everyday challenges.
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 I meet the requirements for being a leader and influencer in my domain through various roles and experiences:
 
@@ -19,7 +19,7 @@ I meet the requirements for being a leader and influencer in my domain through v
 
 5. Teranis Website Development: My involvement in the development of the Teranis website for the college techfest reflects my hands-on technical skills and the ability to influence the online presence and branding of an organization.
 
-#### Networking: `required field`
+#### Networking:
 
 My networking skills have been developed through various experiences, and I plan to leverage them to engage with the Top 100 community effectively:
 
