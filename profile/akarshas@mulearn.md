@@ -12,7 +12,7 @@ Moreover, I am a passionate enthusiast of Innovation and technology which led me
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - Founded an intiative called **InsightLabs** that helps students with their btech academic project. Completed 39 projects for almost 150+ students all over kerala.
 - Led a team in developing a website for the flagship event of Computer Society of India, SCT SB called **BEMAP**
@@ -20,14 +20,14 @@ Moreover, I am a passionate enthusiast of Innovation and technology which led me
 - Worked as Vice Chairman of Computer Society of India, SCT SB. 
 - Worked as Secretary, IEEE CS SCT SB.
 
-#### Networking: `required field`
+#### Networking:
 
 - I see this as a good opportunity to expand my network of like-minded individuals.
 - I would like to collabrote with other members to various project and work with them and gain knowledge.
 - I had attended and volunteered many events conducted by IEEE, GDSC, CSI, GDG etc.
 - I have been Travancore Hub student representative which helped me connect with many brilliant minds across Kerala
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - I could meet like-minded individuals, learn and grow along with them.
 
@@ -35,13 +35,13 @@ Moreover, I am a passionate enthusiast of Innovation and technology which led me
 
 - This opportunity will boost my career and enhance my job opportunities.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - I desire to become a ML Engineer working in evolving topics like Generative AI, Deep Learning etc.
 - I have a huge passion towards Innovation and Entrepreneurship which led me to found an intiative for students called **InsightLabs**
 - I am a enthusiast of technology which made me choose a career as an Engineer
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - KSUM is taking great steps to nuture a Tech Ecosystem in Kerala.
 - The Kerala State government's initiative in nurturing new startups and providing them with incentives has led to the enormous growth of Startups in Kerala.
