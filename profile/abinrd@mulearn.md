@@ -10,23 +10,23 @@ Love to expand my knowledge todifferent field of technology ,keen to be part of 
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 Active member in GDSC, Tinkerhub and myulearn
 
-#### Networking: `required field`
+#### Networking: 
 
 Instagram- @abinrd
 Linkedin- https://www.linkedin.com/in/abin-raju-a035a81ab/
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
 -Applying for Top 100 to gain recognition, network with experts, and elevate my career in tech. Boosting credibility and opportunities...
 
-#### Career Plan: `required field`
+#### Career Plan:
 Improve my skills get more involved in oraganisations meetup be part of Competitions 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 Kerala can excel by fostering innovation, investing in education, providing infrastructure, and creating a supportive regulatory environment for tech startups
 
