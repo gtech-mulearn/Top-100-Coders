@@ -1,4 +1,4 @@
-# Full Name 
+# Adrin Jose C T 
 
 ### About Me
 
@@ -32,12 +32,12 @@
 
 - I would be honoured to be a Top 100 Member. For me this represents an opportuinity to showcase my skills and show that I can excel in the field of Full Stack Developemnt. I belive I would gain valuable connections which would play a vital role in enhancing my career through this event. I think that being part of this Top 100 will help me grow as a professional and as a leader in my domain.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - The short term goal would be to obtain a job in my field.
 - As for long term, I wish to be a leader in my field and leave a mark.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: -
 
 - Kerala is a state that has a lot of potential to excel in the technology startup ecosystem for the future. It is not as advanced as other states like bangalore but if utilized and supported properly, there is a huge poentical for growth and developement in the kerala startup scene.
 
@@ -48,7 +48,6 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---
