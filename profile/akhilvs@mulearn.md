@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Mechanical Engineering graduate from Universal Engineering College in Vallivattom. I worked as an AutoCAD draftsman, during which I discovered my passion for programming. I am now a Flutter Developer with 1.5 years of programming experience as a Java freelancer and more than 1.5 years in Flutter. I have worked on over 6 mobile application projects. My dream is to become an entrepreneur. I have previously worked as a Flutter Developer at Reubro International in Kochi and am currently employed as a software engineer at Lektik Consultancies in Kochi. My skills includes HTML, CSS, Firebase, AWS, Flutter, Dart, Java, Kotlin, and more. 
+I am a Mechanical Engineering graduate from Universal Engineering College in Vallivattom. I am pursuing MCA from Ignou. I worked as an AutoCAD draftsman, during which I discovered my passion for programming. I am now a Flutter Developer with 1.5 years of programming experience as a Java freelancer and more than 1.5 years in Flutter. I have worked on over 6 mobile application projects. My dream is to become an entrepreneur. I have previously worked as a Flutter Developer at Reubro International in Kochi and am currently employed as a software engineer at Lektik Consultancies in Kochi. My skills includes HTML, CSS, Firebase, AWS, Flutter, Dart, Java, Kotlin, and more. 
 
 
 ### Portfolio Highlights
@@ -12,24 +12,25 @@ More than 3 years of Programming experience
 Worked in more than 8 projects
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 I am active in Linkedin and help other programmers if they need help with flutter. I have got a handful of connections (even from MNCs) who calls me whenever they get stuck. I have led a team of 5 developers for 2 projects in Reubro International
 
-#### Networking: `required field`
+#### Networking: 
 
-I am good with Networking. I am active in Linkedin. I help people in Linkedin when they need assistance in coding. 
+I am good with Networking. I am active in Linkedin. I help people in Linkedin when they need assistance in coding.
+- [Linkedin](https://www.linkedin.com/in/akhil15111993/)
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 Programming is a never ending learning process and we need to update ourself regularly to keep up with the trend. There will be something which I can learn from here. 
 Also those people here are all ready to take challanges and want to advance in their career. Connections like that is always the best in a Programming industry. And it will help me to showcase my skills in front of the recruiters and professionals as getting an interview is really difficult for me than cracking the interview because of my Mechanical Engineering background.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 My short term goal is to excell as a Software Engineer. I want to become a full stack developer by completing the Python course I enrolled in. My long term goal is to become an entrepreneur. 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem:
 
 Kerala's Tech ecosystem is growing really fast but still needs to take care of small challenges like:
 We have strong technology ecosystem infrastructure, but transportation remains a challenge. 
