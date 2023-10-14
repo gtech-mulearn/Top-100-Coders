@@ -1,6 +1,4 @@
-# Full Name
-
-Richard S
+# Richard S
 
 ### About Me
 
@@ -15,23 +13,23 @@ I have done a variety of projects including image recogniser.
 
 checkout here : https://richard.is-a.dev/
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 I have an excellent level of leadership quality which I build from school life and also i loves to work under a leader to study more about leadership.
 
-#### Networking: `required field`
+#### Networking:
 
 I strongly believe that networking is one of the biggest assets. In this community I will maximum try to connect every coders to improve my circle.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 Basically I loves programming and I also did many projects in web domain. This opportunity will increase my knowledge for sure.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 As of now I planned to work in any startup for income and if I found any solution to a particular problem I will work on that to build a startup
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 Kerala 's tech ecosystem drastically grown by past 3-4 years. Sectors like KSUM help the innovators to start their own company and also support to marketing and so on.
 
