@@ -10,7 +10,7 @@
 - Full Stack Web Developer
 - Reactjs, Nextjs, Vuejs, Nuxtjs
 - Nodejs, Express
-
+- Portfolio - adrin.vercel.app
 #### Leadership and Influence: 
 
 - I meet the qualifications of being a leader in my domain because of I have contionously demonstrated those qualities over various events. A few of them would be:
@@ -20,41 +20,31 @@
   - I've recently become the Web Development Lead at GDSC MITS and their website is currently in the works. There are various web dev events planned in the future which I would be leading.
   - I've attended various hackathons over the past 3 years and was able to lead the team to success.
 
-#### Networking: `required field`
+#### Networking: 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+-  I have developed my networking skills through various experiences and activities that have enabled me to connect and collaborate with people from different backgrounds, cultures, and fields. Some of the examples of my networking skills are:
+  - I have attended a number of events at TinkerSpace allowing me to make valuable connections with various industry leads.
+  - I attended FOSS Kochi which was held at MEC last year which gained me more valuable connections.
+  - I try to be active on various platforms like Linkedin, Reddit, Discord, etc.
+  - I have attended multiple hackathons and have made several connections at the events.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I would be honoured to be a Top 100 Member. For me this represents an opportuinity to showcase my skills and show that I can excel in the field of Full Stack Developemnt. I belive I would gain valuable connections which would play a vital role in enhancing my career through this event. I think that being part of this Top 100 will help me grow as a professional and as a leader in my domain.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- The short term goal would be to obtain a job in my field.
+- As for long term, I wish to be a leader in my field and leave a mark.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Kerala is a state that has a lot of potential to excel in the technology startup ecosystem for the future. It is not as advanced as other states like bangalore but if utilized and supported properly, there is a huge poentical for growth and developement in the kerala startup scene.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- LeetCode - https://leetcode.com/adrinjosect/
+- HackerRank - https://www.hackerrank.com/adrinjosect
 
 
 
