@@ -49,7 +49,6 @@ Kerala can excel in the technology startup ecosystem by leveraging its skilled w
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+
 
 ---
