@@ -12,8 +12,8 @@
 #### Leadership and Influence:
 
 - I am a Passionate Coder. I have participated and leaded various small Scale projects.
-- Led a Team of 3 to make a small School Project on Cloud Storage - [LeapCloud](https://leapcloud.ngwe.repl.co)
-- Actively a Web Developer at [DynaCore CLoud](https://billing.dynacore.cloud) - A Hosting Startup
+- Led a Team of 3 to make a small School Project on Cloud Storage - [LeapCloud](https://leapcloud.ngweb.repl.co)
+- Actively a Web Developer at [DynaCore Cloud](https://billing.dynacore.cloud) - A Hosting Startup
 
 #### Networking:
 
