@@ -11,23 +11,29 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I am a Passionate Coder. I have participated and leaded various small Scale projects. 
+- I am a Web Developer in DynaCore (A Hosting Startup) - https://billing.dynacore.cloud
+- I Developed AddCaptcha (A PHP-based AddCaptcha) - http://addcaptcha.in
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- My Experience in the Computer Field has enabled me to aquire Networking skills. I would do my best to collaborate with my collegues in the Top 100.
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I am just a High School Student as of now who knows to code well.
+- As a Top 100 Coder, I would like to prove my worth to my Friends (Online and Offline) and my School.
+- I would also like to take this opportinity to expand my Skills and learn more since I am actively participatin with People with far greater experience than myself
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala is God's own Country. This Paradise has all required facilities and has the the Potential to grow further in terms of Technology and other fields.
+- I would like to actively contribute to the Technology realm. My aim is to help build a better, safer Web.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- From my Perspective, Kerala's tech industry is thriving. Everything is well and good but that doesn't mean it can't be better!
+- Much more could be brought out from Young Talents that would help build a better, safer medium, the Internet, to endless opportinuities and knowledge.
 
 #### History of Open Source Contributions:
 
@@ -39,15 +45,17 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Although I have tried several times to pull of something like this, luck seems to be out on my side. I hope to achieve the same by Participating in this Challenge
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I am currently working on making one, I couldn't get popularity with my Previous Projects. I hope to nail it on this attempt.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Here's where I started my Coding Adventure - https://scratch.mit.edu/users/NG_Web
+- My currently active New Scratch Profile - https://scratch.mit.edu/users/WebStacks
+- I host my Bots and servers on Replit - https://replit.com/@ngWeb
 
 
 
