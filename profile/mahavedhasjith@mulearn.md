@@ -11,13 +11,14 @@
 
 #### Leadership and Influence: `required field`
 
-- I am a Passionate Coder. I have participated and leaded various small Scale projects. 
-- I am a Web Developer in DynaCore (A Hosting Startup) - https://billing.dynacore.cloud
-- I Developed AddCaptcha (A PHP-based AddCaptcha) - http://addcaptcha.in
+- I am a Passionate Coder. I have participated and leaded various small Scale projects.
+- Led a Team of 3 to make a small School Project on Cloud Storage - [LeapCloud](https://leapcloud.ngwe.repl.co)
+- Actively a Web Developer at [DynaCore CLoud](https://billing.dynacore.cloud) - A Hosting Startup
 
 #### Networking: `required field`
 
 - My Experience in the Computer Field has enabled me to aquire Networking skills. I would do my best to collaborate with my collegues in the Top 100.
+- Developed [AddCaptcha](http://addcaptcha.in) - A PHP-based CAPTCHA program
 
 #### As a Top 100 Member: `required field`
 
@@ -27,8 +28,8 @@
 
 #### Career Plan: `required field`
 
-- Kerala is God's own Country. This Paradise has all required facilities and has the the Potential to grow further in terms of Technology and other fields.
-- I would like to actively contribute to the Technology realm. My aim is to help build a better, safer Web.
+- In the immediate term, I am planning to build a Video Editing Software and distribute it Commercially and for Free.
+- In the long term, would like to actively contribute to the Technology realm. My aim is to help build a better, safer Web.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
@@ -37,11 +38,12 @@
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Contributing to the Open-Source Project [VideoLan](https://www.videolan.org)
+- Contributing to [Linux](https://www.linux.org)
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Actively Helping fellow Developers on the [W3Schools](https://discord.gg/w3schools) Discord Server
 
 #### Highly Visible Technical Content:
 
