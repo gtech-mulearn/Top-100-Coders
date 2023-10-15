@@ -9,29 +9,29 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence:
 
 - I am a Passionate Coder. I have participated and leaded various small Scale projects.
 - Led a Team of 3 to make a small School Project on Cloud Storage - [LeapCloud](https://leapcloud.ngwe.repl.co)
 - Actively a Web Developer at [DynaCore CLoud](https://billing.dynacore.cloud) - A Hosting Startup
 
-#### Networking: `required field`
+#### Networking:
 
 - My Experience in the Computer Field has enabled me to aquire Networking skills. I would do my best to collaborate with my collegues in the Top 100.
 - Developed [AddCaptcha](http://addcaptcha.in) - A PHP-based CAPTCHA program
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
 - I am just a High School Student as of now who knows to code well.
 - As a Top 100 Coder, I would like to prove my worth to my Friends (Online and Offline) and my School.
 - I would also like to take this opportinity to expand my Skills and learn more since I am actively participatin with People with far greater experience than myself
 
-#### Career Plan: `required field`
+#### Career Plan:
 
 - In the immediate term, I am planning to build a Video Editing Software and distribute it Commercially and for Free.
 - In the long term, would like to actively contribute to the Technology realm. My aim is to help build a better, safer Web.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - From my Perspective, Kerala's tech industry is thriving. Everything is well and good but that doesn't mean it can't be better!
 - Much more could be brought out from Young Talents that would help build a better, safer medium, the Internet, to endless opportinuities and knowledge.
@@ -44,14 +44,6 @@
 #### History of Community Engagement:
 
 - Actively Helping fellow Developers on the [W3Schools](https://discord.gg/w3schools) Discord Server
-
-#### Highly Visible Technical Content:
-
-- Although I have tried several times to pull of something like this, luck seems to be out on my side. I hope to achieve the same by Participating in this Challenge
-
-#### Highly Used Software Tools:
-
-- I am currently working on making one, I couldn't get popularity with my Previous Projects. I hope to nail it on this attempt.
 
 #### Competitive Website Profiles:
 
