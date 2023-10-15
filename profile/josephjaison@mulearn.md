@@ -18,6 +18,7 @@
 #### Networking: 
 
 - Through this program, I can connect with others who share my interests and learn about the latest developments and requirements for Kerala's startup environment.
+- [LinkedIn](https://www.linkedin.com/in/joseph-jaison/)
 
 #### As a Top 100 Member: 
 
