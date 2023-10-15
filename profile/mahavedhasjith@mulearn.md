@@ -50,10 +50,4 @@
 - Here's where I started my Coding Adventure - https://scratch.mit.edu/users/NG_Web
 - My currently active New Scratch Profile - https://scratch.mit.edu/users/WebStacks
 - I host my Bots and servers on Replit - https://replit.com/@ngWeb
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- 
