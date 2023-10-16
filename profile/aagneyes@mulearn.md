@@ -11,19 +11,19 @@
  Github - https://github.com/aagneye-syam,
  Linkdin - https://www.linkedin.com/in/aagneyesyam
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 As a changes make I know the importance of personality and infuelnce. These all points out to the quality of leaderhip. I my being a entrepreneur I lead a team of like-minded to be the part of my mission. From that I have the experience of leadership and influence.
 
-#### Networking: `required field`
+#### Networking: 
 
 For building my carrier I foud that netwoking is an important skill to expand my knowledge and to market my skills. in my network there are my develoeprs, investors, lawyers so and so
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 As a student I need to expand to my skills and find a better place to market my skills, for that I saw a humongous oppertunity for being the part of Top 100.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 I would like to pursue a high package job. For that I am working as much as hard as I can.
 
