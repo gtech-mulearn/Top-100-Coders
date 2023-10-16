@@ -1,58 +1,43 @@
-# Full Name 
+# Aagneye S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am full-stack developer, an entrepreuneur and also have expertise in Competitive programming, web2, web3, Flutter and blockchain. I amid to make changes in the ongoing culture of technology. For that I aslo try to build startup on my expertise fields
 
 
 ### Portfolio Highlights
-
-
+ Personal website - https://aagneye-syam.github.io/aagneye_web/
+ Github - https://github.com/aagneye-syam
+ Linkdin - https://www.linkedin.com/in/aagneyesyam
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+As a changes make I know the importance of personality and infuelnce. These all points out to the quality of leaderhip. I my being a entrepreneur I lead a team of like-minded to be the part of my mission. From that I have the experience of leadership and influence.
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+For building my carrier I foud that netwoking is an important skill to expand my knowledge and to market my skills. in my network there are my develoeprs, investors, lawyers so and so
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+As a student I need to expand to my skills and find a better place to market my skills, for that I saw a humongous oppertunity for being the part of Top 100.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+I would like to pursue a high package job. For that I am working as much as hard as I can.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+At the present period Kerala have showed an intelligence in technology, it has the most number of IEEE members, conducting my free events by KSUM, GTech, FOSS, GDG, Polygonn etc and I can saw there are may tech enthusiast form many parts of the statee
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+VS Code, Github, Stack Overflow, Figma.
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [aagneyesyam@mulearn.md](./profile/aagneyesyam@mulearn.md) for an exmaple
 
 ---
 
