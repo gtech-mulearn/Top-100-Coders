@@ -36,11 +36,6 @@
 - From my Perspective, Kerala's tech industry is thriving. Everything is well and good but that doesn't mean it can't be better!
 - Much more could be brought out from Young Talents that would help build a better, safer medium, the Internet, to endless opportinuities and knowledge.
 
-#### History of Open Source Contributions:
-
-- Contributing to the Open-Source Project [VideoLan](https://www.videolan.org)
-- Contributing to [Linux](https://www.linux.org)
-
 #### History of Community Engagement:
 
 - Actively Helping fellow Developers on the [W3Schools](https://discord.gg/w3schools) Discord Server
