@@ -8,25 +8,25 @@
 ### Portfolio Highlights
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence:
 
 - working on it...
 
-#### Networking: `required field`
+#### Networking:
 
 - still working on it.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - I want to test my logical skills. 
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
-- become a better coder.
+- i want to become a better coder.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
-- Has a lot to go. 
+- I think that the Tech Ecosystem in kerala has a lot to go. 
 
 
 #### Competitive Website Profiles:
