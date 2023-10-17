@@ -2,7 +2,8 @@
 
 ### About Me
 
-> I am passionated software developer with 6 years of experience and completed B.Tech Information Technology and also completed a course in Machine learning and deep learning and currently i am learning the embedded and iot course. I do have knowledge on toppest ERPs such as Microsoft dynamics, Odoo, SAP etc. I do have knowledge on prevention of hacking. I have started my coding during my college period (2015 Batch) by building calculator, attendace application using visual basic. I am more intersted in reading and learn more about future of technology 
+> I am a passionate software developer with 6 years of experience. I completed my B.Tech in Information Technology and also took a course in Machine Learning and Deep Learning. Currently, I am learning Embedded Systems and IoT. I have knowledge of top ERP systems such as Microsoft Dynamics, Odoo, and SAP. Additionally, I have experience in preventing hacking attempts.
+> I started coding during my college period (2015 Batch) by building a calculator and attendance application using Visual Basic. I am particularly interested in reading and learning more about the future of technology.
 
 #### Leadership and Influence:
 
