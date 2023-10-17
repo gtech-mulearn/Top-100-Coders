@@ -30,7 +30,7 @@
 #### Career Plan:
 
 
-* Software engineer
+* I can assist in developing technological related issues or projects, Kerala technology start-up mission can excel by giving opportunities and awareness to the people who are willing to start something
 
 
 #### Thoughts on Kerala's Tech Ecosystem:
