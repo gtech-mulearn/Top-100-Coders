@@ -13,23 +13,23 @@ My work in cybersecurity involves using my coding skills to enhance security mea
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - With 7 years in the cybersecurity field, I have accumulated extensive practical experience dealing with various secuirty challenges. Being a leader or a mentor involves not just having expertise but also sharing knowledge. I actively engage in knowledge-sharing through mentorship.
 
-#### Networking: `required field`
+#### Networking: 
 
 - To share knowledge and mentor others in the field of cybersecurity
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - Being a top 100 member can bring recognition and visibility within the tech industry and thus it can lead to better carreer oppurtunities. Cyber Security fields rely on programming skills to solve some complex real-world scenarios.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - To excel in the field of Cyber Security while leveraging the coding skills. 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Kerala, an emerging It hub of Kerala have been supporting the tech industries very well. It has been supporting startups thorugh incubators and accelerators. While tech ecosystem is promising, there have been challenges related to infrastructure, access to funding and retaining talent, which needs attention for further growth.
 
