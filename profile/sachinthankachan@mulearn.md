@@ -4,7 +4,7 @@
 ### About Me
 
 
-> Hi, I'm Sachin Thankachan, I'm a coding enthusiast and great admirer of computers, well, I code mainly in 'python' software developing is my hobby, I created some projects in python mainly about AI personal assistant.
+* Hi, I'm Sachin Thankachan, I'm a coding enthusiast and great admirer of computers, well, I code mainly in 'python' software developing is my hobby, I created some projects in python mainly about AI personal assistant.
 
 
 
