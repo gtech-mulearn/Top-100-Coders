@@ -1,4 +1,4 @@
-Arjun Sushanth
+# Arjun Sushanth
 
 ### About Me
  an aspiring software engineer who has recently embarked on a promising journey at Faya as a Junior Software Engineer. While my primary focus is on software engineering, my diverse interests include athletics and photography
