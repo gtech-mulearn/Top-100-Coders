@@ -32,4 +32,4 @@
 #### Competitive Website Profiles:
 
 - [HackerRank Profile](https://www.hackerrank.com/praveenkurup1975)
-- [PicoCTF Profile](https://github.com/Praveen-debug)
+- [Github Profile](https://github.com/Praveen-debug)
