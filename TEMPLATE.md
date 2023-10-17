@@ -1,9 +1,8 @@
-# Full Name 
+# Soorya Sreeni
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> I am a BSc Computer Science graduated student in University of Calicut ,currently pursuing Master's Degree in Computer Application. I have a basic knowledge in the field of front-end development, back-end development as well as in software development. I do have a working experience on windows and ubuntu O.S. I am lookimng forward to develop my skills and area of interests. i'm greaty enthusiastic to learn and solve real-world problems. 
 
 ### Portfolio Highlights
 
@@ -11,47 +10,34 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I was a leading member of a team of 4 people on creating a  web application of a College Bus Management System[C-BUS]to our institution.
+- A highly active member in organising various programs including science exhibitions and awareness programs including use of modern technologies to the people.
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- Sharing knowlege views and ideas through a community
+- Enlarging my network by connecting to various people through social medias.
+- participating in group discussions and fests.
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I am a person who beleives in continuous learning and being a apart of Top 100 Coders ,it would be a great opportunity to enhance skills and develop to a great extend.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-My short term career plan is to explore and experience in the field of software development and long term is to discover and develop and contribute a newer system to the world.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+-While technology is an important factor in real life, Kerala is the best place to thrive successfull startups. With the kerala;s startup missions brought up by kerala governments, and encouraging diversifications and beauty of the state , kerala would certainly be a place to succeed in startups in future.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- https://www.linkedln.com/in/soorya-sreeni-96376a271
 
 
 
-> In your portfolio, include the following details:
+
 >> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
