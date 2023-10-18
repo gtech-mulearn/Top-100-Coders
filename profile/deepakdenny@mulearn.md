@@ -1,8 +1,8 @@
-# Full Name 
+# Deepak Denny
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>Hi there! My name is Deepak Denny, and I'm a Software developer with a passion for programming. I have 5 years of experience in app development, and I'm always looking for new challenges and opportunities to grow my skills. I'm excited to share my portfolio with you and showcase my best work. Thanks for taking the time to get to know me!
 
 
 ### Portfolio Highlights
