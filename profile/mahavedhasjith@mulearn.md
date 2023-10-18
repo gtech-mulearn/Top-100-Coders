@@ -48,17 +48,17 @@
 #### Highly Visible Technical Content:
 
 - Although I have a You Tube channel I haven't posted anything yet and thus I have not produced highly visible technical content.
-- I frequently visit StackOverflow to clear doubts but I don't engage in many discussions myself.
+- I frequently visit StackOverflow to clear doubts but I don't engage in any discussions myself.
 - I believe I have much to learn in this world of Coding and I won't lecture anyone else without gaining knowledge myself.
 
 #### Highly Used Software Tools:
 
 - I invested a lot of time and some money (for the domain) to develop a Captcha Software which I believe could be a fun and less boring alternative for standard Text-based Captchas - [AddCaptcha](http://addcaptcha.in)
-- AddCaptcha did not get a single user and I had to stop furthur development, but the website is still up.
+- AddCaptcha did not get a single user and I had to stop furthur development, but the website is still up and the program is usable.
 
 #### Competitive Website Profiles:
 
-- Here's where I started my Coding Adventure - https://scratch.mit.edu/users/NG_Web
+- My first Scratch Account - https://scratch.mit.edu/users/NG_Web
 - My currently active New Scratch Profile - https://scratch.mit.edu/users/WebStacks
 - I host my Bots and servers on Replit - https://replit.com/@ngWeb
 
