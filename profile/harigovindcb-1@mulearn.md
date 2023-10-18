@@ -42,10 +42,6 @@
 
 - Kerala's tech ecosystem is on the rise as an emerging startup hub. With the support of government initiatives and a pool of talented tech professionals, it's can become a fertile ground for innovative startups across various industries.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
 #### History of Community Engagement:
 
 - I am an active participant with various hackathon related communities like devfolio and mlh in discord discussing about new tech and helping each other with development.
