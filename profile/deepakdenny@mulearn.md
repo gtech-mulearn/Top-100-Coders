@@ -6,7 +6,7 @@
 
 
 ### Portfolio Highlights
-
+Personal website - https://macluster.github.io/Myportfolio/, Github - https://github.com/Macluster, Linkdin - https://www.linkedin.com/in/deepak-denny-57494218b/
 
 
 #### Leadership and Influence: `required field`
