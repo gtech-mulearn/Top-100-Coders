@@ -30,7 +30,6 @@
 
 - In the immediate term, I am planning to build a Video Editing Software and distribute it Commercially and for Free.
 - In the long term, would like to actively contribute to the Technology realm. My aim is to help build a better, safer Web.
-- Making my an OS on my own is my dream.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
