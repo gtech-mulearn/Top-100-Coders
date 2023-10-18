@@ -19,15 +19,16 @@
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+I'm driven to be a part of the Top 100 program, collaborating with like-minded individuals to positively influence Kerala's startup ecosystem.
+I firmly believe that participating in the Top 100 initiative will unlock opportunities and elevate my professional journey through innovation and fresh perspectives.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My career plan in coding is to become a proficient software developer with a focus on Mobile development. I will start by acquiring a strong foundation in programming languages such as Java and Kotlin and then expand my knowledge by learning backend technologies like Python and databases. I will aim to work on personal projects to apply and reinforce my skills.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala's vibrant tech ecosystem thrives on curious teens, robust projects, and collaborative efforts among academia, government, and industry, fostering innovation and growth
 
 #### History of Open Source Contributions:
 
@@ -43,7 +44,7 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Flutter,Jetpack Compose,React,Firebase,Supabase
 
 #### Competitive Website Profiles:
 
