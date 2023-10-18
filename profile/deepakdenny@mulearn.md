@@ -11,11 +11,11 @@ Personal website - https://macluster.github.io/Myportfolio/, Github - https://gi
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I feel a deep sense of responsibility and privilege when it comes to leadership and influence. There's a genuine excitement in the opportunity to inspire and guide others towards a common goal. At the same time, I acknowledge the weight of the influence I hold, and it humbles me. I believe in the power of ethical and positive leadership, where empathy, trust, and collaboration are at the core. It's a profound journey that I'm both passionate about and respectful of, and I'm constantly seeking ways to improve my leadership and make a positive impact on those around me
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- For building my carrier I foud that netwoking is an important skill to expand my knowledge and to market my skills. in my network there are Developers,Teachers,etc
 
 #### As a Top 100 Member: `required field`
 
@@ -30,25 +30,16 @@ I firmly believe that participating in the Top 100 initiative will unlock opport
 
 Kerala's vibrant tech ecosystem thrives on curious teens, robust projects, and collaborative efforts among academia, government, and industry, fostering innovation and growth
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
 - Flutter,Jetpack Compose,React,Firebase,Supabase
 
-#### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
