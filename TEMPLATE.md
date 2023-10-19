@@ -1,58 +1,42 @@
-# Full Name 
+# Joyal Sunoj
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
-
+I am a third year B.Tech Computer Science student at Providence College Of Engineering, Chengannur. I am a self-motivated and independent student with a passion to learn and grow. I believe in the concept of life-long learning and the need to upskill ourselves as we grow. I have a beginner level understanding about front-end and back-end. I am an aspiring software developer and am currently UI/UX design in detail. I have experience interacting with databases such as MySQL. I have a good knowledge of JAVA and C. I welcome opportunities to grow and learn especially internships and projects. 
 
 ### Portfolio Highlights
-
-
-
-#### Leadership and Influence: `required field`
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking: `required field`
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
-#### As a Top 100 Member: `required field`
-
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
-
-#### Career Plan: `required field`
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
 #### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+I am still learning various tools and technologies so I have not been very active in contributions and hadn't thought about open source contribution. I am interested in open source contribution after acquiring all the necessary skills.
 
 #### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+ - Led group projects in Protek(Tech Event) at Providence College Of Engineering.
+ - Had attended various interniships such as in ICT Academy.
+ - 
 
 #### Competitive Website Profiles:
+- Attended multiple hackathons
+- Have won a Figma design competition.
+- Started solved problems in hackerrank.
+- GitHub: https://github.com/Joyalsunoj
+- Mulearn:joyalsunoj@mulearn
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+#### Leadership and Influence:
+- IEDC lead at Providence Collge Of Engineering.
+- Coding committee head in upcoming Providence Techfest.
 
+#### Networking:
+- Have built strong networks through LinkedIn.
+- Strong networking skills demonstrated through active participation in techfest, hackathons, ideathons.
 
+#### As a Top 100 Member:
+- Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and boost my career.
+- Network with tech enthusiasts, encourage learning and growth, contribute to the tech ecosystem, and inspire others through my journey.
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
+#### Career Plan:
+- Continue to enhance my knowledge in software development while exploring new domains and technologies that align with my interests.
+- Improve my skills and ensure peer learning among students.
+- I also aim to provide sustainable solutions to serious problems faced in Kerala.
+  
+#### Thoughts on Kerala's Tech Ecosystem:
+- A distinguishing factor of Kerala's approach is its unique model of collaboration, uniting educational institutions, industries, research centres, and startups.
+- The initiatives of KSUM present huge opportunities for students to improve their creative thinking skills and put forward ideas for a better future.
+- The government's support initiatives, exemplified by the Kerala Startup Mission (KSUM), play a pivotal role in nurturing the tech ecosystem. Financial incentives, mentorship programs, and infrastructure development all contribute to the ecosystem's growth and success.
