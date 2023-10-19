@@ -1,58 +1,38 @@
-# Full Name 
+Certainly! Here's a creative version of the profile with emojis added for flair:
 
-### About Me
+---
+  
+Sijo Ajay
 
-> write about your self .................. (minimum 200 Characters)
+📌**About Me:**  
+I'm a final year B.Tech student 🎓 majoring in Computer Science from Kerala Technical University. 🖥️ Passionate about AI and machine learning ❤️🤖, I have successfully led multiple college tech projects, and I'm super excited to bring my academic achievements into the real-world 💼.
 
+🎖️ **Portfolio Highlights:** 
 
-### Portfolio Highlights
+  Github : https://github.com/Sijoajay
+  
+  Linkedin: https://www.linkedin.com/in/sijo-ajay
 
+- **Leadership and Influence:** 🎤 As the Team Lead of our college's Web3 club, I championed monthly webinars on emerging tech. 🌐 Our club saw a 60% 📈 growth in active members under my guidance.
 
+- **Networking:** 🤝 I've engaged in various tech conferences and seminars in Kerala 🌴, crafting a solid network of pros and peers. My goal? Using this network to build future tech bridges.
 
-#### Leadership and Influence: `required field`
+- **As a Top 100 Member:** ⭐ Though I'm still on my academic journey, I've never hesitated to break barriers. Being in the Top 100 will amplify my reach, opening doors to innovation with other tech aficionados.
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- **Career Plan:** After graduation 🎉, I'm setting my sights on Kerala's startups, zooming in on AI. Dreaming big, I envision an AI-centric platform tackling local issues, connecting tech and community.
 
-#### Networking: `required field`
+- **Thoughts on Kerala's Tech Ecosystem:** 💡 Kerala is a treasure trove of talent. With the right push and mentorship, we can place it on the tech map. Let's harness our academic prowess and industry strengths for a radiant tech future!
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- **History of Open Source Contributions:** 🌐 Kickstarted 'KeralaAI', an open-source hub focusing on AI solutions tailored for our local challenges.
 
-#### As a Top 100 Member: `required field`
+- **History of Community Engagement:** 💬 A regular voice in college tech forums and always ready to lend a hand to budding techies. Plus, I enjoy guiding school students through tech workshops.
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- **Highly Visible Technical Content:** 📜 Penned a research paper on "AI Applications in Agriculture: A Kerala Perspective", earning a spotlight at a national tech event.
 
-#### Career Plan: `required field`
+- **Highly Used Software Tools:** 🔧 Crafted 'Automated Question Paper Generator'. This tool refines questions from a database, enabling educators to edit and forward them for the final PDF touch.
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+- **Competitive Website Profiles:** 🥇 Active contender on platforms like HackerRank and LeetCode.
 
 ---
 
+I hope this creative and emoji-infused version captures the spirit of Sijo Ajay's achievements and aspirations! 🌟
