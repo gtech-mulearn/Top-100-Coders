@@ -44,12 +44,18 @@ I'm interested in expanding my connections and also like to be a model and inspi
 
 Want to learn Expand my connections and want to build a great portfolio, and like to work indipendenly(start a own IT company or work as freelancer)
 
-#### Thoughts on Kerala's Tech Ecosystem: 
+### Highly Visible Technical Content:
+
+[Check Out My Linkdin For The Technical Contents I Published](https://www.linkedin.com/in/amshen-yesudas)
+
+[Checkout My Instagram Highlights For The Sessions I Took](https://www.instagram.com/amshen_shanu/)
+
+### Thoughts on Kerala's Tech Ecosystem: 
 
 Kerala has the potential to thrive in the technology startup ecosystem through strategic investments in education, a strong focus on fostering innovation, and the establishment of a supportive environment for entrepreneurs. This multi-faceted approach can pave the way for a vibrant and dynamic tech landscape in the region.
 
 
-#### Highly Used Software Tools:
+### Highly Used Software Tools:
 
 - Nodejs
 - Python
