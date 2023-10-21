@@ -1,8 +1,7 @@
-# Full Name 
+Shahana Sherin KM
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+Currently iam a student of mca at kannur university
 
 
 ### Portfolio Highlights
@@ -18,8 +17,7 @@
 - explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
 
 #### As a Top 100 Member: `required field`
-
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+Iam a mca student and interested in coding. This will engerage my interest in coding. 
 
 #### Career Plan: `required field`
 
