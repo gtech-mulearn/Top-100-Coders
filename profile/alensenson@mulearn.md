@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> write about your self ................... (minimum 200 Characters)
 
 
 ### Portfolio Highlights
