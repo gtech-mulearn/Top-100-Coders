@@ -12,28 +12,28 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - Worked as  intern at CSE NIT Calicut for a funded computer vision project.
 - IEEE MEA Member.
 
-#### Networking: `required field`
+#### Networking: 
 
   - Look forward to engaging with Top 100 community and networking with innovators.
   - Plan to participate in events, share machine learning expertise, and learn from others.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - Will collaborate to brainstorm ideas, provide feedback, and explore partnerships.
 - Aligns with career goal to advocate for more AI/ML adoption in Kerala.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - Increase open source contributions in AI/ML domains
 - Aspire to join or start an AI-focused startup to build innovative products.
 - Participate in outreach activities to get students excited about STEM fields.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 - Promote entrepreneurship in colleges via incubators, mentoring, events.
 - Foster a collaborative culture and strong founder network.
