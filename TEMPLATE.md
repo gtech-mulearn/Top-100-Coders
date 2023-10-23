@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>Hi! I'm sachin s kumar, and I'm a btech cse second year student at APJKTU . I've been learning web development over the past 4 months and I've been developing multiple side projects along the way. I always try to learn new things and improve my coding standards. I believe this is one of that opportunities.
 
 
 ### Portfolio Highlights
@@ -11,48 +11,20 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- currently im performing as one of the execom member of mulearn campus chapter as design lead at college of engineering perumon & also im the captain of one of the groups of computer society of india students bracnch at my college 
 
 #### Networking: `required field`
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
+- i'm mentoring level 1 build my web participats & i have als o participated in be.ewb.dev ofline meeting and also i have coordinated a number of events as a part of both mulearn campus chapter and CSI society of our campus . All the helped me a lot to improve my networking  
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- Joining this community is a fantastic way for me to showcase my skills and connect with people who share my passion for technology. It could lead to exciting collaborations and open up new career opportunities for me. Plus, being part of the Top 100 community in Kerala means I'll get to connect with some of the brightest minds in the region. It's a chance for me to learn from them and grow professionally. And it's not just about benefiting myself; I'm also eager to contribute my skills to help others in the community while improving my own abilities.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- currently im focusing on front end web development & im also working as a freelance graphic designer
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has a youth force with alot of potential to exel in tech industry. With the support of government initiatives and a pool of talented tech professionals, Kerala can become one of the hotspot for tech hubs in India.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
 
