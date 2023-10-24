@@ -22,11 +22,11 @@
 - **GDSC Tech Lead** (2021-2022), GDSC, Christ College of Engineering
 - **Vice President** (2020-2021), Computer Society of India, Student Branch, Christ College of Engineering
 
-🏆 **Winner** @ Hac'KP International Hackathon (Sept 2021)
-🏆 **Winner** @ Ernst & Young (EY) WhyHack InnovatHer (May 2022)
-🏆 **Winner** @ KSUM - RIBC Hackathon (June 2022)
-🏆 **Winner** @ GECT - HackAtArch (August 2022)
-🏆 **2nd Runners Up** @ CEAT - HACKATLY (July 2022)
+🏆 **Winner** @ Hac'KP International Hackathon (Sept 2021) </br>
+🏆 **Winner** @ Ernst & Young (EY) WhyHack InnovatHer (May 2022) </br>
+🏆 **Winner** @ KSUM - RIBC Hackathon (June 2022) </br>
+🏆 **Winner** @ GECT - HackAtArch (August 2022) </br>
+🏆 **2nd Runners Up** @ CEAT - HACKATLY (July 2022) </br>
 
 #### Highly Visible Technical Content:
 
