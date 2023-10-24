@@ -47,6 +47,9 @@
 - Active participant in Gtech Mulearn where I help newcomers and share my knowledge in my college.
 - Active user in GitHub for the purpose of backend web development and deployment of websites.
 - Active user in LinkedIn where I post and share valuable content.
+- Active member at Startup Bootcamp IEDC SJCET.
+- Active member at GDSC SJCET.
+- Active member at Radio Community SJCET.
 
 #### Highly Visible Technical Content:
 
