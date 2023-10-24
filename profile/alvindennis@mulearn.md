@@ -34,17 +34,17 @@
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
 - Collaboration between academia, government, and industry will be key to achieving this vision.
 
-### History of Open-Source Contributions:
+### History of Open-Source Contributions
 
 #### History of Community Engagement:
 
-- Regularly answer technical questions on Stack Overflow, with a reputation score of 2k.
+- Regularly answer technical questions and doubts of students from my college and help them in their adventure.
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
 
 #### Highly Visible Technical Content:
 
 - Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
+- Created a video on YouTube explaining advanced software architecture, with a total of 13 v
 
 #### Highly Used Software Tools:
 
