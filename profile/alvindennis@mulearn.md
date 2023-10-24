@@ -13,8 +13,9 @@
 
 - Organized Smart India Hackathon as a part of SJCET Startup Bootcamp IEDC.
 - Hosted various events in college.
-- Worked as a Technical Officer at SJCET Startup Bootcamp IEDC
-- Currently working as Chief Financial Officer at SJCET Startup Bootcamp IEDC 
+- Worked as a Technical Officer at SJCET Startup Bootcamp IEDC.
+- Currently working as Chief Financial Officer at SJCET Startup Bootcamp IEDC.
+- Currently working as Technical Lead at Radio Community SJCET 
 
 #### Networking:
 
@@ -43,8 +44,8 @@
 #### History of Community Engagement:
 
 - Regularly answer technical questions and doubts of students from my college and help them in their tasks.
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
-- Active user in GitHub for the purpose backend web development and deployment os websites.
+- Active participant in Gtech Mulearn where I help newcomers and share my knowledge in my college.
+- Active user in GitHub for the purpose of backend web development and deployment of websites.
 - Active user in LinkedIn where I post and share valuable content.
 
 #### Highly Visible Technical Content:
