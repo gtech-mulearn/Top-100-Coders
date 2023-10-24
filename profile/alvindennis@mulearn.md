@@ -19,7 +19,7 @@
 #### Networking:
 
 - Strong networking skills demonstrated through active participation summits and events.
-- I'm able to interact with people in a professional manner also expanding my network with people by builfung a root connection with them with the help of technology.
+- I'm able to interact with people in a professional manner also expanding my network with people by buildung a root connection with them with the help of technology.
 
 #### As a Top 100 Member:
 
@@ -28,7 +28,7 @@
 
 #### Career Plan:
 
-- In the immediate term, I plan to mentor junior developers and tech enthusiast and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
+- In the immediate term, I plan to mentor my fellow colleagues, tech enthusiasts and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
 - In the long term, I plan on obtaining a job according to my interest on computer science and related technology. It will help to express my potential and fulfil my passion.
 
 #### Thoughts on Kerala's Tech Ecosystem:
@@ -38,20 +38,27 @@
 
 ### History of Open-Source Contributions
 
-- Currently I have no projects to display for Open-Source Contributions, although I have performed modifications in college projects for fellow students. 
+- Currently I have no projects to display for Open-Source Contributions as I am learning new tools and technologies, although I have performed modifications in college projects for fellow students. 
 
 #### History of Community Engagement:
 
 - Regularly answer technical questions and doubts of students from my college and help them in their tasks.
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
+- Active user in GitHub for the purpose backend web development and deployment os websites.
+- Active user in LinkedIn where I post and share valuable content.
 
 #### Highly Visible Technical Content:
 
-- Currently, I have not published and technical content.
+- Currently, I have not published any technical content as I am learning new technical tools and technologies.
 
 #### Highly Used Software Tools:
 
-- Developed a web-based Task management tool called [TodoNow](https://github.com/vishakh-abhayan/TodoNow) used by 2000+ users.
+- Python
+- C programming
+- SQL
+- Figma
+- GitHub
+- VScode
 
 #### Competitive Website Profiles:
 
