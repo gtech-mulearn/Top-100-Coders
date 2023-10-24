@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL I am also exploring IoT, DevOps and software quality testing.
+> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
 
 ---
 
@@ -29,7 +29,7 @@
 #### Career Plan:
 
 - In the immediate term, I plan to mentor junior developers and tech enthusiast and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
-- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. It will help to express my potential and fulfil my dream
+- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. It will help to express my potential and fulfil my passion.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -38,7 +38,7 @@
 
 ### History of Open-Source Contributions
 
-- Currently I have no projects to display for Open-Source Contributions, although I have performed modifications in college projects. 
+- Currently I have no projects to display for Open-Source Contributions, although I have performed modifications in college projects for fellow students. 
 
 #### History of Community Engagement:
 
@@ -47,8 +47,7 @@
 
 #### Highly Visible Technical Content:
 
-- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 v
+- Currently, I have not published and technical content.
 
 #### Highly Used Software Tools:
 
