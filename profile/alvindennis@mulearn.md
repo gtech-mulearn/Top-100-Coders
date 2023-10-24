@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating backend for innovative web applications. I have a deep understanding of the full backend web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
+> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating backend for innovative web applications. I have a deep understanding of the full backend web development life cycle. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
 
 ---
 
