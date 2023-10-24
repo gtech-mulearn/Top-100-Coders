@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `Javascript`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL.
+> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL.
 
 ---
 
@@ -11,12 +11,13 @@
 #### Leadership and Influence:
 
 
-- Organized and hosted 2 tech meetups in the local developer community.
+- Organized Smart India Hackathon as a part of SJCET Startup Bootcamp IEDC.
+- Hosted various events in college.
 
 #### Networking:
 
-- Strong networking skills demonstrated through active participation in industry conferences such as Huddle Globa.
-- Co-founder of [Petagon](https://www.pentagon.com/group) a community of hackers, which has grown to 10 members.
+- Strong networking skills demonstrated through active participation summits and events.
+- I'm able to interact with people in a professional manner also expanding my network with people which might help me in future.
 
 #### As a Top 100 Member:
 
@@ -25,18 +26,15 @@
 
 #### Career Plan:
 
-- In the immediate term, I plan to mentor junior developers and organize workshops to foster tech talent in Kerala.
-- In the long term, I aim to launch a tech startup focused on sustainable solutions in Kerala.
+- In the immediate term, I plan to mentor junior developers and tech enthusiast and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
+- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. Also, I want to start or partner a startup with a clear vision in my mind.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
 - Collaboration between academia, government, and industry will be key to achieving this vision.
 
-#### History of Open Source Contributions:
-
-- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by implementing feature Push Notification.
-- Actively maintain a popular open-source library for web development tools used by developers worldwide.
+### History of Open-Source Contributions:
 
 #### History of Community Engagement:
 
