@@ -1,8 +1,11 @@
-# Full Name 
+# Chandu R
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi,I am currently studying Electronics Engineering in Diploma and My love for coding was started from my high school time.I'm interested in python, C,etc.
+
+As a coding enthusiast, I find joy in the challenges and problem-solving oppurtunities that coding provides.I always try to not to miss a chance to participate in coding contests.
+
 
 
 ### Portfolio Highlights
@@ -11,7 +14,7 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+-During my studies, I actively sought out coding workshops and hackathons where I could apply my skills in real-world scenarios. I find great value in learning by doing, as it allows me to grasp complex concepts more effectively and see the immediate impact of my code. I am eager to participate in practical classes where I can collaborate with peers and gain valuable insights from practical problem-solving.
 
 #### Networking: `required field`
 
@@ -19,40 +22,17 @@
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and enhance my career.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+- Embracing my entrepreneurial spirit, I am keen on venturing into the realm of tech-related businesses in kerala.
+- Kerala can excel in the programming ecosystem through a combination of strategic initiatives, investments, and fostering a culture of innovation.
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+-Kerala has the potential to become an emerging tech hub in India is indeed promising. With a combination of factors such as a highly skilled workforce, supportive government initiatives, growing startup culture, and a focus on education,Kerala is well-positioned to make significant strides in the tech industry
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- mulearn https://app.mulearn.org/profile/chandur@mulearn
 
