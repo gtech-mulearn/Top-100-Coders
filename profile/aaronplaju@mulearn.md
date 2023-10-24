@@ -1,6 +1,4 @@
-# Full Name 
-
-Aaron P Laju
+# Aaron P Laju
 
 ### About Me
 
