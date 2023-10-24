@@ -66,5 +66,5 @@
 
 #### Competitive Website Profiles:
 
-- Active member on HackerRank with a 145k ranking in Data Structures.
-- Kaggle profile showcasing 3 completed data science projects.
+- 
+- 
