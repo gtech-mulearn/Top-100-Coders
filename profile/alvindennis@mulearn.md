@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL.
+> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `C`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL I am also exploring IoT, DevOps and software quality testing.
 
 ---
 
@@ -13,11 +13,13 @@
 
 - Organized Smart India Hackathon as a part of SJCET Startup Bootcamp IEDC.
 - Hosted various events in college.
+- Worked as a Technical Officer at SJCET Startup Bootcamp IEDC
+- Currently working as Chief Financial Officer at SJCET Startup Bootcamp IEDC 
 
 #### Networking:
 
 - Strong networking skills demonstrated through active participation summits and events.
-- I'm able to interact with people in a professional manner also expanding my network with people which might help me in future.
+- I'm able to interact with people in a professional manner also expanding my network with people by builfung a root connection with them with the help of technology.
 
 #### As a Top 100 Member:
 
@@ -27,7 +29,7 @@
 #### Career Plan:
 
 - In the immediate term, I plan to mentor junior developers and tech enthusiast and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
-- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. Also, I want to start or partner a startup with a clear vision in my mind.
+- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. It will help to express my potential and fulfil my dream
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -36,9 +38,11 @@
 
 ### History of Open-Source Contributions
 
+- Currently I have no projects to display for Open-Source Contributions, although I have performed modifications in college projects. 
+
 #### History of Community Engagement:
 
-- Regularly answer technical questions and doubts of students from my college and help them in their adventure.
+- Regularly answer technical questions and doubts of students from my college and help them in their tasks.
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
 
 #### Highly Visible Technical Content:
