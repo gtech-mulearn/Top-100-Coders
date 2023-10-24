@@ -22,11 +22,11 @@
 - **GDSC Tech Lead** (2021-2022), GDSC, Christ College of Engineering
 - **Vice President** (2020-2021), Computer Society of India, Student Branch, Christ College of Engineering
 
-- 🏆 **Winner** @ Hac'KP International Hackathon (Sept 2021)
-- 🏆 **Winner** @ Ernst & Young (EY) WhyHack InnovatHer (May 2022)
-- 🏆 **Winner** @ KSUM - RIBC Hackathon (June 2022)
-- 🏆 **Winner** @ GECT - HackAtArch (August 2022)
-- 🏆 **2nd Runners Up** @ CEAT - HACKATLY (July 2022)
+🏆 **Winner** @ Hac'KP International Hackathon (Sept 2021)
+🏆 **Winner** @ Ernst & Young (EY) WhyHack InnovatHer (May 2022)
+🏆 **Winner** @ KSUM - RIBC Hackathon (June 2022)
+🏆 **Winner** @ GECT - HackAtArch (August 2022)
+🏆 **2nd Runners Up** @ CEAT - HACKATLY (July 2022)
 
 #### Highly Visible Technical Content:
 
@@ -58,7 +58,7 @@ In conclusion, I've an impressive track record as the CEO of IEDC, GDSC Lead, GD
 #### Networking:
 
 - I've been the state-level volunteer for GDSC WoW (2023)
-- I have a strong track record of networking within the tech and innovation community, making me an ideal candidate to engage with the Top 100 community and inspire others. My experience participating in numerous hackathons and talk shows has allowed me to connect with a diverse range of professionals and enthusiasts. Winning four hackathons and being the second runner-up in one not only demonstrates my technical skills but also my ability to collaborate and build relationships with team members and mentors.
+I have a strong track record of networking within the tech and innovation community, making me an ideal candidate to engage with the Top 100 community and inspire others. My experience participating in numerous hackathons and talk shows has allowed me to connect with a diverse range of professionals and enthusiasts. Winning four hackathons and being the second runner-up in one not only demonstrates my technical skills but also my ability to collaborate and build relationships with team members and mentors.
 
 My passion for technology extends beyond competitions. I regularly engage in networking events, such as tech arenas and community meetups like GDG devfest Kochi 2023, GDSC Meetup Banglore 2023, GDSC WoW 2023 etc where I connect with like-minded individuals, share ideas, and stay updated on industry trends. I'm also an avid follower of TED Talks, which has expanded my knowledge and perspective on various topics.
 
@@ -84,7 +84,7 @@ LInitially I aim to collaborate with like-minded individuals and startups to cre
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- A distinguishing factor of Kerala's approach is its unique model of collaboration, uniting educational institutions, industries, research centres, and startups.
-- This interconnectedness is a distinctive strength that has the potential to drive innovation and technological entrepreneurship.
+- 
+- 
 
 ---
