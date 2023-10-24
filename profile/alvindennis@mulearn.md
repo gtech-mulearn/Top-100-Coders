@@ -67,5 +67,4 @@
 #### Competitive Website Profiles:
 
 -[Github](https://github.com/MeteoricKnight)
-
 -[LinkedIn](https://www.linkedin.com/in/alvin-dennis-0a70ba163)
