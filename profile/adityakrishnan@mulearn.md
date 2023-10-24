@@ -1,4 +1,5 @@
-# Adityakrishnan | Software Engineer @ Baton Systems
+# Adityakrishnan
+## Software Engineer @ Baton Systems
 
 ### About Me
 
@@ -84,7 +85,7 @@ I have a strong track record of networking within the tech and innovation commun
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- 
-- 
+- Kerala's tech ecosystem is abundant with untapped potential. With the great startup culture, access to education, and a supportive community, Kerala is chosen for remarkable growth. 
+- Let's come together, exchange ideas, and build a thriving ecosystem that propels Kerala to the forefront of the tech world.
 
 ---
