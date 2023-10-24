@@ -1,8 +1,8 @@
-# Vishakh Abhayan (Full Stack Developer)
+# Alvin Dennis (Tech Enthusiast and Backend Web Developer)
 
 ### About Me
 
-> I'm a Full Stack Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `Javascript`, `Python` and a variety of frameworks, such as Django, Express and React. I have experience working with databases such as MySQL, PostgreSQL and MongoDB
+> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `Javascript`, `Python` and a variety of frameworks, such as Django and React. I have experience working with databases such as MySQL, PostgreSQL and MongoDB
 
 ---
 
