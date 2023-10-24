@@ -1,9 +1,8 @@
-# Adityakrishnan
-## Software Engineer @ Baton Systems
+# Adityakrishnan | Software Engineer @ Baton Systems
 
 ### About Me
 
-> Final-year Bachelor of Technology (B.Tech.) student in Computer Science and Engineering interested in the latest IT technologies. A fast learner and team player with years of experience working as an developer with challenging environments and diverse teams. A passionate programmer and thriving analyst who has applied computer algorithms to solve real-world problems like field-level pest detection and live pothole detection.
+> Bachelor of Technology (B.Tech.) graduate in Computer Science and Engineering interested in the latest IT technologies. A fast learner and team player with years of experience working as an developer with challenging environments and diverse teams. A passionate programmer and thriving analyst who has applied computer algorithms to solve real-world problems like field-level pest detection and live pothole detection.
 
 
 ---
