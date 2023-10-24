@@ -51,7 +51,7 @@
 - [ceval - An overcomplicated expression evaluator (C)](https://github.com/Adwaith-Rajesh/c_eval)
 - [OnstroDB - DB based on pandas (Python)](https://github.com/Adwaith-Rajesh/onstro-db)
 - [Loafang - a simple and dirty version of GraphQL (Python)](https://github.com/Adwaith-Rajesh/loafang)
-- [0hh1-solver - a puzzle solver (Python)]()
+- [0hh1-solver - a puzzle solver (Python)](https://github.com/Adwaith-Rajesh/0hh1-solver)
 
 #### History of Community Engagement:
 
