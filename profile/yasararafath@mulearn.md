@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I am fullstack web developer, focused on building sites using nodejs, react, postgres
+> Hey i am yasar arafath a full stack nodejs web developer. i am experienced in working with multiple freelance projects and multiple cloud technologies.
 
 
 ### Portfolio Highlights
@@ -13,32 +13,32 @@
 
 #### Leadership and Influence: 
 
-As a changes make I know the importance of personality and infuelnce. These all points out to the quality of leaderhip. I my being a entrepreneur I lead a team of like-minded to be the part of my mission. From that I have the experience of leadership and influence.
+Experience in working with teams.
 
 #### Networking: 
 
-For building my carrier I foud that netwoking is an important skill to expand my knowledge and to market my skills. in my network there are my develoeprs, investors, lawyers so and so
+Looking to forward and share ideas with like minded people.
 
 #### As a Top 100 Member: 
 
-As a student I need to expand to my skills and find a better place to market my skills, for that I saw a humongous oppertunity for being the part of Top 100.
+I think i can use it as platform to showcase my skills and collaborate and learn from other people.
 
 #### Career Plan: 
 
-I would like to pursue a high package job. For that I am working as much as hard as I can.
+Looking to tansition into more of devops role.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-At the present period Kerala have showed an intelligence in technology, it has the most number of IEEE members, conducting my free events by KSUM, GTech, FOSS, GDG, Polygonn etc and I can saw there are may tech enthusiast form many parts of the statee
+At present kerala's tech ecosystem have shown some improvements. But it still have long way to go.
 
 
 #### Highly Used Software Tools:
 
-VS Code, Github, Stack Overflow, Figma.
+VS Code, Git and Github, AWS, Docker, pgadmin.
 
 
 > In your portfolio, include the following details:
->> check out [aagneyesyam@mulearn.md](./profile/aagneyesyam@mulearn.md) for an exmaple
+>> check out [yasararafath@mulearn.md](./profile/yasararafath@mulearn.md) for an exmaple
 
 ---
 
