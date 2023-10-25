@@ -28,27 +28,14 @@
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Kerala's tech ecosystem would definitely helps in 
+- Kerala's tech ecosystem would definitely help in building an atmosphere to drive the passion driven spirits into heights as well as ignite the young minds
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+-  https://github.com/varshasa
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
