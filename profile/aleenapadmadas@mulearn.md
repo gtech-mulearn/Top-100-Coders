@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Aleena Padmadas.I am a B.Tech graduate in Electronics and Communication Engineering.I am passionate about coding and is interested in learning new skills.
 
 
 ### Portfolio Highlights
