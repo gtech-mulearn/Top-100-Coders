@@ -31,5 +31,8 @@
 
 - I have developed a Python Django project called "Wikipage." This application empowers users to create their own Wikipedia-style page with just a few simple clicks.
 
+#### Networking: 
 
+Instagram- @a_k_t_16
+Linkedin- https://www.linkedin.com/in/adilkt16/
 ---
