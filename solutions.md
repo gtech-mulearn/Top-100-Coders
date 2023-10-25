@@ -28,25 +28,16 @@
 
   - [Solution](./solution.py)
   ### - Explanation: 
-        The function birthdayCakeCandles takes a list of integers called candles as input, representing the heights of candles.
-        It initializes two variables: max_height to keep track of the maximum height and count to store the count of candles with 
-        the maximum height. Both are initially set to 0.
-        The max function is used to find the maximum height among all the candles in the candles list. 
-        This is done by iterating through the list and updating max_height if a taller candle is found.
-        After finding the maximum height, the function uses the count method on the candles list to count how many times the maximum 
-        height appears in the list. This count represents the number of candles with the tallest height.
-        Finally, the count is returned as the result of the function.
-        For example, let's say the input list candles is [4, 4, 1, 3, 2, 4]. The function will identify 
-        that the tallest candles have a height of 4 and count how many times 4 appears in the list, which is 3. 
-        Therefore, the function will return 3 as the output.
+> The function birthdayCakeCandles takes a list of integers called candles as input, representing the heights of candles It initializes twovariables: max_height to keep track of the maximum height and count to store the count of candles with the maximum height. Both are initially set to 0.The max function is used to find the maximum height among all the candles in the candles list.This is done by iterating through the list and updating max_height if a taller candle is found.After finding the maximum height, the function uses the count method on the candles list to count how many times the maximum height appears in the list. This count represents the number of candles with the tallest height.Finally, the count is returned as the result of the function.For example, let's say the input list candles is [4, 4, 1, 3, 2, 4]. The function will identify that the tallest candles have a height of 4 and count how many times 4 appears in the list, which is 3.Therefore, the function will return 3 as the output.
 
 
   
-### Problem 4
+### Problem Name
 
 
   - [Solution](category-1/problem-1/solution.py)
-  - Explanation: 
+  ### - Explanation:
+  >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
   
 
 
