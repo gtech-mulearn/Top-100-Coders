@@ -23,22 +23,106 @@
 
 ### Example  
 ---
-### birthdayCakeCandles 
+## 3.Grading Students
+  - [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)(navigate to the Problem)
+  - [Solution](Grading_Students/gradingstudents.py) (navigate to the Solution file)
+  - Explanation:
+  > In this problem, I created a program that takes input for the number of grades to be entered, and then prompts the user to enter each grade. The program then rounds each grade according to a specific rule and prints the rounded grades.
+```python
+n = int(input().strip())
 
+for _ in range(n):
+    grade = int(input().strip())
+    
+    if grade >= 38 and grade % 5 >= 3:
+        grade += 5 - (grade % 5)
 
-  - [Solution](./solution.py)
-  ### - Explanation: 
-> The function birthdayCakeCandles takes a list of integers called candles as input, representing the heights of candles It initializes twovariables: max_height to keep track of the maximum height and count to store the count of candles with the maximum height. Both are initially set to 0.The max function is used to find the maximum height among all the candles in the candles list.This is done by iterating through the list and updating max_height if a taller candle is found.After finding the maximum height, the function uses the count method on the candles list to count how many times the maximum height appears in the list. This count represents the number of candles with the tallest height.Finally, the count is returned as the result of the function.For example, let's say the input list candles is [4, 4, 1, 3, 2, 4]. The function will identify that the tallest candles have a height of 4 and count how many times 4 appears in the list, which is 3.Therefore, the function will return 3 as the output.
+    print(grade)
 
+```
 
-  
-### Problem Name
+It takes input for the number of grades to be entered as n.
 
+ It uses a for loop to iterate over the range of the number of grades.
 
-  - [Solution](category-1/problem-1/solution.py)
-  ### - Explanation:
-  >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  
+ Inside the loop, it takes input for each grade.
 
+ It checks if the grade is greater than or equal to 38 and if the remainder of the grade divided by 5 is greater than or equal to 3.
+
+ If the condition is true, it rounds the grade by adding the difference between 5 and the remainder of the grade divided by 5.
+ 
+ Finally, it prints the rounded grade.
+
+```
+n = int(input().strip())  # Enter the number of grades: 3
+
+for _ in range(n):
+    grade = int(input().strip())  # Enter the grades: 73, 67, 41
+    
+    if grade >= 38 and grade % 5 >= 3:
+        grade += 5 - (grade % 5)
+    
+    print(grade)
+Output:
+
+75
+67
+41
+```
+In this example, we entered 3 grades: 73, 67, and 41. The first grade, 73, is rounded up to 75 because the remainder of 73 divided by 5 is 3, which is greater than or equal to 3. The second grade, 67, remains the same because the remainder of 67 divided by 5 is 2, which is less than 3. The third grade, 41, also remains the same because it is less than 38.
+****
+## 4.Mini-Max Sum
+
+  - [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)(navigate to the Problem)
+  - [Solution](Mini-Max_Sum/minimaxsum.py) (navigate to the Solution file)
+  - Explanation:
+  >This problem  takes an array of integers as input and calculates the minimum and maximum sums of four out of the five elements in the array.
+
+#### The miniMaxSum function takes an array (arr) as input and performs the following steps:
+
+ 1.Sorts the array in ascending order using the sort() method.
+
+ 2.Calculates the sum of all elements except the last one using the sum() function and slicing (arr[:-1]).
+
+ 3.Calculates the sum of all elements except the first one using the sum() function and slicing (arr[1:]).
+
+ 4.Prints the minimum sum and maximum sum.
+
+ code with an example. Consider the following input:
+
+```python
+def miniMaxSum(arr):
+    arr.sort()
+    print(sum(arr[:-1]), sum(arr[1:]))
+
+if __name__ == '__main__':
+    arr = list(map(int, input().split()))
+    miniMaxSum(arr)
+
+```
+ The miniMaxSum function will perform the following steps:
+
+ Example input: arr = 5 2 3 4 1
+
+ ```arr.sort()```: Sorts arr in ascending order = [1,2,3,4,5]
+
+ ```sum(arr[:-1])```: Calculate the minimum sum by removing last element of array: 1+2+3+4 = 10
+
+ ```sum(arr[1:])```: Calculate the maximum sum by removing first element of array: 2+3+4+5= 14
+
+ Print the minimum sum: 10
+ 
+ Print the maximum sum: 14
+
+#### Sample input & output
+input
+```
+1 3 5 7 2 6
+```
+output
+```
+17 23
+```
+****
 
 
