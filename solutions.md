@@ -12,13 +12,14 @@
 ### Problem 1
 
 
+  - [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)(navigate to the Problem)
   - [Solution](./solution.py) (navigate to the Solution file)
   - Explanation: (Explain your problem-solving approach in detail)
   
 ### Problem 2
 
-
-  - [Solution](./solution.py)
+  - [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)(navigate to the Problem)
+  - [Solution](./solution.py)(navigate to the Solution file)
   - Explanation: (Explain your problem-solving approach in detail)
 
 ### Example  
