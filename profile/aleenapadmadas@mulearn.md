@@ -2,56 +2,37 @@
 
 ### About Me
 
-> I am Aleena Padmadas.I am a B.Tech graduate in Electronics and Communication Engineering.I am passionate about coding and is interested in learning new skills.
+> I am Aleena Padmadas.I am a B.Tech graduate in Electronics and Communication Engineering.I am a fresher who is passionate about learning new skills.I am a knowledgeable in basic C,JAVA,C++,and Python.
 
 
 ### Portfolio Highlights
 
-
-
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I aspire to become a leader and influencer in my chosen domain. I believe that leadership is not just about authority but, more importantly, about inspiring and empowering others. I aim to lead by example, showing dedication, integrity, and a commitment to the betterment of my field. By sharing knowledge, fostering collaboration, and being a positive force in my community, I hope to influence others positively and contribute to the growth and advancement of the domain.
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- My networking skills help me connect with people effectively.
+- I excel in communication, active listening, and creating mutually beneficial connections.
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I am applying for this Top 100 because I'm passionate about innovation and problem-solving. This event provides a unique platform to challenge my technical skills. I see it as an opportunity to learn, grow, and contribute to the advancement of technology while also enjoying the thrill of competition and networking with experts in the field.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-My career plan is to become a highly skilled and versatile software developer. I aim to continually expand my coding expertise, particularly in languages and technologies relevant to the industries I'm interested in. I plan to work on a variety of projects, gaining hands-on experience and building a strong portfolio to showcase my skills. Ultimately, I aspire to take on more challenging and impactful roles, such as software engineering, development leadership, or even starting my own tech-focused venture. Throughout my career, I intend to stay updated with the latest industry trends and best practices, while also fostering strong problem-solving and collaboration skills to excel in the dynamic world of software development.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+- Kerala has a strong foundation in education.Kerala has a well-educated and skilled workforce, which is advantageous for technology companies.This has been instrumental in nurturing a talented pool of young tech professionals.
+- The state government, in collaboration with various agencies, had been actively promoting entrepreneurship and innovation. Kerala Startup Mission (KSUM) has been playing a pivotal role in fostering a startup-friendly environment.
+  
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+https://github.com/ALEENAPADMADAS
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
---
