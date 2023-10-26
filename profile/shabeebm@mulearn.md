@@ -50,8 +50,7 @@ Lastly, a commitment to sustainability and a supportive regulatory environment w
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+  https://www.hackerrank.com/profile/shabeebmattummal
 
 
 
