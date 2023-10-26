@@ -1,4 +1,4 @@
-# Full Name 
+# Binshad K (Full-stack developer) 
 
 ### About Me
 
@@ -9,7 +9,7 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
@@ -29,17 +29,11 @@
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
 -  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
