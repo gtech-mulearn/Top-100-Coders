@@ -17,24 +17,25 @@
 - Led my Team "CODEXILE" for EVEHACK'23 and won "Hack For CUSAT" category. [Our Project](https://devfolio.co/projects/cusatobot-7477)
 - Head of Procurement and Senior Software Engineer at `Team Horizon CUSAT` for `European Rover Challenge 2023` World Finals. [My Certificate](https://roverchallenge.eu/certificate/2023-onsite-horizon-jishnu-m-m/)
 - Media Lead of `Google Developer Students Club CUSAT`. [Checkout my profile](https://gdsc.community.dev/u/m5vcqn/)
-- Organized Hacktoberfest 2023 in CUSAT. [Checkout](https://events.mlh.io/events/10276-hacktoberfest-2023-in-cusat)
-- Organized MiniDebConf'23 in Kochi CUSAT. [Checkout](https://www.linkedin.com/posts/thepywizard_minidebconf23-opensource-debian-activity-7121717940659400704-I7Mv?utm_source=share&utm_medium=member_desktop)
-- Took a hands on session on Game Development using `Python` as part of Students Association of Information Technology (SAIT CUSAT) and taught students on how to build Flappy Bird game and how to apply ingame physics. [Checkout](https://www.linkedin.com/posts/students-association-of-information-technology-sait-cusat_pythonworkshop-sait-learningtogether-activity-7067182207244648450-6cxL?utm_source=share&utm_medium=member_desktop)
-- Organized success celebration for Team Horizon CUSAT. [Checkout](https://www.linkedin.com/posts/thepywizard_teamhorizon-erc2023-spaceexploration-activity-7117344353609539584-8Atu?utm_source=share&utm_medium=member_desktop)
+- Organized Hacktoberfest 2023 in CUSAT. [Check it out](https://events.mlh.io/events/10276-hacktoberfest-2023-in-cusat)
+- Organized MiniDebConf'23 in Kochi CUSAT. [Check it out](https://www.linkedin.com/posts/thepywizard_minidebconf23-opensource-debian-activity-7121717940659400704-I7Mv?utm_source=share&utm_medium=member_desktop)
+- Took a hands on session on Game Development using `Python` as part of Students Association of Information Technology (SAIT CUSAT) and taught students on how to build Flappy Bird game and how to apply ingame physics. [Check it out](https://www.linkedin.com/posts/students-association-of-information-technology-sait-cusat_pythonworkshop-sait-learningtogether-activity-7067182207244648450-6cxL?utm_source=share&utm_medium=member_desktop)
+- Organized success celebration for Team Horizon CUSAT. [Check it out](https://www.linkedin.com/posts/thepywizard_teamhorizon-erc2023-spaceexploration-activity-7117344353609539584-8Atu?utm_source=share&utm_medium=member_desktop)
   
 #### Networking:
 
 - I had the privilege of attending prominent events like `IoTSHOW 2022` and the international cybersecurity conference, `coconX 2017`.
 - I have actively participated in organizing events with `GDSC CUSAT` and `Team Horizon`, where I took on leadership roles.
--  My team's achievements in the `European Rover Challenge 2023` were acknowledged when I had the opportunity to meet the `Ernakulam District Collector`.
+-  My team's achievements in the `European Rover Challenge 2023` were acknowledged when I had the opportunity to meet the `Ernakulam District Collector`. [Check it out](https://m.facebook.com/story.php?story_fbid=pfbid02PgxARykYs5VxEaUqygh8VoESbmaSwk6yVpAbYkUX4VMucBtsi1rYrhzWMBKzKZrGl&id=100047802801259&mibextid=Nif5oz)
 -  Volunteering for SlashKey 2.0 hackathon, organized by `IEEE CUSAT SB`.
 -  Got an opportunity to meet Kochi Metro MD Shri. Loknath Behra for discussing our AI/ML based project that we are doing for `Kochi Metro PVT LTD`.
+-  Our fantastic team, "What The Hack," had a thrilling time at IEEE MACE .HACK() 2023. We met a bunch of amazing coders and web developers, and guess what? Our project was awarded the `Best Innovation Project`.
 
 
 #### As a Top 100 Member:
 
 - I aspire to be a leader in the tech world. Top 100 can provide the necessary support, knowledge, and exposure to help me achieve my leadership goals and make a substantial impact on Kerala's startup landscape.
-- I personally think that this top 100 member initiative gives me unparalleled networking opportunities. I look forward to building relationships with industry leaders, fellow participants, and mentors, which will be invaluable for my career.
+- I personally think that this top 100 initiative gives me unparalleled networking opportunities. I look forward to building relationships with industry leaders, fellow participants, and mentors, which will be invaluable for my career.
 - I anticipate gaining valuable insights and experiences that will help me stay at the forefront of the tech field.
 
 #### Career Plan: 
