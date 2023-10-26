@@ -29,6 +29,11 @@ My plan now is to get a good Job and I would like to contribute to open source p
 
 Kerala's tech startup potential lies in its skilled workforce, investment focus, innovation culture, government support, sustainability efforts, and global outreach. These elements can drive success and innovation in the state.
 
+#### Highly Used Software Tools:
+
+- Editor: Visual Studio Code
+- Programming languages: Python, JavaScript, C
+
 #### Competitive Website Profiles
 
 - [Kaggle](https://www.kaggle.com/abijithtk)
