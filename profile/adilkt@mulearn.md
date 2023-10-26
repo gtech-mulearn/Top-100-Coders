@@ -12,6 +12,12 @@
 
 - Led a team of 4 developers in a hackathon conducted by steyp.com and won second prize .
 
+
+#### NetWorking:
+
+- I am confident in my strong networking skills and aspire to leverage them for the collective benefit of the community, including my own growth. I believe I can establish meaningful connections with organizations and attract new members who possess expertise in various areas. I intend to harness these connections to collaborate with others effectively.
+
+
 #### As a Top 100 Member:
 
 - Envisioning that membership in the Top 100 will unlock fresh avenues for growth, stimulate innovation, and elevate my professional journey.
@@ -20,7 +26,7 @@
 #### Career Plan:
 
 - In the short term, my goal is to enhance my skills by learning from industry leaders and becoming an expert in specific areas.
-- In the long term, I aim to launch startups .
+- In the long term, I aim to launch startups and provide for the community.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
