@@ -57,7 +57,9 @@
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Hackerrank - [View Profile](https://www.hackerrank.com/profile/thepywizard)
+- Leetcode - [View Profile](https://www.leetcode.com/thepywizard)
+- Codechef - [View Profile](https://www.codechef.com/users/thepywizard)
 
 
 
