@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a passionate full-stack developer with a strong commitment to excellence in the field of technology.
 
 
 ### Portfolio Highlights
@@ -21,9 +21,9 @@
 
 - outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I plan to actively participate in local tech events and mentor aspiring developers. In the long term, I aim to establish a tech startup in Kerala to support and nurture local talent, creating a thriving ecosystem. By bridging the gap between academia and industry, we can foster innovation and make Kerala a hub for technology startups in the future.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
