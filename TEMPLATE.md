@@ -1,58 +1,43 @@
-# Full Name 
+# Rohan Thomas Reji 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I am a Self motivated Java Full Stack Developer pursuited Computer Science Engineering at Lourdes Matha Science And Technology Trivandrum,I seek opportunity to learn new technologies and passionate in this software field.I have a strong foundation in java core concepts and also web development like Springboot,HTML,CSS,Bootstrap and interacted with database like MySQL,And I love to learn new Technolgy to grow and stay up to date with this ever changing world.
 
 
 ### Portfolio Highlights
 
+https://rohxnn.github.io/RohanProfile/
 
 
-#### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+#### Leadership and Influence: 
 
-#### Networking: `required field`
+In my domain as a Java Full Stack Developer, I demonstrate leadership and influencing skills through my ability to motivate and inspire my friends. While I may not have participated in formal meetings or held an official leadership role, my impact is evident in my daily interactions and the positive influence I have on those around me.
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+#### Networking: 
 
-#### As a Top 100 Member: `required field`
+* Have built strong networks through LinkedIn.
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+#### As a Top 100 Member: 
 
-#### Career Plan: `required field`
+* Being part of Top 100 will open my eyes to explore new technologies,helps me to boost my career.
+* Network with tech enthusiasts,Expand my knowledge by hearing out from other perspectives.
+#### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+* In the short term, I plan to focus on enhancing my technical skills and staying updated with the latest trends in technology and startups.
+* Once I have gained expertise in a specific domain, I aspire to give back by becoming a mentor to aspiring entrepreneurs and sharing my experiences.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+* I believe Kerala has the potential to become a significant player in the technology startup ecosystem with continued support and a focus on addressing challenges,it can foster a thriving tech ecosystem that benefits both the local community and the global tech industry.
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+Nike-Clone-Website- https://nike-application-production.up.railway.app/nike/in
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
 
