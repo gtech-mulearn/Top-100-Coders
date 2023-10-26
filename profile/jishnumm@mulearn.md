@@ -24,47 +24,45 @@
   
 #### Networking:
 
-- I had the privilege of attending prominent events like `IoTSHOW 2022` and the international cybersecurity conference, `coconX 2017`. These experiences exposed me to the latest trends and innovations in networking and cybersecurity. I gained invaluable insights into emerging technologies and had the opportunity to connect with experts in the field.
-- I have actively participated in organizing events with `GDSC CUSAT` and `Team Horizon`, where I took on leadership roles. This involvement honed my organizational and team leadership skills, enabling me to plan and execute successful events that brought together like-minded individuals in our community.
+- I had the privilege of attending prominent events like `IoTSHOW 2022` and the international cybersecurity conference, `coconX 2017`.
+- I have actively participated in organizing events with `GDSC CUSAT` and `Team Horizon`, where I took on leadership roles.
 -  My team's achievements in the `European Rover Challenge 2023` were acknowledged when I had the opportunity to meet the `Ernakulam District Collector`.
--  Volunteering for SlashKey 2.0 hackathon, organized by `IEEE CUSAT SB`, provided an ideal platform to meet individuals who share my dedication to networking. Connecting with like-minded peers, sharing ideas, and collaborating on projects were invaluable experiences that strengthened my network.
+-  Volunteering for SlashKey 2.0 hackathon, organized by `IEEE CUSAT SB`.
 -  Got an opportunity to meet Kochi Metro MD Shri. Loknath Behra for discussing our AI/ML based project that we are doing for `Kochi Metro PVT LTD`.
 
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I aspire to be a leader in the tech world. Top 100 can provide the necessary support, knowledge, and exposure to help me achieve my leadership goals and make a substantial impact on Kerala's startup landscape.
+- I personally think that this top 100 member initiative gives me unparalleled networking opportunities. I look forward to building relationships with industry leaders, fellow participants, and mentors, which will be invaluable for my career.
+- I anticipate gaining valuable insights and experiences that will help me stay at the forefront of the tech field.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - I have a strong passion for teaching and sharing knowledge, particularly in the fields of Python, web development, and design using tools like Photoshop. In the future, I plan to expand my efforts in these areas, aiming to make a positive impact and empower others in their learning journey.
 - I intend to organize more educational events and workshops in collaboration with organizations like Google Developer Students Club and Team Horizon. These initiatives will provide students and aspiring developers with valuable insights and hands-on experience in the tech industry.
 - My [YouTube](https://www.youtube.com/@thepywizard) channel serves as a platform for discussing various tech-related topics. I plan to create more content to reach a wider audience, covering a range of subjects, from programming and web development to design and emerging technologies.
 -  As part of my ongoing learning journey, I'm working on enhancing my skills in technologies like Spline and Three.js. This knowledge will enable me to build innovative projects and applications, further expanding my technical expertise.
-- I'm committed to giving back to the open-source community. I plan to actively contribute to open-source projects, leveraging my skills to support and improve software that benefits a broader user base. This contribution is driven by my desire to collaborate and share my expertise with the global developer community.
 - Upon completing my B.Tech degree, I aim to join startups in the tech industry. Startups offer an environment of innovation and growth, and I'm excited to be a part of these dynamic teams. My goal is to contribute to the success of these organizations by bringing my knowledge and skills to help build and expand their ventures.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala's tech ecosystem shows promise and stands out due to initiatives like TinkerSpace in Kochi, which is established by startup entrepreneurs and technologists from the state. It offers a unique opportunity for anyone to learn exponential technologies and coding for free, fostering a culture of knowledge sharing and innovation.
+- Kerala's tech ecosystem shows promise and stands out due to initiatives like TinkerSpace in Kochi, which is established by Tinkerhub, startup entrepreneurs and technologists from the state. It offers a unique opportunity for anyone to learn exponential technologies and coding for free, fostering a culture of knowledge sharing and innovation.
 - Our Kerala hosts numerous technical events, including hackathons and coding competitions organized by various colleges. These events play a crucial role in shifting the focus from academic performance to real-world project development, encouraging students to apply their skills in practical settings.
-- 
+- Like Beach Hack, Kerala's colleges have organized a series of unique hackathons, each showcasing the state's commitment to fostering innovation and creativity in the tech community.
 
-#### History of Open Source Contributions:
+#### Certifications
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- ERC Space & Robotics Industry Standard - [View Certificate](https://roverchallenge.eu/certificate/2023-onsite-horizon-jishnu-m-m/)
+- Python Data Structures Coursera - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/M25J2P2N67FH)
+- Problem Solving Hackerrank Basic - [View Certificate](https://www.hackerrank.com/certificates/0f99f491bc98)
+- Python Hackerrank Basic - [View Certificate](https://www.hackerrank.com/certificates/79ee63e850b1)
+- Cybrary Ethical Hacking - [View Certificate](https://app.cybrary.it/courses/api/certificate/CC-49087ed0-b243-4df4-ab02-05fef12ae87d/view)
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I've created educational videos on AI photo generation techniques, which can be found on [YouTube](https://youtu.be/M1u4QFWLTxc).
+- Additionally, I've produced content on AI video upscaling, available for viewing on [YouTube](https://youtu.be/VQUeTSFWMN4).
 
 #### Competitive Website Profiles:
 
@@ -72,9 +70,7 @@
 - Leetcode - [View Profile](https://www.leetcode.com/thepywizard)
 - Codechef - [View Profile](https://www.codechef.com/users/thepywizard)
 
+#### Connect with me
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- [Linkedin](https://linkedin.com/in/thepywizard)
+- [Github](https://github.com/thepywizard)
