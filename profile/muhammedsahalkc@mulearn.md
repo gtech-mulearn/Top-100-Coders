@@ -46,10 +46,6 @@ First and foremost, membership in the Top 100 will provide me with unparalleled 
 - Behance : https://www.behance.net/msahalkc
   Github  : https://www.github.com/msahalkc
 
-#### Highly Used Software Tools:
-
-- Creative : Adobe Illustrator, Adobe Photoshop, Figma, Adobe Premiere Pro, Adobe Indesign
-
 #### Competitive Website Profiles:
 
 - hackerrank : https://www.hackerrank.com/profile/msahalkc
