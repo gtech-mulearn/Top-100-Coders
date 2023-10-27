@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a first-year Computer Science Engineering student at Christ College of Engineering with a passion for technology and innovation. While I'm in the early stages of my academic journey, I am eager to learn, grow, and make a meaningful impact in the tech industry.
+>I am a first-year Computer Science Engineering student at Christ College of Engineering with a passion for technology and innovation. While I'm in the early stages of my academic journey, I am eager to learn, grow, and make a meaningful impact in the tech industry.
 
 ### Portfolio Highlights
 
