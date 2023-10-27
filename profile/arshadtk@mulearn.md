@@ -41,8 +41,10 @@ TensorFlow Enthusiast: Passionate about deep learning and TensorFlow, with a foc
 
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
+#### Competitive Website Profiles:
 
-
+- Linkedin: https://www.linkedin.com/in/arshad-thonikkara-149238209
+- Github: https://github.com/Arshadkvk
 
 
 
