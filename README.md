@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across the state of Kerala and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
+Welcome to the Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across India and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
 </div>
 
 <div align="center">
