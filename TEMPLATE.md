@@ -1,58 +1,42 @@
-# Full Name 
+# Chandu R
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
-
+Hello Everyone ! I am Chandu R , A 2nd year Electronics Engineering in Diploma student at SN polytechnic College at Kottiyam,Kollam in Kerala.I would like to dive deep into the world of programming. I am an absolute fresher with basic knowledge in C, Python & HTML.
 
 ### Portfolio Highlights
 
-
-
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+To be a leader it's important to have a clear vision and the ability to inspire others to work towards that vision.I have a strong interest in coding and entrepreneurship, which are both fields that require leadership and influencing skills.My decision to pursue a degree in electronics engineering is an example for my leadership skill , This is a challenging field that requires dedication and hard work, and my willingness to take on this challenge demonstrates my leadership potential.
+In terms of influencing skills, My interest in entrepreneurship is a great example. By pursuing my dream of starting my own business, I would like to demonstrate the power of entrepreneurship and inspiring others to do the same.
 
 #### Networking: `required field`
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+<ul dir="auto">
+<li>I have connected with individuals like same POV like me throuugh various social media platforms and communities.</li>
+<li>To engage with the Top 100 community, I plan to actively participate in events, share knowledge, and offer mentorship.</li>
+</ul>
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+I think i can use it as a platform to showcase my skills and collaborate with other people. I Believe that being a part of Top 100 will open doors to new opportunities, foster innovation, and enhance my career.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Currently I'm studing Electronics engineering in Diploma after that i would choose Electronics Engineering in Btech and parallely do some add on courses.I’m interested in pursuing a career as an entrepreneur. I believe that entrepreneurship is the best way to achieve financial independence and freedom, and I’m excited about the prospect of building something from the ground up. 
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+Active participant in the Gtech Mulearn <code>Current rank #2639</code>
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
+<ul dir="auto">
+<code><li><a href="https://www.hackerrank.com/connect_chandur" rel="nofollow">HackerRank</a></li> </code>
+<code><li><a href="https://app.mulearn.org/profile/chandur@mulearn" rel="nofollow">Mulearn</a></li> </code>
+<code><li><a href="https://github.com/chandur04" rel="nofollow">Github</a></li></code>
+</ul>
