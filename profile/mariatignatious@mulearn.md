@@ -23,9 +23,13 @@ Over the years, Kerala has made significant technological advancements, marked b
 
 #### Highly Used Software Tools:
 Linux(Ubuntu)
+
 Visual Studio Code
+
 Google Colaboratory
+
 Text Editor
+
 Canva
 
 #### Competitive Website Profiles:
