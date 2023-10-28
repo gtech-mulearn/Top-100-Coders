@@ -6,7 +6,8 @@
 
 
 ### Portfolio Highlights
-
+- [GitHub](https://github.com/joel0611)
+- [LinkedIn](https://www.linkedin.com/in/joel-basil-kurian-348517232/)
 
 
 #### Leadership and Influence:
