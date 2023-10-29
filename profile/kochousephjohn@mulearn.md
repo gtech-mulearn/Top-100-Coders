@@ -61,4 +61,3 @@
 - Kerala's high literacy rate fuels a growing tech ecosystem. Emphasis on education and skill development creates a skilled workforce. Government policies, tech parks, and networking events contribute to a thriving environment, positioning Kerala at the forefront of the tech industry with a focus on emerging technologies.
 
 ---
-
