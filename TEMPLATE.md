@@ -9,19 +9,19 @@
 
 
 
-#### Leadership and Influence: `required field`
+#### Leadership and Influence: 
 
 - explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
-#### Networking: `required field`
+#### Networking: 
 
 - explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
 
-#### As a Top 100 Member: `required field`
+#### As a Top 100 Member: 
 
 - outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
 
-#### Career Plan: `required field`
+#### Career Plan: 
 
 - outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
