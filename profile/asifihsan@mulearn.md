@@ -1,5 +1,4 @@
-# Full Name 
-ASIF IHSAN
+# ASIF IHSAN
 
 ### About Me
 
