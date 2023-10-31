@@ -1,4 +1,4 @@
-# Sabal Krishna S</h1>
+# Sabal Krishna S
 
 ### About Me
 
