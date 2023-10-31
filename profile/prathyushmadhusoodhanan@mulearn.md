@@ -33,9 +33,12 @@ Kerala should focus on research more, since research is always one step ahead co
 
 - [Github](https://github.com/prathyushmadhu)
 - [LinkedIn](https://www.linkedin.com/in/prathyushmadhu/)
-- [Leetcode](https://leetcode.com/prathyushmadhu/)
 - [Twitter](https://twitter.com/prathyushmadhu)
 
+#### Competitive Website Profiles:
+
+- [Leetcode](https://leetcode.com/prathyushmadhu/)
+- [Kaggle](https://www.kaggle.com/prathyushmadhu)
 
 
 > In your portfolio, include the following details:
