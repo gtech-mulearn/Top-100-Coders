@@ -2,11 +2,9 @@
 
 ### About Me
 
-> 🚀🌟 Hello! I'm a tech enthusiast on a mission to merge innovation with imagination. 🎓 Currently, I'm embarking on my third year of a thrilling journey pursuing a B.Tech in Computer Science and Engineering at TKM College of Engineering, Kollam. My heart beats for the cutting-edge realms of AI and Web3, where the future is being shaped one line of code at a time. 🌐💡 In the digital universe, I'm a storyteller, and my medium is data. 📊 With a passion for data science, machine learning, and deep learning, I've embarked on numerous projects that unravel the hidden patterns of our interconnected world. 🤖🎨 I'm captivated by the endless possibilities that arise when algorithms meet creativity. 💫
+Hello!👋 I'm a computer science and engineering student at TKM College of Engineering, Kollam, currently in my third year. I'm passionate about AI and Web3, where I believe the future is being shaped one line of code at a time. My interests lie in data science, machine learning, and deep learning, and I've worked on various projects to uncover hidden patterns in data. I'm fascinated by the possibilities that emerge when algorithms meet creativity.
 
-💻🌍 I'm a firm believer in the power of technology to catalyze the next revolution and advance every facet of human existence. It's not just about code and circuits; it's about the transformational potential that lies within our grasp. 🚀🔮 I'm excited to be a part of this exhilarating era, where we're crafting the blueprint for the future.
-
-In my free time, you'll find me exploring the digital wilderness, brainstorming AI-inspired art 🖼️, or diving into decentralized web ecosystems. 🕵️‍♂️🌐 Let's connect and explore the uncharted territories of tech together. The digital frontier is vast, and our journey has only just begun! 🚁🌌
+I firmly believe in the transformative power of technology to advance human existence. I'm thrilled to be part of this exciting era where we're crafting the blueprint for the future. In my free time, I explore the research trends 🌐, try implementing what I learn 🎨, and learn together as well. Let's connect and explore the uncharted territories of tech together. The digital frontier is vast, and our journey has only just begun! 👋🚀
 
 
 ### Portfolio Highlights
@@ -15,11 +13,11 @@ In my free time, you'll find me exploring the digital wilderness, brainstorming 
 
 #### Leadership and Influence: 
 
-In my roles as Program Head of IEI CSE and Co-Tech Lead of GDSC TKMCE, I've led and guided teams, orchestrated tech events, and fostered innovation. Notably, I mentored the ML-A-THON, steering participants through a machine learning competition. Additionally, my involvement in PyWeek showcased my mentorship skills in Python programming. My established network of local and international contacts will facilitate collaboration and knowledge sharing in the Top 100 community. Through active participation in discussions, webinars, and collaborative projects, I aim to inspire and guide fellow members, contributing to collective growth and success.
+In my roles as Program Head of IEI CSE and Co-Tech Lead of GDSC TKMCE, I've led and guided teams, orchestrated tech events, and fostered innovation. Notably, I mentored the ML-A-THON, helping participants through a machine learning competition. Additionally, my involvement in PyWeek showcased my mentorship skills in Python programming. I have quite some connections with whom I aspire to learn and grow together.
 
 #### As a Top 100 Member:
 
-I'm applying to the Top 100 to fuel my unwavering pursuit of excellence. It's an opportunity to expand my knowledge in AI, Web3, and entrepreneurship, aligning with my professional goals. This community offers insights from accomplished entrepreneurs and invaluable networking to stay updated on industry trends, foster collaborations, and explore new career avenues. In essence, being in the Top 100 will empower me with cutting-edge knowledge, a supportive community, and influential networks, propelling my success in AI, Web3, and entrepreneurship.
+Top 100 is an opportunity to expand my knowledge in AI, Web3, and entrepreneurship, aligning with my professional goals. This community offers insights from accomplished entrepreneurs and invaluable networking to stay updated on industry trends and foster connections. In essence, being in the Top 100 will empower me with cutting-edge knowledge, a supportive community, and influential networks, propelling my success in AI, Web3, and entrepreneurship.
 
 #### Career Plan: 
 
