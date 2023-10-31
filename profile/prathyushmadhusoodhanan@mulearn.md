@@ -29,19 +29,6 @@ Currently, I am looking forward to hone my skills in AI and study about the sart
 
 Kerala should focus on research more, since research is always one step ahead comparing to the current market technology. Therefore, if we can get a new technology in our hand, there opens a way to use that in market. Also I think that research policy should also focus on all Colleges and not just Top colleges like IIT.
 
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
 #### Competitive Website Profiles:
 
 - [Github](https://github.com/prathyushmadhu)
