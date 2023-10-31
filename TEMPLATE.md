@@ -1,8 +1,7 @@
-# Full Name 
+# m.brindha 
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+iam a college student studying in third year bsc computer science in velumanoharan arts and science college for women
 
 
 ### Portfolio Highlights
