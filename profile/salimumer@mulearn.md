@@ -3,7 +3,7 @@
 ### About Me
 
 >I'm Salim Umer, a tech enthusiast with a focus on data analysis and data science. I'm currently working on a Python dashboard project using Streamlit, NumPy, Pandas, and Plotly.
-> I'm also an enthusiastic problem solver and innovator, constantly seeking opportunities to apply technology to create impactful solutions. I've had the privilege of participating in numerous competitions at the state level, showcasing my commitment to pushing the boundaries of innovation.
+> I'm also an enthusiastic problem solver and innovator, constantly seeking opportunities to apply technology to create impactful solutions. I've had the privilege of participating competitions at the state level, showcasing my commitment to pushing the boundaries of innovation.
 
 
 ### Portfolio Highlights
@@ -13,13 +13,13 @@
 #### Leadership and Influence: 
 
 
-- As the NEST North regional lead with the Kerala Startup Mission, I championed tech startups in IEDCs, igniting their initiatives and transforming innovation centers into thriving hubs at different colleges.
+- As the NEST North regional lead with the Kerala Startup Mission, I championed tech startups in IEDCs, igniting their initiatives and transforming innovation centers into thriving hubs at different colleges.[📍](https://www.linkedin.com/posts/salimumer_reflectingonmyjourney-leadershipexperience-activity-7117010925248811008-u2Vq?utm_source=share&utm_medium=member_desktop)
 
 - I fostered collaboration and knowledge sharing, cultivating robust communities of innovators and entrepreneurs.
   
-- At MuLearn, I facilitated student learning in small, supportive groups, enabling them to broaden their horizons.
+- At MuLearn, I facilitated student learning in small, supportive groups, enabling them to broaden their horizons.[📍](https://www.instagram.com/p/CdnHrHUMsQi/?utm_source=ig_web_copy_link)
 
-- Serving as the CFO at IEDC, I provided mentorship to students, organized inclusive events, and actively promoted a culture of innovation.
+- Serving as the CFO at IEDC, I provided mentorship to students, organized inclusive events, and actively promoted a culture of innovation.[📍](https://www.linkedin.com/posts/salimumer_an-iedc-experience-to-growth-activity-7026419014180507648-jx7g?utm_source=share&utm_medium=member_desktop)
 
 - My adaptable and passionate approach has consistently driven my commitment to fuel innovation and entrepreneurship.
 
@@ -59,14 +59,10 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I've actively organized and led events like Arduino workshops, the STARTUP-i3 Bootcamp for innovators, and Ideathons within my college campus.- [Check out the post](https://www.linkedin.com/posts/salimumer_an-iedc-experience-to-growth-activity-7026419014180507648-jx7g?utm_source=share&utm_medium=member_desktop)
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+- [Linkedin](https://www.linkedin.com/in/salimumer/)
+- [Github](https://github.com/Salimumer)
 
