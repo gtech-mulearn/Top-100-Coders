@@ -32,4 +32,4 @@
 
 - I have been an Open Source Contributer for the past 3 years.I have actively contributed to Hacktoberfest. 
 #### Competitive Website Profiles:
-- [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/profile/geoff_george_th1)https://www.hackerrank.com/profile/geoff_george_th1
+- https://www.hackerrank.com/profile/geoff_george_th1
