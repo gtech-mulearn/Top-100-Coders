@@ -1,5 +1,4 @@
-# Full Name 
-Sidharth.P.R
+# Sidharth.P.R
 ### About Me
 
 My name is Sidharth.P.R, and I am currently working at Picky Assist Pvt Ltd as a QA (Quality Analyst) or Software Tester. I am passionate about ensuring the quality and functionality of software applications to provide the best user experience. With a keen eye for detail and a systematic approach to testing, I contribute to the development process by identifying and resolving issues to deliver high-quality products.
