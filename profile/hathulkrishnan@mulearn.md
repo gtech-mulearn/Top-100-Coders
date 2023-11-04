@@ -11,6 +11,8 @@
 
 [Github](https://github.com/athul-2003)
 
+[Mulearn](https://app.mulearn.org/dashboard/profile)
+
 
 #### Leadership and Influence: 
 
@@ -30,35 +32,38 @@
 #### Career Plan: 
 
 - Immediate Plans: I intend to start by actively engaging with local tech communities, participating in startup events, and mentoring aspiring entrepreneurs.I want to learn and use that knowledge to empower and inspire others.
-- Longer-term Vision: My goal is to establish a startup that empowers and guides budding entrepreneurs, offering valuable insights and mentorship to help them achieve their goals. I firmly believe that Kerala can excel in the Technology Startup Ecosystem by nurturing talent from an early age, implementing technology workshops, and cultivating a culture of innovation. 
+- Longer-term Vision: My goal is to establish a startup that empowers and guides budding entrepreneurs, offering valuable insights and mentorship to help them achieve their goals. 
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-  I firmly believe that Kerala can excel in the Technology Startup Ecosystem by nurturing talent from an early age, implementing technology workshops, and cultivating a culture of innovation.
+- Education: Nurturing tech talent from schools, colleges, and universities.
+- Infrastructure: Building co-working spaces, incubators, and accelerators.
+- Government Support: Providing incentives and policies to encourage startups.
+- Innovation Culture: Fostering a mindset of creativity and risk-taking.
+- Diversity: Promoting inclusivity to bring fresh perspectives.
+- Collaboration: Encouraging partnerships between startups, academia, and industries.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Contributed to 'Awesome aka Bring Every Business Online' which is an Open Source Initiative by Mulearn, where i had built a website for a nearby business, [JR Medicare](https://athul-2003.github.io/JR-Medicare/)
+- Check my [Github](https://github.com/athul-2003) for more details.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+-  I am a member of GDSC and Mulearn, where I actively participate in various events and sessions, contributing to my knowledge and skill development. This community engagement has been invaluable in my technical growth.
+-  Level 4 in [Mulearn](https://app.mulearn.org/dashboard/profile) with 6K karma points,which will increase further through my active participation in various events.
+  
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Currently a student, I am in the process of honing my technical skills and have yet to produce widely recognized technical content.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [Geeks For Geeks](https://auth.geeksforgeeks.org/user/athulakhil28/)
+- [Hackerrank](https://www.hackerrank.com/profile/athulakhil28)
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
