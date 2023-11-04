@@ -7,23 +7,30 @@
 
 ### Portfolio Highlights
 
+[Linkedin](https://www.linkedin.com/in/h-athulkrishnan/)
+
+[Github](https://github.com/athul-2003)
 
 
 #### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Currently I am a part of the GDSC Organisation Team of my college.
+- Team leader of Code Explorers nominated for SIH 2023 from my college.
 
 #### Networking: 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- With strong networking and communication skills developed through tech events and online communities, I'll actively engage with the Top 100 community, sharing insights, and seeking mentorship.
+- I'll influence and lead by collaborating on projects, mentoring, and sharing insights in my field. Open-source contributions and workshops will help me learn and grow, as well as inspire others in tech.
 
 #### As a Top 100 Member: 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I am applying to be a Top 100 member because it offers a unique opportunity to connect with and learn from the best in the industry. This directly relates to my current profession in computer science by providing a platform for networking, knowledge sharing, and mentorship.
+- Being in the Top 100 will elevate my career by expanding my professional network, staying updated with industry trends, and accessing new opportunities that can lead to career growth and impactful projects.
 
 #### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Immediate Plans: I intend to start by actively engaging with local tech communities, participating in startup events, and mentoring aspiring entrepreneurs.I want to learn and use that knowledge to empower and inspire others.
+- Longer-term Vision: My goal is to establish a startup that empowers and guides budding entrepreneurs, offering valuable insights and mentorship to help them achieve their goals. I firmly believe that Kerala can excel in the Technology Startup Ecosystem by nurturing talent from an early age, implementing technology workshops, and cultivating a culture of innovation. 
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
