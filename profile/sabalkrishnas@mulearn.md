@@ -25,7 +25,7 @@
 
 -  My career plan is to become a succecfull applicaion developer and also to gain advance knowledge in the field of AI. I also want to share what i have learned to others as well.
 
-### Thoughts on Kerala's Tech Ecosystem: `required field`
+### Thoughts on Kerala's Tech Ecosystem:
 
 -  Kerala's tech ecosystem has been growing steadily in recent years. The state government's initiatives, such as the Technopark and Infopark, have played a key role in attracting IT companies and startups. Additionally, the presence of educational institutions like IIT and NIT has contributed to a pool of skilled professionals.Kerala has also made efforts to support startups through schemes like the Kerala Startup Mission. However, compared to tech hubs like Bangalore or Hyderabad, it is still in the early stages of development. It faces challenges in terms of infrastructure and investment, but it has the potential to become a significant tech ecosystem in the future, especially in areas like healthcare IT, tourism tech, and agriculture tech.
 
