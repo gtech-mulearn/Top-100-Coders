@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a dedicated college student with a strong passion for Python and a proven track record in software development. I'm seeking challenging leadership opportunities where I can leverage my comprehensive understanding of Python and a diverse technology stack to lead and mentor teams, while driving innovative solutions and fostering a collaborative work environment.
+> In the ever-evolving landscape of technology, I stand as a dedicated college student, deeply passionate about the art of coding. At the heart of my digital journey lies `Python`, my foremost ally in the world of programming. My proficiency extends beyond Python to encompass a comprehensive range of languages, including `C++`, `JavaScript`,`HTML`,`React` and more. Yet, my skills are not confined to coding alone. I am equally adept in the realm of design, harnessing tools such as `Photoshop`, `Illustrator`, `Figma`, and `Adobe XD` to craft captivating visuals and user experiences that transcend the ordinary. I'm committed to leading, inspiring, and fostering innovation in the tech world. If you seek a professional who can navigate the intricate world of coding and design while providing leadership and mentorship, look no further. Let's embark on a journey of innovation and make a profound impact together.
 
 
 ### Portfolio Highlights
@@ -51,6 +51,21 @@
 - Kerala's tech scene is a fusion of tradition and innovation. It's not just about coding; it's about a unique blend of culture, history, and technology. Startups like TinkerSpace showcase this fusion, making learning an enriching experience. Kerala's tech events are hands-on, emphasizing practical skills and real-world problem-solving.
 - Govt of Kerala , encourages startups by providing them with the facikities for incubation and seed money for its development through systems like Kerala Startup Mission , IEDC Kerala etc.
 - Kerala is one among the biggest Tech Hubs in India and has the potential to become The Biggest Tech Hub in India. Both Private and Public sectors show great progress in the past decade in Tech Ecosystem of Kerala.    
+
+#### History of Open Source Contributions:
+
+- I have been a part of the team in my school days which helped in the development of IT@School Ubuntu Updated Version for Kerala State Syllabus Students
+- I have a developed a shell ui for an open source handwriting development project
+#### Highly Used Software Tools:
+
+- Programming Languages: Proficient in Python, C, C++, and JavaScript.
+- Web Development: Skilled in HTML, CSS, and JavaScript, and experienced in working with frameworks such as React and Express.
+- Databases: Proficient in working with MySQL, PostgreSQL, MongoDB, and Firebase.
+- Version Control: Familiar with Git for version control.
+- Cloud Services: Experienced with Azure and Google Cloud Platform (GCP).
+- Web Design: Skilled in using tools like Photoshop, Illustrator, Figma, and Adobe XD.
+- Mobile App Development: Proficient in developing mobile applications using Flutter.
+- Machine Learning and AI: Experienced in working with OpenCV, Pandas, YOLO, TensorFlow, and Colab for machine learning and AI projects.
 
 #### Certifications
 
