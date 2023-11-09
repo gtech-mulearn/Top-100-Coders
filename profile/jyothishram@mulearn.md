@@ -12,8 +12,9 @@ https://jyothishram.axllabs.in/
 
 ### Portfolio Highlights
 
-https://jyothishram.axllabs.in/
-
+portFolio: https://jyothishram.axllabs.in/
+GitHub: https://github.com/jyothishram/
+LinkedIn: https://www.linkedin.com/in/jyothishram/
 
 
 #### Leadership and Influence: 
@@ -50,7 +51,13 @@ https://jyothishram.axllabs.in/
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Flutter
+- Android Studio
+- ardiuno
+- Ros
+- Shapr3d
+- VScode
+- Firebase
 
 #### Competitive Website Profiles:
 
