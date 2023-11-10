@@ -31,12 +31,13 @@
 
 #### Career Plan:
 
-- In immediate term I plan to mentor freshers and Junior Software Engineers from Kerala, to help freshers clear interviews and Junior software engineers become better
-- My longer-term plan is to form an NGO or a community of passionate and highly knowledgable engineering professionals in tech industry to conduct training sessions in engineering colleges and vocational training institutions for final year students to help improve quality of fresh graduates coming out from the colleges.
+- In immediate term I plan to mentor freshers and Junior Software Engineers from Kerala, to help freshers clear interviews and Junior software engineers to become better engineers. I already try to help/guide people who approach me via LinkedIn.
+- My longer-term plan is to form an NGO or a community of passionate and highly knowledgable engineering professionals in tech industry to conduct training sessions in engineering colleges and vocational training institutions in Kerala to help improve quality of fresh graduates coming out from our institutions.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- We must establish early mentorship programs in professional collages and polytechnics of Kerala to ensure fresh graduates are trained on best practices, principles, processes and tools that are widely used in the tech industry so that recruiting managers can hire our fresh graduates more confidently without worrying that the fresh recruits cannot be productive without spending extra time and money for training them, even though they have the talent and technical skills required for the job.
+- Form small industry cells inside technical institutions to give students the required infrastructure and guidance to develop softwares or technolgies while they are still doing their graduation study. This program must be designed to give them an opportunity to gain hands-on experience in the potential careers they can pursue after the graduation, so that they can present themselves as experienced candidates immediately after the graduation.
 
 #### History of Open Source Contributions:
 
