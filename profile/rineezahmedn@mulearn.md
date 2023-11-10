@@ -29,24 +29,23 @@
 - I hope to get oopportunities to network with most talented coders in my region.
 - I also hope this competition can create opportunities for more exposure for my company Livares.
 
-#### Career Plan: 
+#### Career Plan:
 
-- In immediate term
-- My longer-term plan is to form an NGO or a community of highly experienced engineering professionals in Tech industry to conduct training sessions in Engineering colleges and  vocational training institutions for final year students to help improve quality of fresh graduates coming out from the colleges.
+- In immediate term I plan to mentor freshers and Junior Software Engineers from Kerala, to help freshers clear interviews and Junior software engineers become better
+- My longer-term plan is to form an NGO or a community of passionate and highly knowledgable engineering professionals in tech industry to conduct training sessions in engineering colleges and vocational training institutions for final year students to help improve quality of fresh graduates coming out from the colleges.
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- [Contributed to rescue kerala project during 2018 floods](https://github.com/rineez-livares/rescuekerala)
+- Have developed a JitsiMeet Client for UbuntuTouch
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
+-  I answer questions and participate in discussions on Quora and StackOverflow. Also often help with triaging new questions in SO.
 
 [Quora](https://www.quora.com/profile/Rineez-Ahmed/)
 
