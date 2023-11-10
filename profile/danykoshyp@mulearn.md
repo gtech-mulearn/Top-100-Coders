@@ -2,14 +2,31 @@
 
 ### About Me
 
-Hello everyone! My major is computer science, and I'm a third-year B.Tech student. I work as a front-end developer by day, creating engaging user interfaces that elevate digital experiences. Not only that, but I also have a strong passion for cybersecurity and work to protect the digital world.
-
-My journey in tech is enhanced by my membership in IEEE, which I am proud of. My involvement in online and offline events goes beyond simply passing through classes; I'm actively contributing to the community and sharing knowledge. So every day is an adventure in creating the tech of the future, whether I'm writing a beautiful user interface or taking on cybersecurity concerns!
+Hello everyone! My major is computer science, and I'm a third-year B.Tech student. I work as a front-end developer by day, creating engaging user interfaces that 
+elevate digital experiences. Not only that, but I also have a strong passion for cybersecurity and work to protect the digital world.
+My journey in tech is enhanced by my membership in IEEE, which I am proud of. My involvement in online and offline events goes beyond simply passing through classes;
+I'm actively contributing to the community and sharing knowledge. So every day is an adventure in creating the tech of the future, whether I'm writing a beautiful 
+user interface or taking on cybersecurity concerns!
+I am student with leadership and communication skills which help to cope up with the enviornment I live in.It help me to understand and learn people around me .It gives
+me a survivng capability day by day to be a good team member.
 
 
 
 ### Portfolio Highlights
 
+
+
+- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) `Current rank #75`.
+- Mulearn Support team Member PEC
+- IEEE Documentation team Member PEC
+- NSS Poster team Member PEC
+
+
+#### Competitive Website Profiles:
+
+- Rank #75 at [Mulearn](https://app.mulearn.org/profile/danykoshyp@mulearn)  based on Karma Points.
+-  [LinkedIn]([(https://www.linkedin.com/in/dany-koshy-a79328232/)]
+- [Github](https://github.com/Dany-Koshy-P)
 
 
 #### Leadership and Influence: 
