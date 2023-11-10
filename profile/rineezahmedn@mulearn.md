@@ -31,7 +31,8 @@
 
 #### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- In immediate term
+- My longer-term plan is to form an NGO or a community of highly experienced engineering professionals in Tech industry to conduct training sessions in Engineering colleges and  vocational training institutions for final year students to help improve quality of fresh graduates coming out from the colleges.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
@@ -47,19 +48,14 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+[Quora](https://www.quora.com/profile/Rineez-Ahmed/)
 
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+[StackOverflow](https://stackoverflow.com/users/569439/rineez?tab=profile)
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+[Codewars](https://www.codewars.com/users/rineez)
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+[TechGig](https://www.techgig.com/pub/rineez)
 
 ---
