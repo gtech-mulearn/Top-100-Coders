@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a currently a MCA student at Government Engineering College, Thrissur. I am proficient in programming languages like C, C++, Java, Python. I have experience working with databases such as MySQL, PostgreSQL and MongoDB. I have good knowledge in the machine learning framework 'Pytorch'. I am highly passionate in creating deep learning applications.
+> I'm a currently a MCA student at Government Engineering College, Thrissur. I am proficient in programming languages like C, C++, Java, Python. I have experience working with databases such as MySQL, PostgreSQL and MongoDB. I have good knowledge in the machine learning framework 'Pytorch'. I am highly passionate in creating deep learning applications. I have uploaded applications like calculator, base coverter, etc. in play store.
 
 
 ### Portfolio Highlights
@@ -38,7 +38,7 @@
 
 #### Highly Used Software Tools:
 
--  I have uploaded applications like calculator, base coverter, etc. in play store.
+-  PyCharm, VSCode, Android Studio
 
 
 
