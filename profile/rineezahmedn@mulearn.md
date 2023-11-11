@@ -47,7 +47,8 @@
 
 #### History of Community Engagement:
 
--  I answer questions and participate in discussions on Quora and StackOverflow. Also often help with triaging new questions in SO.
+- I was a Technical Jury member for the Reboot Kerala Hackathon 2020 conducted by ASAP Kerala at FISAT, Mookkannoor, Angamaly, Ernakulam.
+- I answer questions and participate in discussions on Quora and StackOverflow. Also often help with triaging new questions in SO.
 
 [Quora](https://www.quora.com/profile/Rineez-Ahmed/)
 
