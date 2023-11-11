@@ -4,6 +4,7 @@
 
 > I'm Rineez, from Thiruvananthapuram. I'm co-founder & CTO of Livares Technologies Pvt. Ltd. I have been working in the software development industry for the last **14 years**. 
 > I have worked with PHP, Java, C# and Javascript along with many other programming languages.
+> In free time I do Karate and Cycling
 
 ### Portfolio Highlights
 [My Resume](https://app.enhancv.com/share/ad6562b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
