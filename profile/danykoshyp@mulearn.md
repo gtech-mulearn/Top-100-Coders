@@ -31,7 +31,7 @@ me a survivng capability day by day to be a good team member.
 
 #### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- explin how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking: 
 
