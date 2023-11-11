@@ -4,7 +4,7 @@
 
 > I'm Rineez, from Thiruvananthapuram. I'm co-founder & CTO of Livares Technologies Pvt. Ltd. I have been working in the software development industry for the last **14 years**. 
 > I have worked with PHP, Java, C# and Javascript along with a few other programming languages.
-> In free time I do Karate and Cycling
+> In free time I do Karate and Cycling.
 
 ### Portfolio Highlights
 [My Resume](https://app.enhancv.com/share/ad6562b1/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
@@ -42,7 +42,7 @@
 
 #### History of Open Source Contributions:
 
-- [Contributed to rescue kerala project during 2018 floods](https://github.com/rineez-livares/rescuekerala)
+- Contributed to the [rescue kerala project](https://github.com/rineez-livares/rescuekerala) during 2018 floods
 - Have developed a JitsiMeet Client for UbuntuTouch
 
 #### History of Community Engagement:
@@ -55,8 +55,8 @@
 
 #### Competitive Website Profiles:
 
-[Codewars](https://www.codewars.com/users/rineez)
-
 [TechGig](https://www.techgig.com/pub/rineez)
+
+[Codewars](https://www.codewars.com/users/rineez)
 
 ---
