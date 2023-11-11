@@ -3,7 +3,7 @@
 ### About Me
 
 > I'm Rineez, from Thiruvananthapuram. I'm co-founder & CTO of Livares Technologies Pvt. Ltd. I have been working in the software development industry for the last **14 years**. 
-> I have worked with PHP, Java, C# and Javascript along with many other programming languages.
+> I have worked with PHP, Java, C# and Javascript along with a few other programming languages.
 > In free time I do Karate and Cycling
 
 ### Portfolio Highlights
@@ -27,7 +27,7 @@
 
 - I hope to improve and sharpen my own coding skills while also contribute back to the coders community by helping others to become better coders and software engineers.
 - If I achieve a top 100 rank in this competition, it will definitely improve my individual reputation as a technical leader.
-- I hope to get oopportunities to network with most talented coders in my region.
+- I'll get opportunities to network with most talented coders in my region.
 - I also hope this competition can create opportunities for more exposure for my company Livares.
 
 #### Career Plan:
