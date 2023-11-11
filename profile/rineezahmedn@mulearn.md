@@ -11,7 +11,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/rineez/)
 
-[X (former Twitter)](https://twitter.com/rineez)
+[X (Twitter)](https://twitter.com/rineez)
 
 
 #### Leadership and Influence: 
