@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a currently a MCA student at Government Engineering College, Thrissur. I am proficient in programming languages like C, C++, Java, Python. I have experience working with databases such as MySQL, PostgreSQL and MongoDB. I have good knowledge in the machine learning framework 'Pytorch'. I am highly passionate in creating deep learning applications. I have uploaded applications in play store.
+> I'm a currently a MCA student at Government Engineering College, Thrissur. I am proficient in programming languages like C, C++, Java, Python. I have experience working with databases such as MySQL, PostgreSQL and MongoDB. I have good knowledge in the machine learning framework 'Pytorch'. I am highly passionate in creating deep learning applications.
 
 
 ### Portfolio Highlights
@@ -31,25 +31,14 @@
 - Kerala can do well in tech startups by supporting local talent, encouraging new ideas, and helping startups.
 - To make this happen, teamwork among schools, government, and businesses is crucial.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Created a video on YouTube explaining about Neuralink, with a total of 88 views.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+-  I have uploaded applications like calculator, base coverter, etc. in play store.
 
 
 
