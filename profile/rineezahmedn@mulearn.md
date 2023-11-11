@@ -21,7 +21,7 @@
 
 #### Networking: 
 
-- My excellant written & verbal communication skills in English, and Malayalam can help me network smoothly with the rest of the Top 100 community. I can also become a mentor and help people with their challenges.
+- My excellant written & verbal communication skills in English, and Malayalam can help me network smoothly with the rest of the Top 100 community. I can also become a mentor and help people with their challenges in coding, architecture, deployment and scaling.
 
 #### As a Top 100 Member: 
 
