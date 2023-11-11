@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a currently a MCA student at Government Engineering College, Thrissur. I am proficient in programming languages like C, C++, Java, Python. I have experience working with databases such as MySQL, PostgreSQL and MongoDB. I have good knowledge in the machine learning framework 'Pytorch'. I am highly passionate in creating deep learning applications. I have uploaded applications in play store.
 
 
 ### Portfolio Highlights
@@ -11,23 +11,25 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I haven't led teams or organized meetups yet, but I'm excited about growing into a leadership role.
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
+- I am enthusiastic about developing my networking skills and actively engaging with communities. While I may not have formal experience or founded a community, I am eager to connect, learn, and contribute within the professional network.
+  
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- Applying for Top 100 to work with others and help to set up my startup.
+- Think being part of Top 100 will bring new chances, spark innovation, and boost my career.
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My long-term goal is to establish a tech startup in Kerala with a focus on sustainable solutions.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala can do well in tech startups by supporting local talent, encouraging new ideas, and helping startups.
+- To make this happen, teamwork among schools, government, and businesses is crucial.
 
 #### History of Open Source Contributions:
 
