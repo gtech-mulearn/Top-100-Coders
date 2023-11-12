@@ -8,7 +8,7 @@ Hi, I'm Sivani, a third-year computer science student with a passion for coding 
 ### Portfolio Highlights
 
 - IConnect : A flutter app created as part of Make-A-Ton , it contains the interface of a social media app wherein you can connect with others based on your interest.
-- Zone-Ai : An Ai Sentiment Analizer web app, that can make automatically detect the sentiment / mood from your sentences and then make graphs on your mood. ]
+- Zone-Ai : An Ai Sentiment Analizer web app, that can make automatically detect the sentiment / mood from your sentences and then make graphs on your mood. 
 
 
 
@@ -19,11 +19,6 @@ Hi, I'm Sivani, a third-year computer science student with a passion for coding 
 #### Networking: 
 
 - I am always eager to connect with other coders and developers and connect with them. I do beleive that there is a shortage of spaces where we can connect with others as developers and share our ideas and projects. I am always enthusiatic to attend hackathons in hopes of finding an environment like that. I am hoping Top 100 Coders does the same. 
-
-#### As a Top 100 Member: 
-
-
-
 
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
