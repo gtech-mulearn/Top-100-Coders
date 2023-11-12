@@ -43,7 +43,7 @@ Hi, I'm Sivani, a third-year computer science student with a passion for coding 
 
 
 > In your portfolio, include the following details:
->> check out [sivani-l-r@mulearn.md](./profile/sivani-l-r@mulearn.md) for an exmaple
+>> check out [sivanilr@mulearn.md](./profile/sivani-l-r@mulearn.md) for an exmaple
 
 ---
 
