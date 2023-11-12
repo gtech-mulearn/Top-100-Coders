@@ -50,6 +50,10 @@ https://github.com/nithinlycanz
 - VS-code, Android studio, Figma, Photoshop, Github.
 
 #### Competitive Website Profiles:
+https://github.com/nithinlycanz
+https://www.linkedin.com/in/nithinlycanz
+https://www.hackerrank.com/profile/nithinlycanz
+
 
 >> check out [nithinp.t@mulearn](./profile/nithinp.t@mulearn.md)
 
