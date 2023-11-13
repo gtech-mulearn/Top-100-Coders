@@ -47,7 +47,7 @@ I am Namitha.S. Third year BTech student exploring and learning tech for fun.
 
 #### Competitive Website Profiles:
 
-- HackerRank[!https://www.hackerrank.com/profile/lbt21cs079]
+- [HackerRank](https://www.hackerrank.com/profile/lbt21cs079)
 
 
 
