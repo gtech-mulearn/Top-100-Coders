@@ -1,4 +1,4 @@
-# Full Name 
+# Namitha.S
 
 ### About Me
 
