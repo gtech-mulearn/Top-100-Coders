@@ -1,53 +1,42 @@
-# Full Name 
+# Full Name Maria sara raju
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> write about your self my name is maria sara raju 3rd year electronics and communication student at mar baselios college of engineering and technology trivandrum  I'm a passionate individual with a heart that beats for design and code.Coding is not just a skill for me; it's a form of expression. I love the logic and problem-solving aspects that come with programming.My hobbie is lisetening to music.Music is my constant companion in this journey called life.
 
 
 ### Portfolio Highlights
+Done an intership with collabiration with intel 
+Done an intership in ASCIA technology in rust language
+
+
 
 
 
 #### Leadership and Influence: 
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking: 
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I am a dedicated and forward-thinking B.Tech student with a relentless passion for technology, innovation, and leadership. My journey in the realm of engineering has not only equipped me with technical acumen but has also ignited a fervent desire to lead, inspire, and effect positive change.
+My leadership style is rooted in collaboration, empathy, and a commitment to excellence. I believe in harnessing the collective intelligence of a team, fostering an environment where every voice is valued, and diversity is celebrated. By encouraging open communication and mutual respect, I strive to create a cohesive team that thrives on innovation and achieves remarkable results.
 
 #### As a Top 100 Member: 
-
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
-
+I am applying as a top 100 is that Membership in the Top 100 signifies recognition among top professionals, fostering credibility and visibility in my field. The interactions and shared experiences within this community will contribute significantly to my professional development.
 #### Career Plan: 
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+Immediate Plans: Knowledge Sharing: Initiate workshops and webinars to share insights on web development, game development, and uiux desgining
+  Longer-Term Plans:work as an uiux desginer
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+Collaboration with Educational Institutions: Foster stronger ties between startups and educational institutions. Develop industry-relevant curriculum, facilitate internship programs, and encourage research collaborations to bridge the gap between academia and industry.
 
 #### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+Actively involed in muleran 
 #### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+A small AI project:https://github.com/marianedi/dataset
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
+figma
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+.tryhackme:https://tryhackme.com/p/marianedi
+
 
 
 
