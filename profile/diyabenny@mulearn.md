@@ -3,6 +3,7 @@
  ### About Me
   > Hello! I'm Diya Benny, a second-year Computer Science student at St Joseph's College of Engineering and Technology,Palai. I am a self-motivated learner and a web enthusiast with a strong passion for designing,developing and exploring new technologies.I have a keen interest in bringing my designs to life through coding and to be part of all the events that take place around me.I have a beginner level understanding about front-end and back-end. I enjoy participating in hackathons as it helps in motivating me to come up with new and creative ideas. I'm seeking opportunities to gain diverse technical, event organizing, and knowledge-gaining experiences.
 
+---
 
 ### Portfolio Highlights
 #### History of Open Source Contributions:
@@ -42,3 +43,4 @@
 - Retaining young talent in Kerala by investing in vocational training and skill development programs to ensure that youngsters are well-equipped for the job market.
 - A healthy work-life balance can be provided by providing options for remote work. 
     
+---
