@@ -38,9 +38,5 @@
 -TryHackme:(https://tryhackme.com/p/jasonebith14)
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
 
