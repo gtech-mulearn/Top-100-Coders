@@ -33,3 +33,40 @@
 - I have been an Open Source Contributer for the past 3 years.I have actively contributed to Hacktoberfest. 
 #### Competitive Website Profiles:
 - https://www.hackerrank.com/profile/geoff_george_th1
+
+- # Top 100 Finalist -  Proof of Work
+
+### About Me 
+>I am MERN Stack Developer from Thrissur.
+
+#### My Contribution:
+- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+
+#### Key Contributions:
+- Made several Contribution through Collaborative Effort.
+
+#### Challenges Overcome
+- Various challenges such as Team forming  and Various challenges during Development.
+
+#### Future Enhancements:
+- I aim to learn new Technologies and strengthen my knowledge in my chosen field
+#### Final Thoughts:
+- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+
+---
+# Example
+># Proof of Work
+>### My Contribution:
+>
+>Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide real-time environmental data analysis,I was focused on building the UI and interfacing the backend with the frontend.
+>
+>### Key Contributions:
+>
+>Video Analyser: A multifunctional web application made using oPen Ai and Python
+>API Integration: Integrated various APIs and other tools and Technologies.
+>Competitive Programming: Comtributed over 10+ solutions to HackerRank problems.
+>### Challenges Overcome:
+
+>One of the significant challenges was improving response times for the ai model. Through rigorous testing and collaborative effort  I was able to increase the response time and achieve more efficiently.
+>
+>### Future Enhancements:
