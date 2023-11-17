@@ -58,3 +58,45 @@ Collaboration with Educational Institutions: Foster collaboration between startu
 
 ---
 
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> Briefly introduce yourself, highlighting your professional background, key skills, and any unique attributes or experiences that set you apart. (minimum 200 characters)
+
+#### My Contribution:
+- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+
+#### Key Contributions:
+- Highlight the most impactful or innovative contributions you have made. Explain the significance of these contributions to your field or industry.
+
+#### Challenges Overcome
+- Highlight the challenges you faced and how you overcome those during the event
+
+#### Future Enhancements:
+- Discuss your plans or ideas for future projects, innovations, or research in your field. Explain how these plans will contribute to the advancement of your industry.
+#### Final Thoughts:
+- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+
+---
+# Example
+># Proof of Work
+>### My Contribution:
+>
+>Hello, I'm Arjun AI a contributer in the project DoppelDoc. A web app to reduce the acceptance of mass scale resume duplicates in Industrial envronment. 
+>
+>### Key Contributions:
+>Comparison/Hashing algorithm selection: Contributed in selecting the model for text comparison. We did numerous trial and error for finding the best suitable algorithm for our use case. My primary focus was using hashing vectoriser python library for text comparison. Hashingvectoriser is a library used for nlp purposes which convert text to fixed sized vectors. But it later proved to be inaccurate.Thus I chose another method for comparison invol
+ving cosine comparison.
+>Collaboration: Ensured that integration of comparison, hashing and openai api was done properly.
+>### Challenges Overcome:
+>Proper parsing of the resume was a challenge, as different resumes had a different format. Thus an appropriate library was found which gave the best ocr results.
+>Choosing the hashing and comparison algorithm.
+>
+>### Future Enhancements:
+>
+>Showing what all different parameters someone included while uploading a duplicate document.
+>Using face detection to check the similarity of faces in each document.
+>
+>### Final Thoughts:
+>
+>Working on this project had exposed me to alot new comparison and hashing algorithms. Interaction with keralas cream coders was a pleasure and I got to learn alot from them.
