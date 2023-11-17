@@ -35,7 +35,7 @@
 > check out [rizamohamedt@mulearn.md](https://rizamohamed.netlify.app/) for an exmaple
 ### About Me:
 
->I'm Riza Mohamed, a 10th-grade tech enthusiast. I love Python, web development, and creating games mainly focus on computer vision. This hackathon pushed me into backend development for the first time. I used OpenAI to simplify complex data, aiming to make tech user-friendly. Being in the Top 100 motivates me to keep exploring and innovating in tech.
+>I'm Riza Mohamed, a 10th-grade tech enthusiast. I love Python, web development, and creating games mainly focus on computer vision. 
 
 ### My Contributions:
 
