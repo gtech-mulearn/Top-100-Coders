@@ -38,13 +38,16 @@ LinkedIn - https://www.linkedin.com/in/ajish-abraham/
 - My focus within the project revolves around simplifying the website evaluation process by seamlessly integrating an image upload feature
 
 #### Key Contributions:
-##Image Upload Management
+
+Image Upload Management
 - Implemented a robust image upload functionality within the project.
 - Utilized the ImgBB server through cURL for efficient and cost-effective image hosting.
-  ##Response Handling
+
+Response Handling
 - Developed mechanisms to handle responses from the ImgBB server.
 - Extracted the image URL from the server response, a critical step for subsequent processing.
-  ##Collaborative UI Development
+
+Collaborative UI Development
 - Designed the project with UI developers in mind, facilitating collaboration and efficient task management.
 
 #### Challenges Overcome
