@@ -52,7 +52,7 @@
 ># Proof of Work
 >### My Contribution:
 >
->Hi, I'm Adrin , a full-stack developer in Team TalentHub. In our project Talent Hub, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer using the Beckn Protocol.
+>Hi, I'm Adrin , a full-stack developer in Team X. In our project Talent Hub, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer using the Beckn Protocol.
 >
 >### Key Contributions:
 >
@@ -69,7 +69,7 @@
 >
 >### Final Thoughts:
 >
->Working on Talent Hub with Team TalentHub has been a remarkable journey. My contribution to the full stack development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
+>Working on Talent Hub with Team X has been a remarkable journey. My contribution to the full stack development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
 
 
 ---
