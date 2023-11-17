@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Frontent Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development , from concept and design to coding and deployment. I am proficient in `Javascript`, `Python`,`TypeScript` and a variety of frameworks, such as Django, Vite and React. I have experience working with databases such as MySQL and MongoDB
+> I'm a Frontent Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development , from concept and design to coding and deployment.I have been organizer and mentor in some of the hackatons . I am proficient in `Javascript`, `Python`,`TypeScript` and a variety of frameworks, such as Django, Vite and React. I have experience working with databases such as MySQL and MongoDB
 
 ---
 
