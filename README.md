@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across the state of Kerala and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
+Welcome to the Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across India and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
 </div>
 
 <div align="center">
@@ -19,6 +19,7 @@ Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This even
 <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83">
 
 ### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
+#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
 
 #
 
