@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi I am a MERN Stack Developer who is passionate about programming.
 
 
 ### Portfolio Highlights
@@ -11,27 +11,29 @@
 
 #### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+-As a changes make I know the importance of personality and influence. These all points out to the quality of leadership. I have lead a team of like-minded to be the part of my mission. From that I have the experience of leadership and influence.
 
 #### Networking: 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+-My networking skills have been developed through various experiences both online and offline.
+Had an active involvement in communities like IEEE and various tech groups, I've had the oppurtunity to connect with a wide array of individuals both inside and outside of tech field.
+ I aim trying to network with like minded professionals as much as possible.
 
 #### As a Top 100 Member: 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+-For building my carrier I foud that netwoking is an important skill to expand my knowledge and to market my skills. in my network there are my develoeprs, investors, lawyers so and so.
 
 #### Career Plan: 
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-I am a passionate Developer who likes to learn new things.My careeer plan is to learn as many new technologies and frameworks as possible
+.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
-
+-Kerala has a large number of young talent.
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have been an active contributer in Open Scource for th past several years.Actively contributed to Hacktoberfest for the past 3yrs. 
 
 #### History of Community Engagement:
 
@@ -39,15 +41,16 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- https://medium.com/@geoff.george.thommana/unveiling-the-power-of-server-side-rendering-a-deep-dive-into-enhanced-user-experiences-e901aa336057
+
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- JavaScript,React,Python,VSCode
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- (https://www.hackerrank.com/profile/geoff_george_th1)
 
 
 
