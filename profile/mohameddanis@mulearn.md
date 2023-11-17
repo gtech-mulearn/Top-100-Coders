@@ -53,3 +53,21 @@
 
 ---
 
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am a passionate fullstack developer exceling in skills like Node.js,React.js,MongoDB and Express.js(MERN). I am proficient in languages like C, Java, Python, Javascript and Typescript, And other framework and technologies like Next.js, TailwindCSS and Shadcn/ui. Apart from this, I'm a tech enthusiast where I like to new learn technologies and research in technologies like web3, cybersecurity, ML, AI and cryptocurrencies.
+
+#### My Contribution:
+- I had made many contributions like in coding, researching and helping peers. I had made some contributions in the field of web development, where we made the project together. I have helped my fellow peers and other team members like help fixing the bug and understanding new concepts. I had also made some contributions for me in researching about the beckn protocol
+
+#### Key Contributions:
+- The key contribution i have made is in the project our team made. I had made the backend of the project, where i had made the api endpoints and the database. I had also made some contributions in the frontend of the project. The key contribution was helping my peers to understand the OpenAI API throughout the project.
+#### Challenges Overcome
+- The main challenge I had to overcome was learning the new API and implementing it in the project. I had to learn the OpenAI APIs like gpt and whisper API. But it was a great experience learning and implementing it in the project.
+
+#### Future Enhancements:
+- I would like to refine the prompt used in the OpenAI API to get more accurate results. And planning to publish it on the producthunt
+#### Final Thoughts:
+- I am very happy to be a part of the Top100 coders program. I am very excited to be a part of the community and learn from the community. I am also excited to share my knowledge and help others in the community. I was not into this competitive programming, but after joining the community, I am very excited to learn and participate in the competitive programming like hackerrank and leetcode. Thanks to 100coders for giving me this opportunity.
+
