@@ -44,5 +44,25 @@
 
 - https://www.hackerearth.com/@thomjoh995
 
+# Top 100 Finalist - Proof of Work:
+
+#### About Me
+- Hey, I'm Rovan, a front-end developer in Team Y. In our project talent.io, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer.
+
+#### My Contribution:
+- I've worked on the Register page alongside the main Search page of our website.
+
+#### Key Contributions:
+- Developed a Vue.js front-end code for two of the four pages in our website providing tips in designs and making tweaks to make it intuitive.
+
+#### Challenges Overcome:
+- The most significant challenge was to create a good looking front-end that works well with the back-end design developed by my fellow teammates.
+
+#### Future Enhancements:
+- Current version deals with only details fetched from the MuLearn website and considering an Open network at play here there are hopes of implementing more such websites in the future creating a de-centralised setup.
+
+#### Final Thoughts:
+- The concept of Beckn Protocol, a decentralised commerce system can have a huge array of use in the coming future. The open networks that can connect to multiple services into a single interface without requiring a monolithic system architecture can surely change the dynamics of web or app usage even more in the future.
+
 
 ---
