@@ -72,3 +72,25 @@ This approach would be great for both students, as well as startups as they ofte
 
 ---
 
+># Proof of Work
+>### My Contribution:
+>
+>Hello, I'm Rohit Ramdas, a backend developer. In our project AutoExcel, which aims to make data insertion to sheets more efficient.
+>
+>### Key Contributions:
+>
+>1. Built a discord bot which can be used to convert unstructured messages to stuctured json onjects which can be then inserted directly to google sheets.
+>2. Used fast api to set up a api layer to access open ai apis.
+>### Challenges Overcome:
+>
+>Every single technology used to build the project was a first for me. From using python for most of the project to using open ai apis and google sheet apis.
+>
+>### Future Enhancements:
+>
+>Would like to bring some more features which can help with overall editing of excel sheets rather that just insertion.
+gpts ability to give context aware answers would be really helpful here.
+>
+>### Final Thoughts:
+>
+>The entire event was a great learning experience which has helped me push my boundaries as a coder.
+
