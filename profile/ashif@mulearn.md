@@ -115,20 +115,20 @@ In essence, my career plans go beyond personal success; they are anchored in a d
 >### My Contribution:
 >
 >Hello, I'm Ashif, a frontend developer. In my project Trady, which aims to provide trading analysis of stocks based on the image of graph provided, my primary role was to develop the flutter application enabled with OpenAI Vision. I was also able to integrate zerodha apis in the application for realtime purchase of stock in the Demat account (Need Api keys for full functionality).
->I got a chance to contibute to the UI of a project made with Becken Protocol, which was a challenging oppurtunity which made me learn about new open network protocol and its concepts.
+>I got a chance to contibute to the UI of a project made with Beckn Protocol, which was a challenging oppurtunity which made me learn about new open network protocol and its concepts.
 >### Key Contributions:
 >
 >Android Application: Developed a Flutter-based mobile application to process Stock market data through a simple photograph.
 >API Integration: Worked on integrating Open API for fetching details from the stock graphs, explaining the current status of stock in the given picture for example, technical analysis like MACD and price actions to normal people who dont have time to analysis the stocks.Here we implement zerodha login and intraday purchase API's provided by Zerodha.
->Android Appication using Becken: Collebrated and lerned becken from the team and mentors. Was also able to do frontend for the becken application in flutter with the team.
+>Android Appication using Becken Talentz: Collebrated and lerned beckn from the team and mentors. Was also able to do frontend for the beckn application in flutter with the team.
 >Collaboration: Actively collaborated with the bakend and frontend team to ensure seamless integration of the backend services with the user interface.
 >### Challenges Overcome:
 >
->One of the significant challenges was to study and understand the the Becken system, but with help of mentors support we were able to grasp a good idea about it
+>One of the significant challenges was to study and understand the the Beckn system, but with help of mentors support we were able to grasp a good idea about it
 >
 >### Future Enhancements:
 >
->Looking ahead, I plan to implement a project in Becken system along with teams connected from here, and contribute more to the community as I can.
+>Looking ahead, I plan to implement a project in Beckn system along with teams connected from here, and contribute more to the community as I can.
 >
 >### Final Thoughts:
 >
