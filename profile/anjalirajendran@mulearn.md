@@ -21,6 +21,9 @@
 -  Mentored over 100+ students in Web Development in bootcamps and workshops conducted by Tinkerhub.
 -  Started dev circles among girl techies at campus for enhancing and enriching technical knowledge.
 
+#### Highly Visible Technical Content:
+
+- Planning to start a blogging site for Data Analaysis and frontend developement courses. 
 
 #### Highly Used Software Tools:
 
@@ -35,6 +38,7 @@
 #### Competitive Website Profiles:
 
 - [Hackerrank](https://www.hackerrank.com/anjalijrajendran)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/anjalijrajendran)
 - [LinkedIN](https://www.linkedin.com/in/anjalirajendran/)
 
 #### Leadership and Influence:
@@ -46,6 +50,7 @@
 #### Networking:
 
 - Participating in Regional and national level hackathons.
+- Attending online conference talks on Amazon Web Servies.
 - Attended ICSET ICTAK Conclave on AI Gyration 2023.
 - Have build strong linkedin networks.
 
