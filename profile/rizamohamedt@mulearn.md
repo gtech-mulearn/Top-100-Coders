@@ -46,6 +46,11 @@ Participated in brainstorming sessions contributing ideas in system design.
 ### Challenges Overcome:
 >Being a beginner in backend development posed a challenge as it was my first exposure to it. However, I managed to overcome this obstacle by dedicating time to learn and adapt during the event.
 
+### System Design 
+
+<img width="987" alt="Screenshot 2023-11-17 at 9 15 46 PM" src="https://github.com/CODEWITHRIZA/Top-100-Coders/assets/90960705/25234d12-b79e-4a37-8d37-6b4136a8ad2d">
+
+
 ### Future Enhancements:
 >Expanding the experimental OpenAI integration beyond Mulearn to other platforms, improving user interface design, and aiming for enhanced functionality.
 
