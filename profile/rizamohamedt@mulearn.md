@@ -3,9 +3,8 @@
 ### About Me
 
 >Hi, my name is Riza Mohamed T , and I am a 14-year-old with a strong passion for technology and computer programming. I have a background in several programming languages, including python, javascript,html,css,c++,c#,php and have used these skills to create numerous websites, games, and projects in the fields of robotics and Internet of Things (IoT). I am highly dedicated to honing my skills and exploring new ideas, and am always eager to learn more about the latest trends and innovations in technology. I believe that technology can be used as a powerful tool to solve complex problems and improve people's lives, and I am excited to be a part of the ever-evolving world of technology.
-
-Visit my portfolio website 🧑🏻‍💻 :- https://rizamohamed.netlify.com
-Visit my Github profile 🤖:- https://github.com/CODEWITHRIZA
+>Visit my portfolio website 🧑🏻‍💻 :- https://rizamohamed.netlify.com
+>Visit my Github profile 🤖:- https://github.com/CODEWITHRIZA
 
 
 ### Portfolio Highlights
@@ -55,5 +54,23 @@ Collaboration is another key facet of my approach. Actively seeking opportunitie
 >> check out [rizamohamedt@mulearn.md](https://rizamohamed.netlify.app/) for an exmaple
 
 ---
+
+###About Me:
+>I'm Riza Mohamed, a 10th-grade tech enthusiast. I love Python, web development, and creating games mainly focus on computer vision. This hackathon pushed me into backend development for the first time. I used OpenAI to simplify complex data, aiming to make tech user-friendly. Being in the Top 100 motivates me to keep exploring and innovating in tech.
+
+>My Contributions:
+
+Developed an experimental OpenAI integration aimed at summarizing data points into easily digestible short text.
+Successfully managed the deployment and resolution of conflicts during the early stages of the BPP (Beckn Protocol) project.
+Participated in brainstorming sessions contributing ideas in system design.
+
+>Challenges Overcome:
+Being a beginner in backend development posed a challenge as it was my first exposure to it. However, I managed to overcome this obstacle by dedicating time to learn and adapt during the event.
+
+>Future Enhancements:
+Expanding the experimental OpenAI integration beyond Mulearn to other platforms, improving user interface design, and aiming for enhanced functionality.
+
+>Final Thoughts:
+Engaging in this hackathon was both challenging and rewarding, especially in my first experience contributing to backend development. Being among the Top 100 finalists is a significant milestone aligning with my aspiration to grow in the field of technology and innovation.
 
 
