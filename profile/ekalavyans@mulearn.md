@@ -4,7 +4,7 @@
 
 > I am Ekalavyan S, a 7th-grade student at The School of the Good Shepherd. My passion for coding has been an unshakeable part of my life since the tender age of 9. My coding journey commenced with the fundamentals of Scratch and has since expanded to encompass CSS, HTML, JavaScript, and the exhilarating world of web development.
 
-> The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
+ > The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
 
 > Beyond my coding endeavors, I'm a typical 7th-grade student, indulging in the joys of sports, literature, and cinema. However, my heart truly belongs to coding, and I'm eager to venture into the realms of Artificial Intelligence. My goal is to master the full spectrum of skills necessary for a proficient programmer, shaping a future where I can make a meaningful impact with my code.
 
@@ -66,3 +66,42 @@
 
 - CodeWars: https://www.codewars.com/users/Ekalavyan%20S
 - HackerRank: https://www.hackerrank.com/profile/ekalavyan_nair
+- Leetcode: https://leetcode.com/Ekalavyan/
+
+---
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am Ekalavyan S, a 7th-grade student at The School of the Good Shepherd. My passion for coding has been an unshakeable part of my life since the tender age of 9. My coding journey commenced with the fundamentals of Scratch and has since expanded to encompass CSS, HTML, JavaScript, and the exhilarating world of web development. The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
+
+#### My Contribution:
+- I have made some projects :-
+-                              Nutrigrasp-Kidz
+-                              Plasti-Free
+-                              Dictionary app
+-                              Rock, paper, scissors
+-                              Background-Color changer
+-                              Background color Guesser
+-                              Perimeter finding app
+-                              Chatbot
+-                              Fibonacci Checker
+-                              Pokemon app
+-                              Todo App
+-                              Interview Genie
+-                              Palindrome checker
+                               
+
+#### Key Contributions:
+- Nutrigrasp-Kidz app is meant for kids to tracker their food and water intake and get suggestion on that. It is important because many children are getting obese nowadays.
+- Plasti-Free is used to collect plastic and earn points for that. It is the need of the hour as the plastic is disrupting the balance of out environment.
+
+#### Challenges Overcome
+- I have faced a lot of big bugs and technical issues while I was building my projects. But even then I overcame each of those skillfully.
+
+#### Future Enhancements:
+- I plan to extend my applications and make them hostable. I wish to host my NutriGrasp-Kidz. 
+
+#### Final Thoughts:
+- This has helped me in my coding journey exponentially. And I am so proud to be called a top100 finalist and a legend gladiator.
