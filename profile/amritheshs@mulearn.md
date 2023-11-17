@@ -44,6 +44,30 @@ https://github.com/amritheshsiva
 https://www.hackerrank.com/amritheshsiva
 
 
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+>  I am a self taught designer, started to use figma six months ago.
+> Very eager to learn about web and app development.
+> Have a very little knowledge about web development.
+
+
+#### My Contribution:
+-  Created the UI for app and web development for the Top-100-Coders Hackathon.
+#### Key Contributions:
+- UI design
+
+#### Challenges Overcome
+The challenge faced during the Hackathon was the error caused in the app developed,which makes to recreate the entire design into a web design.
+This creates a challenge for me to do both app and web design at the same time.
+
+#### Future Enhancements:
+- During this hackathon,during the free time i learnt some basics of kotlin language which makes a keen interest in me to learn more about app development.
+#### Final Thoughts:
+- Attending this Hackaton was a wonderful opportunity, because as i am from a design background i was able to learn about app development from my friends.
+- Learning the app will makes me to create real-life useful apps which can be useful in many terms.
+
+
 ---
 
 ---
