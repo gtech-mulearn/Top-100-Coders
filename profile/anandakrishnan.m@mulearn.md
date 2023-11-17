@@ -47,6 +47,7 @@ Working on our beckn based project 'TalentHub' I have played a key role in UI/UX
 - Designed the web pages, paying meticulous attention to details such as typography and iconography, to create an engaging and user-friendly interface.
 - Screenshots are attached along
 ![Desktop - 2](https://github.com/insertyourusernamehere/Top-100-Coders/assets/114121995/3f233a4b-0c2e-4414-b675-758de11a3ce8)
+![Desktop - 10](https://github.com/insertyourusernamehere/Top-100-Coders/assets/114121995/f635d49a-bc44-4e80-a482-297e21e2a9a0)
 ![Desktop - 6](https://github.com/insertyourusernamehere/Top-100-Coders/assets/114121995/1e5416ec-1d87-4bc3-b9e7-a2af9f2eee3d)
 ![Desktop - 7](https://github.com/insertyourusernamehere/Top-100-Coders/assets/114121995/60fa6e01-3c9e-425b-ae33-1cecd890da72)
 ![Desktop - 9](https://github.com/insertyourusernamehere/Top-100-Coders/assets/114121995/b5672806-f293-43f4-b43e-6a3b3a98ee43)
