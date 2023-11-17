@@ -41,4 +41,28 @@
 - Developed a web-based tool named [Num to Whatsapp Chat](https://num-to-whatsapp-chat-prajwalppramod.vercel.app/) where you can open whatsapp chat of entered number without saving the number first.
 - Developed a web-based [Todo App](https://to-do-react-type-script-prajwalppramod.vercel.app/) using React and Typescript.
 
+---
+  # Top 100 Finalist -  Proof of Work
+
+### About Me 
+> Hello I am Prajwal PP, from team SightSense. I am a passionate UI/UX designer and front-end developer.
+> My role was to create a website for SightSense and code the UI design to the front end paage.
+> SightSense is app created by us to help visually impaired people to know about their surroundings. They can use their device's camera to click a snapshot of the surrounding which will be sent to OpenAI and Vision API will describe the surrounding.
+
+#### My Contribution:
+- In the last two days I contributed to the team by making a webpage for the product. I used react and tailwind to build the product. I made sure the UI of the website looks as close as the UI designed in figma.
+#### Key Contributions:
+- Front-end of the website using ReactJS
+
+#### Challenges Overcome
+- I faced challenge when the hosted product link was not behaving like the local version of the product link. I asked to mentors and they suggested me solutions and also I researched in ChatGPT and other websites to find the solution.
+- The app my team was building was unable to encode the bitmap to base64, which put halt to our application and then we decided to go with only a website instead of coming up with both an android app and a website.
+- 
+
+#### Future Enhancements:
+- Make the UI of the website better and fix the warnings.
+- Use react native to create a native app for android from this website thus bringing back the android app.
+#### Final Thoughts:
+- My work is very important for visually impaired people as they face lot of challenges since vision is one of the most important of the 5 senses. With our product visually impaired people can get advantage of technology to live a better life. Being a Top 100 would make me more confident in my field and inspire me to go to more hackathons and learn more tech stacks and grow myself and get more experience. Top 100 would allowed me to get new contacts and I would collaborate with them to make new projects. As a Computer Science Major Student being a Top 100 Coder would help me get more opportunities in my field.
+
 
