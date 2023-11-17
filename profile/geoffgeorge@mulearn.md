@@ -46,7 +46,7 @@
 - Made several Contribution through Collaborative Effort.
 
 #### Challenges Overcome
-- Various challenges such as Team forming  and Various development challenges.
+- Various challenges such as Team forming  and Various developmental challenges.
 
 #### Future Enhancements:
 - I aim to learn new Technologies and strengthen my knowledge in my chosen field
@@ -58,7 +58,7 @@
 ># Proof of Work
 >### My Contribution:
 >
->Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide real-time environmental data analysis,I was focused on building the UI and interfacing the backend with the frontend.Also Wrote two technical Blogs.
+>Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide youtube video analysis,I was focused on building the UI and interfacing the backend with the frontend.I Also Wrote two technical Blogs during the Top 100 Coders program.
 >https://medium.com/@geoff.george.thommana/unveiling-the-power-of-server-side-rendering-a-deep-dive-into-enhanced-user-experiences-e901aa336057
 >### Key Contributions:
 >
