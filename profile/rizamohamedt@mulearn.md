@@ -32,30 +32,11 @@ Collaboration is another key facet of my approach. Actively seeking opportunitie
 
 - >I've built a significant open-source portfolio, including chatbot libraries, image recognition models, health monitoring APIs, e-commerce recommendation algorithms, language translation models, and financial data visualization tools. These contributions are designed to empower developers and researchers by providing access to valuable resources and pre-trained models that can be integrated into their projects. My commitment to open source is rooted in fostering collaboration, innovation, and the broader advancement of technology.
 
-#### History of Community Engagement:
+#### Website Profiles:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
 >> check out [rizamohamedt@mulearn.md](https://rizamohamed.netlify.app/) for an exmaple
+### About Me:
 
----
-
-###About Me:
 >I'm Riza Mohamed, a 10th-grade tech enthusiast. I love Python, web development, and creating games mainly focus on computer vision. This hackathon pushed me into backend development for the first time. I used OpenAI to simplify complex data, aiming to make tech user-friendly. Being in the Top 100 motivates me to keep exploring and innovating in tech.
 
 >My Contributions:
