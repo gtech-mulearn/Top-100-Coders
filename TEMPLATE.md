@@ -1,4 +1,4 @@
-# Full Name 
+# Bibin Vincent 
 
 ### About Me
 
@@ -60,38 +60,37 @@
 # Top 100 Finalist -  Proof of Work
 
 ### About Me 
-> Briefly introduce yourself, highlighting your professional background, key skills, and any unique attributes or experiences that set you apart. (minimum 200 characters)
+I'm pursuing Mater of Computer Applications at Saintgits College of Engineering, Kottayam. I am a self-motivated and independent student with a passion to learn and grow. I believe in the concept of life-long learning and the need to upskill ourselves as we grow. I have a beginner level understanding about front-end and back-end. I am an aspiring software developer and am currently learning web development in detail. I have experience interacting with databases such as MySQL and MongoDB. I have a good knowledge of Python and C. I have an alttitude of optimism so i will try my best in next try.
 
 #### My Contribution:
-- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+I contributed fully to my project as i had tried to compete as a single player. My priciple contribution are innovations, topic research, or developing project till now.
 
 #### Key Contributions:
-- Highlight the most impactful or innovative contributions you have made. Explain the significance of these contributions to your field or industry.
+- I contributed my best to this project. But i am not able to complete full project due to some expected reason as it is my first time developing such project.
 
 #### Challenges Overcome
-- Highlight the challenges you faced and how you overcome those during the event
+- The major challenge is i hadn't done such project till this event. So lack of knowledge leads to many challenges
 
 #### Future Enhancements:
-- Discuss your plans or ideas for future projects, innovations, or research in your field. Explain how these plans will contribute to the advancement of your industry.
+- I am not planned about it. I will plan for it when i got interest in it.
 #### Final Thoughts:
-- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+- Such events will increase domain knowledge and experience. These events motivate to compete better in next competition.
 
 ---
 # Example
 ># Proof of Work
 >### My Contribution:
 >
->Hello, I'm Ami, a backend developer in Team CodeWarriors. In our project EcoTrack, which aims to provide real-time environmental data analysis, my primary role was to develop the data processing module.
+>Hello, I'm Bibin Vincent. In our project AI-Driven Drug Discovery Platform, the system aims to expedite the identification of potential drug candidates for various diseases, ultimately accelerating the drug discovery process.
 >
 >### Key Contributions:
 >
->Data Processing Module: Developed a Python-based module to process environmental data from various sensors. Implemented algorithms for >data normalization and anomaly detection.
->API Integration: Worked on integrating third-party APIs for additional environmental data sources, enhancing the accuracy and scope of >our analysis.
->Database Management: Designed and managed the PostgreSQL database, ensuring efficient data storage and retrieval.
->Collaboration: Actively collaborated with the frontend team to ensure seamless integration of the backend services with the user interface.
+>Data Processing Module: Developed a react-based module to get input.
+>API Integration: Worked on integrating third-party APIs for additional environmental data sources, enhancing the accuracy and scope of our analysis.
+>Collaboration: tried to develop a project myself.
 >### Challenges Overcome:
 >
->One of the significant challenges was optimizing the data processing module for real-time analysis. Through rigorous testing and iterative development, I was able to enhance the module's efficiency, reducing the data processing time by 40%.
+>One of the significant challenges was lack of proper knowledge.
 >
 >### Future Enhancements:
 >
@@ -99,5 +98,5 @@
 >
 >### Final Thoughts:
 >
->Working on EcoTrack with Team CodeWarriors has been a remarkable journey. My contribution to the backend development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
+> Participating such events will help me to improve my skills.
 
