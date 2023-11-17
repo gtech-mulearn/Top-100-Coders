@@ -82,7 +82,7 @@ Certainly, It can help you create a template for "Top 100 Finalists" similar to 
 ># Proof of Work
 >### My Contribution:
 >
->Hello, I'm Ami, a backend developer in Team CodeWarriors. In our project EcoTrack, which aims to provide real-time environmental data >analysis, my primary role was to develop the data processing module.
+>Hello, I'm Ami, a backend developer in Team CodeWarriors. In our project EcoTrack, which aims to provide real-time environmental data analysis, my primary role was to develop the data processing module.
 >
 >### Key Contributions:
 >
