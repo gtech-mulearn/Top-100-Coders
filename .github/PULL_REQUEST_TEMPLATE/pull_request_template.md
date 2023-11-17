@@ -5,6 +5,8 @@ This pull request proposes a new set of evaluation criteria for Stage 3, focusin
 
 ## Evaluation Criteria
 Please review the following proposed criteria and check each box to indicate your review and agreement:
+
+```
 ## Checklist:
 Before you submit this pull request, please ensure you have completed the following items.
 
@@ -25,6 +27,7 @@ Before you submit this pull request, please ensure you have completed the follow
 ### Do you vouch for the top 100 coders?
 - [ ] I vouch. You belong to the lead of Top 100 Coders 2023
 - [ ] Good Job, All the best for the Top 100 Coders 2024
+```
 
 ## Purpose
 The purpose of these criteria is to provide a comprehensive and structured approach to evaluating advanced skills and contributions in software development, ensuring continuous improvement and excellence.
