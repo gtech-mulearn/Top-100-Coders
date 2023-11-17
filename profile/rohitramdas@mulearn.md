@@ -5,6 +5,8 @@
 > I am a Backend Developer with a strong foundation in Java-based Spring framework, specializing in the creation of RESTful APIs and web backends. Currently in my third year of Computer Science studies, I am driven by a genuine passion for computer science and adept at tackling complex problems.
 My proficiency extends to Java Spring, Android development, and adept management of databases including MySQL. I am well-versed in essential tools such as Jira and Docker, and have honed my collaborative skills through active participation in agile teams.
 
+>update : I can now also work decently using react and firebase, also learned how to build discord bots.
+
 
 ### Portfolio Highlights
 
@@ -48,6 +50,22 @@ This approach would be great for both students, as well as startups as they ofte
 
 - [LeetCode](https://leetcode.com/Rohit_Ramdas/)
 - [CodeForces](https://codeforces.com/profile/rohit_ramdas_v)
+
+
+
+
+
+#### Updates
+
+- Before joining Top 100 Coders, I was heavily focused on backend development. However, the project submissions pushed me to broaden my horizons and deploy my first full-stack app. Since then, I have gained more experience with front-end frameworks, particularly React.
+- The amount of DSA questions we had to do to reach under 20k is a testament to our patience and dedication.
+
+#### Huddle Physical Level Contributions
+
+- This was my first time working with any kind of generative APIs, as I am usually an app builder.
+- In our project AutoExcel, I worked on setting up a Discord bot with connectivity to Google Sheets, as well as a backend service using FastAPI.
+- I worked with some basic React, which was a departure from my usual work with Java Spring. I also worked with languages, frameworks, and APIs that I had never used before. Overall, this was a great learning experience for me.
+- Got to collaborate and talk with many great minds.
 
 
 
