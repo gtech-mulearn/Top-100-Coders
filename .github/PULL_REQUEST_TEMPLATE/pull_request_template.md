@@ -5,36 +5,26 @@ This pull request proposes a new set of evaluation criteria for Stage 3, focusin
 
 ## Evaluation Criteria
 Please review the following proposed criteria and check each box to indicate your review and agreement:
+## Checklist:
+Before you submit this pull request, please ensure you have completed the following items.
 
-### 1. Innovation
-- [ ] **Creativity in Problem Solving**: Unique solutions to complex problems.
-- [ ] **Novelty of Approach**: Innovation beyond standard methods.
-- [ ] **Impact of Solutions**: Positive impact on projects or community.
+### Attitude and Values
+- [ ] Feedback Reception: Openness to receiving feedback and making necessary improvements.
+- [ ] Innovation: Attitude of thinking outside the box, coming up with novel solutions or approaches to problems.
 
-### 2. Community Engagement
-- [ ] **Contribution to Open Source**: Quality and extent of contributions.
-- [ ] **Knowledge Sharing**: Effectiveness in sharing knowledge through various mediums.
-- [ ] **Community Support**: Engagement in community forums and support.
+### Abilities and Skills
+- [ ] Collaboration: Skill in working within a team, understanding team dynamics, and contributing effectively.
 
-### 3. Feedback Reception
-- [ ] **Responsiveness to Feedback**: Incorporating feedback into work.
-- [ ] **Growth from Feedback**: Professional growth from received feedback.
-- [ ] **Feedback Loop Creation**: Constructive feedback loop within teams.
+### Knowledge and Information
+- [ ] Domain-Specific Knowledge: Depending on the challenge, knowledge in areas like AI/ML, blockchain, game development, etc.
+- [ ] System Design: Understanding of how to design scalable and efficient systems, including databases, servers, and client interactions.
 
-### 4. Collaboration
-- [ ] **Team Dynamics Understanding**: Navigating team dynamics.
-- [ ] **Cross-Functional Interaction**: Working effectively across different functions.
-- [ ] **Conflict Resolution**: Constructive conflict resolution within teams.
+### Other Criteria
+- [ ] Has open source contributions
 
-### 5. Domain-Specific Knowledge
-- [ ] **Expertise in Specialized Area**: Depth in specific domains like AI/ML, blockchain.
-- [ ] **Application of Knowledge**: Effective application in projects.
-- [ ] **Staying Current**: Efforts to stay up-to-date in the domain.
-
-### 6. System Design
-- [ ] **Architecture Design Skills**: Scalable and efficient system designs.
-- [ ] **Understanding of Trade-offs**: Knowledge of system design trade-offs.
-- [ ] **Integration of Components**: Effective component integration.
+### Do you vouch for the top 100 coders?
+- [ ] I vouch. You belong to the lead of Top 100 Coders 2023
+- [ ] Good Job, All the best for the Top 100 Coders 2024
 
 ## Purpose
 The purpose of these criteria is to provide a comprehensive and structured approach to evaluating advanced skills and contributions in software development, ensuring continuous improvement and excellence.
@@ -42,10 +32,6 @@ The purpose of these criteria is to provide a comprehensive and structured appro
 ## How to Use
 These criteria can be used for performance reviews, peer feedback, and self-assessment in advanced stages of software development roles.
 
-## Feedback and Improvements
-- [ ] **Review Completed**: I have reviewed the criteria.
-- [ ] **Feedback Provided**: I have provided feedback for improvements or changes.
-- [ ] **Approval**: I approve the criteria as is.
 
 ---
 
