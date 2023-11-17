@@ -56,7 +56,6 @@
 
 ---
 
-Certainly, It can help you create a template for "Top 100 Finalists" similar to the one you provided. Here's a structured outline for the section:
 
 # Top 100 Finalist -  Proof of Work
 
