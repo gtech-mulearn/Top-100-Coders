@@ -2,79 +2,58 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hello, 
+I'm Ajish Abraham, and I am passionate about crafting digital solutions through the art of programming. With over five years of experience as a PHP developer, Currently, I hold the position of a Senior Software Developer at Picky Assist, a dynamic and forward-thinking tech company.
+My journey as a developer began with a simple love for problem-solving and coding. Over the years, I've worked on a wide array of projects, from e-commerce platforms to content management systems.
 
 
 ### Portfolio Highlights
 
+LinkedIn - https://www.linkedin.com/in/ajish-abraham/
 
 
 #### Leadership and Influence: 
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As a developer, I actively foster collaboration within my team to drive projects toward successful completion. I lead, mentor, and collaborate with a talented team of professionals to deliver innovative software solutions, thereby making significant contributions to the overall advancement of our projects.
 
 #### Networking: 
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+-  I recognize the value of establishing connections in the tech community. I am committed to expanding my network through participation in events and conferences. My aim is to not only stay updated on industry trends but also to contribute and learn from the vibrant tech community.
 
 #### As a Top 100 Member: 
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I'm eager to be a part of Top 100 Finalist, where I aim to collaborate with fellow enthusiasts to drive positive change. My goal is to learn, network, and bring fresh ideas to the table, contributing to the growth of Kerala's startup ecosystem.
 
 #### Career Plan: 
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My career plan involves advancing as a senior PHP developer and expanding my expertise in web development. Achieving the badge of being 'Top 100 Winner' is one of them. In the long term, I aspire to become a recognized industry expert and contribute to innovative projects, all while staying committed to personal and professional growth.
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
+- Kerala's tech scene is growing fast, with various tech companies from startups to established ones. To keep this progress going, we need to address challenges like keeping skilled people and getting enough funding. The big opportunity is in embracing new tech trends and teamwork between schools and tech experts. I'm dedicated to helping this ecosystem grow by working together and promoting innovation so Kerala becomes an even better place for tech and ideas.
 
 # Top 100 Finalist -  Proof of Work
 
-### About Me 
-> Briefly introduce yourself, highlighting your professional background, key skills, and any unique attributes or experiences that set you apart. (minimum 200 characters)
-
 #### My Contribution:
-- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+- My focus within the project revolves around simplifying the website evaluation process by seamlessly integrating an image upload feature
 
 #### Key Contributions:
-- Highlight the most impactful or innovative contributions you have made. Explain the significance of these contributions to your field or industry.
+- ##Image Upload Management
+- Implemented a robust image upload functionality within the project.
+- Utilized the ImgBB server through cURL for efficient and cost-effective image hosting.
+- ##Response Handling
+- Developed mechanisms to handle responses from the ImgBB server.
+- Extracted the image URL from the server response, a critical step for subsequent processing.
+- ##Collaborative UI Development
+- Designed the project with UI developers in mind, facilitating collaboration and efficient task management.
 
 #### Challenges Overcome
-- Highlight the challenges you faced and how you overcome those during the event
+- Overcame tight timelines by fostering team collaboration, making agile decisions, and swiftly addressing challenges, resulting in the successful and efficient completion of the project.
 
 #### Future Enhancements:
-- Discuss your plans or ideas for future projects, innovations, or research in your field. Explain how these plans will contribute to the advancement of your industry.
+- Though I've explored Beckn without completing a project, my next goal is clear: merge Beckn and OpenAI to craft an exceptional resume builder. Stay tuned for a user-friendly and innovative tool in the near future!
 #### Final Thoughts:
-- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+- Enjoyed working with fellow coders, learned a lot, and had a great time. Excited for more collaborative adventures ahead!
 
 ---
 # Example
