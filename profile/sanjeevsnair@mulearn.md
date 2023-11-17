@@ -4,7 +4,7 @@
 ### About Me
 
 > I am a self-motivated and self-taught developer who loves to  learn and grow.I'm currently pursuing my bachelor's in technology on Electronics and Communication Engineering from the  College of Engineering Chengannur, Alappuzha. I believe in the concept of life-long learning and the need to upskill
-> ourselves as we grow. I am an aspiring software developer and am currently learning and focuses on web development and Flutter application development and ui/ux designing.  My skillsets include python, Javascript, Html5, CSS3, Dart and Figma for UI/UX designing.I welcome opportunities to grow and learn especially internships and projects.
+> ourselves as we grow. I  am currently learning and focuses on web development and Flutter application development and ui/ux designing.  My skillsets include python, , Html5, CSS, Dart .
 
 #### Portfolio Highlights
 
@@ -45,5 +45,24 @@
   #### Thoughts on Kerala's Tech Ecosystem:
 
 - Year by year, the coding culture is improving, attracting more interested individuals to join the tech ecosystem. I believe it's essential to introduce more people to technologies such as GitHub and the software development lifecycle, enabling them to understand how the ecosystem functions.
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> i'am sanjeev s nair, a selfmotivated and self taught developer..I'm currently pursuing my bachelor's in technology on Electronics and Communication Engineering from the  College of Engineering Chengannur, Alappuzha.
+
+#### My Contribution:
+- i'am sanjeev,a backend developer in Team IQA. In our project image quality assessment, which aims to unburden the works of photographers  , my primary role was to connect openai,streambit  to project.
+
+#### Key Contributions:
+- connect openai to project
+
+#### Challenges Overcome
+- we faced difficulties in using openai installation to project
+
+#### Future Enhancements:
+- we like to improve our project by adding more features like including video selecting in our project
+#### Final Thoughts:
+- our project aims to support photographers
 
 ---
