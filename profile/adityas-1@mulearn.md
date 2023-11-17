@@ -50,3 +50,29 @@
 
 ---
 
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I'm a passionate open-source developer and tech enthusiast. I like creating Android Applications, bots and scripts.
+> I'm a backend developer (and android developer) from the team "SightSense". My role was to design the entire android application for the project and build the backend OpenAI API integration for the website.
+> Our project was a product to help the visually impaired people to know better about their surroundings.
+
+#### My Contribution:
+- I have previously created chatbots using OpenAI's API.
+- During the hackathon, I've made an Android App, as well as the backend API implementation in the website.
+
+#### Key Contributions:
+- Android Application.
+- Backend API implementation.
+
+#### Challenges Overcome
+- The android application was unable to encode the bitmap image to base64, which put a halt to our application and forced us to shift to a website instead.
+
+#### Future Enhancements:
+- Finish the application that we started.
+
+#### Final Thoughts:
+- Working with this team on Top100Coders hackathon helped me know more about collaborating on projects. The hackathon helped me meet and connect with new people, in similar domains as me.
+- Top100Coders would be one of the most memorable hackathons I've ever attended.
+
+  ---
