@@ -50,7 +50,7 @@ My vision for Kerala's tech landscape revolves around the creation of an environ
 #### My Contributions
 Innovatively crafted open-source Python CLI apps:
 
-- Developer in CodeWiz
+- Developer in team CodeWiz
 
 - Seamlessly merging CLI functionality with OpenAI, we birthed a voice-based OS, sculpting its backend and flawlessly resolving critical errors.
 - Pioneered the backend for an extension that delves into the realms of online meetings, harnessing the power of OpenAI for insightful analysis.
