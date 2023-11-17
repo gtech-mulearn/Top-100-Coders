@@ -1,4 +1,4 @@
-# Full Name 
+# Govind S B
 
 ### About Me
 
@@ -69,3 +69,30 @@ In the end its just that I just like seeing people grow , and I think thats what
 
 - [EHSA](https://github.com/Govind-S-B/ExamHall-SeatAllocator)
 - [QRScanner Overlay](https://github.com/Govind-S-B/qr_scanner_overlay)
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+Hey I am Govind , a member of team X
+
+#### My Contribution:
+- Developed the parser for communication between protocols ( standard JSON response and Beckn )
+- Developed an API server for DB connectivity
+- Working on dockerization for ease of deployment for the connector components
+- System design for connector components in the backend and schema
+- Assisted with BAP and BPP configs and deployment , AI Integration setup
+
+#### Key Contributions:
+- Building the DB and API Server connectivity for extending the base utility of the solution
+
+#### Challenges Overcome
+- Dived in straight to something really hot and niche at the same time and understood something really radical while sleep deprived. I was never able to surpass physical limits like this.
+
+#### Future Enhancements:
+- More AI integrations for features like job listing to discovery flow
+- Adding support for more data points in the back end
+- A easier single script deployment solution for all the backend services
+- Experimenting with more BAP and BPP entities ( rn its one to one essentially )
+- 
+#### Final Thoughts:
+- It was wild connecting with absolutely new people and then forming a team and bonding with them over sleepless code crunching , trying to make sense of config files and shooting ourselves in the foot at times. Its really hard to find folks that love doing this. Really grateful for top 100 coders to bring these folks together. Thanks.
