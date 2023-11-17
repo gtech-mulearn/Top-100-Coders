@@ -38,3 +38,21 @@
 > https://www.linkedin.com/in/ananda-krishnan-96a86324a/
 ---
 
+# Top 100 Finalist - Proof of Work
+
+## My Contribution
+I have played a key role in UI design, focusing on the visual elements, including the selection of typography and iconography, to enhance the user experience in the project.
+
+## Key Contributions
+- Designed the web pages, paying meticulous attention to details such as typography and iconography, to create an engaging and user-friendly interface.
+
+## Challenges Overcome
+The most significant challenge I faced was ensuring that the visual elements seamlessly complemented the back-end design developed by my fellow teammates.
+
+## Future Enhancements
+The current version only deals with details fetched from the MuLearn website. Considering an open network in play, there are plans to implement more websites in the future, creating a decentralized setup. We are planning to integrate websites such as Hackerrank, Leetcode and other skill showcasing platforms.
+
+## Final Thoughts
+I believe that the concept of Beckn Protocol, a decentralized commerce system, can have a vast array of uses in the future. Open networks that connect to multiple services within a single interface, without requiring a monolithic system architecture, can undoubtedly change the dynamics of web or app usage even more in the future. The sessions conducted by Mr. Faiz was wonderfully simple and easily understandable.
+
+
