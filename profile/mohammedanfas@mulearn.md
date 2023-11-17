@@ -1,4 +1,4 @@
-# Mohammed Anfas K P - FrontEnd Developer
+# Mohammed Anfas K P
 
 ### About Me
 
