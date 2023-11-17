@@ -46,7 +46,7 @@
 # Top 100 Finalist -  Proof of Work
 
 ### About Me 
-- Hey, I'm Vyshnav, a front-end developer in Team Y. In our project talent.io, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer.
+- Hey, I'm Vyshnav, a front-end developer and an aspiring full-stack developer in Team Y. In our project talent.io, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer.
 
 #### My Contribution:
 - Ive worked on the Login page alongside the main Landing page of our website
