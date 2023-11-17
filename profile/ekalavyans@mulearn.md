@@ -60,7 +60,7 @@
 
 - Editor: Visual Studio Code, Vim, Atom, Nvim
 - Programming languages: HTML, CSS, JS, React JS, React Native
-- Database: Firebase Firestore
+- Database: Firebase Firestore, JSON
 
 #### Competitive Website Profiles:
 
