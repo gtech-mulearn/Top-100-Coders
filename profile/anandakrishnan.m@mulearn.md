@@ -41,7 +41,7 @@
 # Top 100 Finalist - Proof of Work
 
 ## My Contribution
-I have played a key role in UI design, focusing on the visual elements, including the selection of typography and iconography, to enhance the user experience in the project.
+Working on our beckn based project 'TalentHub' I have played a key role in UI/UX design, focusing on the visual elements, including the selection of typography and iconography, to enhance the user experience in the project.
 
 ## Key Contributions
 - Designed the web pages, paying meticulous attention to details such as typography and iconography, to create an engaging and user-friendly interface.
