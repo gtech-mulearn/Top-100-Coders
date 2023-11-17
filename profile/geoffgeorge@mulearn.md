@@ -70,3 +70,4 @@
 >One of the significant challenges was improving response times for the ai model. Through rigorous testing and collaborative effort  I was able to increase the response time and achieve more efficiently.
 >
 >### Future Enhancements:
+>Chat Bot Functionality
