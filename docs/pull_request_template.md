@@ -1,39 +1,41 @@
-**Pull Request Title:** [Your MUID]
+# Pull Request: Evaluation Criteria for Stage 3
 
-### Help or Support
+## Introduction
+This pull request proposes a new set of evaluation criteria for Stage 3, focusing on advanced aspects of software development. These criteria are designed to assess and foster innovation, community engagement, effective feedback reception, collaboration, domain-specific knowledge, and system design skills.
 
-If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our Top 100 Support WhatsApp Group for real-time assistance. Just click on the link:
-[join group](https://chat.whatsapp.com/CSnvfSvv06eB1j9GEKavRn)
+## Evaluation Criteria
+Please review the following proposed criteria and check each box to indicate your review and agreement:
 
-### Profile Highlights
+```
+## Checklist:
+Before you submit this pull request, please ensure you have completed the following items.
 
-Please make sure to complete the following profile highlights by checking the boxes. This helps us learn more about you and your coding journey.
+### Attitude and Values
+- [ ] Feedback Reception: Openness to receiving feedback and making necessary improvements.
+- [ ] Innovation: Attitude of thinking outside the box, coming up with novel solutions or approaches to problems.
 
-- [ ] Leadership and Influence:
-- [ ] Networking:
-- [ ] As a Top 100 Member:
-- [ ] Career Plan:
-- [ ] Thoughts on Kerala's Tech Ecosystem:
-- [ ] History of Open Source Contributions:
-- [ ] History of Community Engagement:
-- [ ] Highly Visible Technical Content:
-- [ ] Highly Used Software Tools:
-- [ ] Competitive Website Profiles:
+### Abilities and Skills
+- [ ] Collaboration: Skill in working within a team, understanding team dynamics, and contributing effectively.
+
+### Knowledge and Information
+- [ ] Domain-Specific Knowledge: Depending on the challenge, knowledge in areas like AI/ML, blockchain, game development, etc.
+- [ ] System Design: Understanding of how to design scalable and efficient systems, including databases, servers, and client interactions.
+
+### Other Criteria
+- [ ] Has open source contributions
+
+### Do you vouch for the top 100 coders?
+- [ ] I vouch. You belong to the lead of Top 100 Coders 2023
+- [ ] Good Job, All the best for the Top 100 Coders 2024
+```
+
+## Purpose
+The purpose of these criteria is to provide a comprehensive and structured approach to evaluating advanced skills and contributions in software development, ensuring continuous improvement and excellence.
+
+## How to Use
+These criteria can be used for performance reviews, peer feedback, and self-assessment in advanced stages of software development roles.
 
 
-### Additional Information
+---
 
-If you have any additional information or comments you'd like to include, please feel free to add them here.
-
-
-
-### Checklist
-
-Before submitting this PR, please ensure that you have:
-
-- [ ] Checked all the relevant boxes above.
-- [ ] Named your file using your MUID (e.g., `your-muid.md`).
-- [ ] Followed the provided template for each section.
-- [ ] Make sure you joined the Whatsapp Group 
-
-Thank you for participating in Kerala Top 100 Coders - Huddle Global 2023!
+Please review the proposed evaluation criteria for Stage 3 and check the corresponding boxes to indicate your review status, feedback, or approval. Your input is invaluable to ensure the criteria are robust and effective.
