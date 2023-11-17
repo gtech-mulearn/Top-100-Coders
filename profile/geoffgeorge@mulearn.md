@@ -46,7 +46,7 @@
 - Made several Contribution through Collaborative Effort.
 
 #### Challenges Overcome
-- Various challenges such as Team forming  and Various challenges during Development.
+- Various challenges such as Team forming  and Various development challenges.
 
 #### Future Enhancements:
 - I aim to learn new Technologies and strengthen my knowledge in my chosen field
@@ -54,20 +54,20 @@
 - I learnt a lot during the Top 100 Coders program.
 
 ---
-# Example
+
 ># Proof of Work
 >### My Contribution:
 >
->Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide real-time environmental data analysis,I was focused on building the UI and interfacing the backend with the frontend.
+>Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide real-time environmental data analysis,I was focused on building the UI and interfacing the backend with the frontend.Also Wrote two technical Blogs.
 >https://medium.com/@geoff.george.thommana/unveiling-the-power-of-server-side-rendering-a-deep-dive-into-enhanced-user-experiences-e901aa336057
 >### Key Contributions:
 >
->Video Analyser: A multifunctional web application made using oPen Ai and Python
+>Video Analyser: A multifunctional web application made using Open AI and Python
 >API Integration: Integrated various APIs and other tools and Technologies.
 >Competitive Programming: Comtributed over 10+ solutions to HackerRank problems.
 >### Challenges Overcome:
 
->One of the significant challenges was improving response times for the ai model. Through rigorous testing and collaborative effort  I was able to increase the response time and achieve more efficiently.
+>One of the significant challenges was improving response times for the AI model. Through rigorous testing and collaborative effort  I was able to increase the response time and achieve more efficiently.Also learnt to use the open ai api fast.
 >
 >### Future Enhancements:
 >Chat Bot Functionality
