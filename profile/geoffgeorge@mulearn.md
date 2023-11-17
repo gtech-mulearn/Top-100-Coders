@@ -51,7 +51,7 @@
 #### Future Enhancements:
 - I aim to learn new Technologies and strengthen my knowledge in my chosen field
 #### Final Thoughts:
-- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+- I learnt a lot during the Top 100 Coders program.
 
 ---
 # Example
@@ -59,7 +59,7 @@
 >### My Contribution:
 >
 >Hello, Geoff George a MERN Stack developer in Team CodeSpartanz. In our project Video Analyser, which aims to provide real-time environmental data analysis,I was focused on building the UI and interfacing the backend with the frontend.
->
+>https://medium.com/@geoff.george.thommana/unveiling-the-power-of-server-side-rendering-a-deep-dive-into-enhanced-user-experiences-e901aa336057
 >### Key Contributions:
 >
 >Video Analyser: A multifunctional web application made using oPen Ai and Python
