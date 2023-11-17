@@ -37,10 +37,10 @@
 - # Top 100 Finalist -  Proof of Work
 
 ### About Me 
->I am MERN Stack Developer from Thrissur.
+>I am MERN Stack Developer from Thrissur.I am skilled in HTML,CSS,JavaScript, ReactJS,NextJS,Tailwind and various backend Technologies such as Nodejs ,Expressjs and MongoDB.
 
 #### My Contribution:
-- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+- Made two major projects as apart of Top 100 Coders program.A CineFlix App and Video Analyser.
 
 #### Key Contributions:
 - Made several Contribution through Collaborative Effort.
