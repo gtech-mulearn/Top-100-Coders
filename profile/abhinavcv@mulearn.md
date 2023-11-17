@@ -60,3 +60,11 @@ github.com/AB7zz/DeFund
 
 ### Technical Expertise
 NodeJS, ExpressJS, ReactJS, Django, Laravel, MySQL, MongoDB, Firebase, Javascript, Python, C, C++, PHP, Socket.io, D3JS, Telegram, Solidity, Plasmo
+
+#top100-proof-of-work
+
+I have updated my profile according to the new template, highlighting my contributions to the project EduGPT as a member of Team X. 
+
+Check out my updated Top 100 Finalist portfolio here: https://github.com/gtech-mulearn/Top-100-Coders/edit/main/profile/abhinavcv%40mulearn.md
+
+Thank you for this opportunity to showcase my journey and growth during the Top 100 Coders challenge.
