@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hi I am a MERN Stack Developer who is passionate about programming.
+> Hi I am a MERN Stack Developer who is passionate about programming.I am skilled in HTML,CSS,JavaScript,React,Tailwind CSS and Backend Technologies such as Expressjs,Nodejs and MongoDB.
 
 
 ### Portfolio Highlights
@@ -52,10 +52,6 @@ Had an active involvement in communities like IEEE and various tech groups, I've
 
 - (https://www.hackerrank.com/profile/geoff_george_th1)
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
