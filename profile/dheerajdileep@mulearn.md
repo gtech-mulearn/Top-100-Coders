@@ -1,5 +1,4 @@
-# Full Name 
-Dheeraj Dileep 
+# Dheeraj Dileep
 ### About Me
 
 > Hello, I'm Dheeraj Dileep, a dynamic and dedicated fullstack developer based in Kochi, Kerala. Currently pursuing a Bachelor's degree in Information Technology at Cochin University of Science and Technology, 
