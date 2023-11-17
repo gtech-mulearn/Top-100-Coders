@@ -8,9 +8,6 @@
 
 
 ### Portfolio Highlights
-
-
-
 #### Leadership and Influence: 
 
 - I believe I meet the requirements for being a leader and influencer in my domain due to my technical expertise, mentoring skills, and contributions to the programming community. I have a strong track record of guiding and helping my peers improve their programming skills. I also run a server called "TeknoCrew" where I teach young children to code, similar to MuLearn on Discord, and have had a business teaching kids coding. These experiences showcase my leadership and influencing abilities in the field of programming and education.
