@@ -74,7 +74,7 @@ Facilitate collaboration between startups and established companies.
 - Foster knowledge-sharing forums.
 - Encourage partnerships across diverse sectors.
 - This comprehensive strategy, encompassing education, incubation, innovation, social responsibility, and collaboration, forms the bedrock for Kerala's success in the dynamic technology startup landscape.
-- 
+
 #### History of Community Engagement:
 
 - Most of my community engagment is offline . In case of engagment as a mentor , I have helped mentor students participating in some coding challenges, I have also conducted session about using Javascript.
