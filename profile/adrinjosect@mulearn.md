@@ -47,7 +47,29 @@
 - HackerRank - https://www.hackerrank.com/adrinjosect
 
 
+# Top 100 Finalist -  Proof of Work
 
+># Proof of Work
+>### My Contribution:
+>
+>Hi, I'm Adrin , a full-stack developer in Team X. In our project Talent Hub, which aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer using the Beckn Protocol.
+>
+>### Key Contributions:
+>
+>FrontEnd: I was responsible for craeting the UI of the app. In total I have developed 4 pages (Login, SignUp, Landing, Search) with ReactJS and Tailwind, using the figma file designed by my teamate as reference. I also deployed them on vercel.
+
+>Backend (Authentication): I was also responsible for the implementation of authentication and user profiles. This is done as a simple express app, using MongoDB as a database, seperate from the beckn backend. I also handeled the integration of the frontend and backend.
+
+>Database: I'm responsible for managing the MongoDB instance used for authetication, for which we used the cloud option (MongoDB Atlas). 
+
+>Collaboration: Actively collaborated with the rest of the team to ensure seamless integration of the beckn services with the user interface.
+>### Future Enhancements:
+>
+>Due to a lack of time there were a few features left out. Searching, Filtering will be made more complex with many more features. User profiles would have a lot more details giving employers a better idea of what the candidate is capable of. 
+>
+>### Final Thoughts:
+>
+>Working on Talent Hub with Team X has been a remarkable journey. My contribution to the full stack development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
 
 
 ---
