@@ -18,7 +18,7 @@ Before you submit this pull request, please ensure you have completed the follow
 - [ ] Collaboration: Skill in working within a team, understanding team dynamics, and contributing effectively.
 
 ### Knowledge and Information
-- [ ] Domain-Specific Knowledge: Depending on the challenge, knowledge in areas like AI/ML, blockchain, game development, etc.
+- [ ] Domain-Specific Knowledge: Depending on the challenge, knowledge in areas like AI/ML,Becken, blockchain, game development, etc.
 - [ ] System Design: Understanding of how to design scalable and efficient systems, including databases, servers, and client interactions.
 
 ### Other Criteria
