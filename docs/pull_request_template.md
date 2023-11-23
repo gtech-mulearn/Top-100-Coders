@@ -31,7 +31,7 @@ Before you submit this pull request, please ensure you have completed the follow
 
 ## Code Evaluation Criteria
 
-```## Review for [Team][Project Name]
+```
 
 ### Decisions - Pre Coding
 - [ ] Did they have a pre-planning involved, with discussions about the complexities involved and how to solve?
