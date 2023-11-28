@@ -7,8 +7,6 @@ I am Muhammed Hashim T, a passionate Fullstack Web Developer known for my profic
 - **Fullstack Web Development:** I specialize in crafting end-to-end solutions for web applications, ensuring seamless user experiences.
 - **Tech Stack:** Proficient in Nest.js and Next.js, with a strong command of GraphQL for efficient data querying. My database management skills extend to MongoDB and MySQL, enabling me to design robust and scalable backend systems.
 
-## Passion for Mathematics and AI
-Beyond coding, my enthusiasm lies in exploring the intricacies of mathematics and artificial intelligence. I integrate these passions into my projects, bringing a unique perspective to problem-solving.
 
 ## Open Source Contributions
 I actively contribute to our organization's open-source projects, collaborating with fellow developers to enhance codebases and drive innovation.
