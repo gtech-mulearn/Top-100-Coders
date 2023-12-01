@@ -1,0 +1,57 @@
+name: PR Verification
+
+
+on:
+  pull_request:
+    branches: 
+      - main
+    paths:
+      - '/profile/**'
+
+jobs:
+  verify-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo
+      uses: actions/checkout@v2
+
+    - name: Verify Pull Request
+      run: |
+        # Add your verification script here
+        # Example: Check if the file follows naming convention
+        FILE_NAME=$(jq -r ".pull_request.head.repo.default_branch" "$GITHUB_EVENT_PATH")
+        if [[ $FILE_NAME =~ ^[A-Za-z0-9]+\.md$ ]]; then
+          echo "Valid PR"
+          VALID=true
+        else
+          echo "Invalid PR"
+          VALID=false
+        fi
+
+    - name: Label PR
+      if: env.VALID == 'true'
+      uses: actions/github-script@v3
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          github.issues.addLabels({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: ['valid']
+          })
+
+    - name: Label Invalid PR
+      if: env.VALID == 'false'
+      uses: actions/github-script@v3
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          github.issues.addLabels({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: ['invalid']
+          })
+
