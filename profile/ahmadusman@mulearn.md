@@ -19,7 +19,7 @@
 #### As a Top 100 Member: 
 -As a beginner, I believe that collabrating with like minded people can help me enhance my knowledge and elevate my career.
 
-- Being a part of Top 100 would help me create connections with professionals and open up new oppurtunities for my growth.
+-Being a part of Top 100 would help me create connections with professionals and open up new oppurtunities for my growth.
 
 
 #### Career Plan: 
