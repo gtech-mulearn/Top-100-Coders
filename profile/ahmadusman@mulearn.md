@@ -15,7 +15,7 @@
 
 -Part of a community in college consisting of active muLearn members and coding enthusiasts.
 
-
+-Would love to connect and collaborate with new people and professionals to gain new experiences and to share my contributions.
 #### As a Top 100 Member: 
 -As a beginner, I believe that collabrating with like minded people can help me enhance my knowledge and elevate my career.
 
