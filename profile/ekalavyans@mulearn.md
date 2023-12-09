@@ -4,7 +4,7 @@
 
 > I am Ekalavyan S, a 7th-grade student at The School of the Good Shepherd. My passion for coding has been an unshakeable part of my life since the tender age of 9. My coding journey commenced with the fundamentals of Scratch and has since expanded to encompass CSS, HTML, JavaScript, and the exhilarating world of web development.
 
-> The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
+ > The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
 
 > Beyond my coding endeavors, I'm a typical 7th-grade student, indulging in the joys of sports, literature, and cinema. However, my heart truly belongs to coding, and I'm eager to venture into the realms of Artificial Intelligence. My goal is to master the full spectrum of skills necessary for a proficient programmer, shaping a future where I can make a meaningful impact with my code.
 
@@ -60,9 +60,39 @@
 
 - Editor: Visual Studio Code, Vim, Atom, Nvim
 - Programming languages: HTML, CSS, JS, React JS, React Native
-- Database: Firebase Firestore
+- Database: Firebase Firestore, JSON
 
 #### Competitive Website Profiles:
 
 - CodeWars: https://www.codewars.com/users/Ekalavyan%20S
 - HackerRank: https://www.hackerrank.com/profile/ekalavyan_nair
+- Leetcode: https://leetcode.com/Ekalavyan/
+
+---
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am Ekalavyan S, a 7th-grade student at The School of the Good Shepherd. My passion for coding has been an unshakeable part of my life since the tender age of 9. I know React JS, React Native  My coding journey commenced with the fundamentals of Scratch and has since expanded to encompass CSS, HTML, JavaScript, and the exhilarating world of web development. The allure of creating something extraordinary from just a few lines of code has never ceased to captivate my imagination. I've channeled this fascination into developing a range of small games and applications, and I'm currently engaged in crafting web applications using the dynamic ReactJS framework. My coding adventure is a continuous odyssey where I'm constantly learning, exploring new programming languages, tools, and cutting-edge techniques.
+
+#### My Contribution:
+- I have been coding for 3 years. I have made some projects :-
+-                              Backend of my app
+-                              Frontend of my app
+-                              Open Ai Whisper Code
+-                              Confidence detectors
+                               
+
+#### Key Contributions:
+- Open AI Whisper Code
+- Confidence detectors
+
+#### Challenges Overcome
+- I'm a 12-year-old coder, and I'm thrilled to share that I've achieved a rank of under 20k on HackerRank. Additionally, I'm honored to be ranked 33 in the top 100 coders. I'm passionate about coding and always eager to learn and grow in this exciting field.
+
+#### Future Enhancements:
+- As a 12 year old coder I am currently in the process of learning new programming languages, continuously deepening my understanding of the ones I've already mastered. My goal is to extend the functionalities of my applications, making them more robust and feature-rich. As part of this journey, I'm actively exploring hosting options to bring my projects to a wider audience and market them.
+
+#### Final Thoughts:
+- My coding journey has been exponentially enriched, and I take great pride in achieving the title of a top 100 finalist, full-stack developer, and legend gladiator. These accomplishments fuel my enthusiasm, and I'm eager to explore and take on more roles in the dynamic world of coding. I am excited about the opportunities ahead and look forward to continuing my growth and contributions in the field.
