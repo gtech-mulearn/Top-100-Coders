@@ -64,3 +64,31 @@
 - The essential element in realizing this vision will be forging partnerships between educational institutions, government bodies, and the business sector.
 
 ---
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am Jenin Joseph, a passionate Full Stack Developer, Developed both the front-end and back-end using Beckn protocol so that it can be integrated to our  decentralised skill discovery platform.
+
+#### My Contribution:
+- Build the BAP client and Network.
+- Build the BPP client and Network.
+- Build the gateway using docker.
+- The Maze for Huddle Global 2023 (PWA).
+- Front end client application functionality and api integration.
+- collaboration with fellow top 100 coders.
+
+#### Key Contributions:
+- BAP client and network setup.
+- Front-end client application functionality.
+
+#### Challenges Overcome
+- With the limited documentation availiable it was very difficult to understand how to implement Beckn. With the help mentors i was able to overcome this issue.
+- With limited time availiable I was able to build functionality for the Front-end client app.
+
+#### Future Enhancements:
+- I am planning to add more features such as custom portfolio and chatGPT integration to our current app. I will learn more about Beckn and I'm planning to build a tutorial on the Beckn protocol setup. I'm also planning to improve myself in the way i code will work more on my collaboration skills.
+#### Final Thoughts:
+- Working on this project with my team has been a remarkable journey. My contribution to the Beckn protocol development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
+
+---
