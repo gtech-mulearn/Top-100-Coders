@@ -35,9 +35,25 @@ Github - https://github.com/ashishabr, Linkdin - https://www.linkedin.com/in/ash
 - Editor: Sublime
 - Local Server :Xampp, wamp 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+># Proof of Work
+>### My Contribution:
+>
+>Hello, I'm Ashish, a backend developer in Team. In our project Webshot Tracker, which aims to analyse website by providing a screenshot of the web page, My contribution was to fetch the api request and render them.
+>
+>### Key Contributions:
+>
+>Fetch api request : I worked in backend to fetch the website's analytic by passing a url of screenshot of the webpage through open ai
+>Render API response: The response of the API was rendered to the UI.
+>### Challenges Overcome:
+>
+>collaborated and developed the project with a short period of time.
+>
+>### Future Enhancements:
+>
+>I have learned about beckn and was very intrested on the protocol, but couldn't develope the project based on that, cause of my laptop requirements, And would like to build a project using beckn protocol
+>
+>### Final Thoughts:
+>
+>Working along with top 100 coders was a good opertunity. Ice breaking challenge was a good experence, which allowed to collaborate with top 100 coder, A big thank you to my mentor who helped through out my journey.
+>> check out [ashishabraham-1@mulearn.md](./profile/ashishabraham-1@mulearn.md) for an exmaple
 

@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Python enthusiast with a passion for problem-solving through code. I love combining creativity and logic to build meaningful solutions.
+> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python and MYSQL.
  
 
 ### Portfolio Highlights
@@ -17,7 +17,7 @@
 
 #### Highly Used Software Tools:
 
-- I'm good in Python language
+- I know basic in Python language
 
 #### Competitive Website Profiles:
 
@@ -38,5 +38,22 @@
 - Kerala can excel by fostering innovation, investing in education, providing infrastructure, and creating a supportive regulatory environment for tech startups.
 
 
-> In your portfolio, include the following details:
->> check out [ashinsabumathew@mulearn.md](./profile/ashinsabumathew@mulearn.md) for an exmaple
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python and MYSQL. I was a backend developer in my Team IQA
+
+#### My Contribution:
+- The contribution I made is the making of a part of backend of our project.
+
+#### Key Contributions:
+- Used OpenCV module to python.
+
+#### Challenges Overcome
+- We faced to difficulties in debugging the image by using Google Cloud Vision API, since it requires billing. 
+
+#### Future Enhancements:
+- We would like to improve our project by adding more features by giving it more features like including videos in our project.
+  
+#### Final Thoughts:
+- Our project aims to support photographers, which would help them to choose which is the best photo taken.

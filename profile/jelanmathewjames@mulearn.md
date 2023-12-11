@@ -54,3 +54,22 @@
 - I believe that Kerala has the potential to become a center for newer technologies and inventions. We have a talented and enthusiastic group of young minds and great communities to empower them.
 
 ---
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+I'm Jelan Mathew James Backend Developer in No Team. I was trying to build a Helper of recruiters and Job seekers.
+
+#### My Contribution:
+- I have developed both frontend and backend using Django
+
+#### Key Contributions:
+- Integrated Openai API and prompted to get related data in a ranked manner
+
+#### Challenges Overcome
+- Inaccurate results for each prompt create wrong results resolved by accurate prompt writing.
+  
+#### Future Enhancements:
+- Creating more accurate results by using less token usage. Creating a Quick Resume builder using the data provided in your profile.
+#### Final Thoughts:
+- It's my first experience integrating the backend with openai API. Scalability and accuracy are two challenges that persist now and I will try to manage that.
+

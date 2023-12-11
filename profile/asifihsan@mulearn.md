@@ -29,3 +29,25 @@ My Name is Asif Ihsan. I am from Union Christian College. I am a Final Year Stud
 
 - Kerala have very good growing Tech Ecosystem. In comming years it will be growing. And when we look into our state kerala have a bright future.
 
+
+# Top 100 Finalist -  Proof of Work
+
+>### My Contribution:
+>
+>Hello, I'm Asif Ihsan, a backend developer in Team. In our project skill track, which aims to provide Healthy Profiles to companies and showcase peers works.
+>
+>### Key Contributions:
+>
+>Open AI: Worked on integrating open AI and recieving effective output.
+>Collaboration: Actively collaborated with the Backend team to ensure seamless integration of the frontend services.
+>### Challenges Overcome:
+>
+>One of the significant challenges was working on Beckn. Because its new one for me. But support from here help me to overcome it.
+>
+>### Future Enhancements:
+>
+>Looking ahead, I plan to develop real time projects and deploy it.
+>
+>### Final Thoughts:
+>
+>Working my Team has been a remarkable journey. My contribution to the backend development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project. This 2 days give me a unmemorable memories.

@@ -47,3 +47,23 @@
 
 ---
 
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> Hey, I'm Amar Diyab, a passionate Full Stack Developer with a strong focus on Frontend Development, particularly within the MERN ( MongoDB, Express, React, Node.js ) stack. I specialize in building modern, user-friendly web applications and have a deep love for crafting beautiful and responsive user interfaces using ReactJS, NextJS, and Tailwind CSS.
+
+#### My Contribution:
+- I actively contribute by conceptualizing ideas, conducting in-depth research, and collaborating with peers throughout the application development lifecycle. I take ownership of building the client-side architecture from scratch and provide support for server-side coding, including seamless integration of components.
+
+#### Key Contributions:
+- My primary contribution centered on spearheading the complete development of the client-side, which encompassed building the UI and integrating various components entirely from scratch. This effort was solely undertaken by me, showcasing my expertise in crafting the user interface and ensuring seamless integration across the application."
+
+#### Challenges Overcome
+- The most significant challenge I successfully tackled was the extensive research and subsequent development of the application. Navigating this involved delving into thorough research processes and implementing the findings into the application's development phase, which required strategic problem-solving and comprehensive execution.
+
+#### Future Enhancements:
+- I'm eagerly anticipating future enhancements, specifically focusing on SEO optimization, data optimization, as well as exploring the realms of AI and ML. My aim is to integrate these advancements into our projects, leveraging their potential to further elevate our applications.
+- 
+#### Final Thoughts:
+- Working on InterviewGenie with my team has been a remarkable journey. My contribution to the development not only challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited about the potential impact of our project.
