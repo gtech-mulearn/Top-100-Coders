@@ -1,37 +1,12 @@
-# ABIN RAJU DANIEL
+# Full Name 
 
 ### About Me
 
-> Hi myself Abin Raju Daniel from Pathanamthitta Studying at St Joseph's College of Engineering and Technology Palai   as 1st Year Cyber Security Student
-> Age 18 Love to explore the depth of Tech knowledge , programming etc etc..
+> write about your self .................. (minimum 200 Characters)
 
 
 ### Portfolio Highlights
 
-
-
-
-#### Leadership and Influence: 
-
-havent Lead anything (team etc yet..)
-
-#### Networking: 
-
--Applying for gaining network with experts, and elevate my career in tech. Boosting credibility and opportunities meet new people
-
-I belive MuLearn will open  path to more opportunities for me in future .
-
-
-#### As a Top 100 Member: 
--Applying for gaining network with experts, and elevate my career in tech. Boosting credibility and opportunities meet new people
-
-
-#### Career Plan: 
-
-Improove my Depth of knowldege on various topic 
-
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
-Better than what i have expected  Motivates  students to compe up with more tech start up ideas  
 
 #### History of Open Source Contributions:
 
@@ -39,47 +14,43 @@ Better than what i have expected  Motivates  students to compe up with more tech
 
 #### History of Community Engagement:
 
-
+-  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
 #### Highly Visible Technical Content:
 
-
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
+#### Leadership and Influence:
 
+- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+
+#### Networking:
+
+- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+
+#### As a Top 100 Member:
+
+- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+
+#### Career Plan:
+
+- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
-
-# Top 100 Finalist -  Proof of Work
-
-### About Me 
-> Hi myself Abin Raju Daniel from Pathanamthitta Studying at St Joseph's College of Engineering and Technology Palai   as 1st Year Cyber Security Student
-> Age 18 Love to explore the depth of Tech knowledge , programming etc etc..  I am new to web development and workedin a team IQA on the 3 day Hackathon program Conducted by mulearn
-
-#### My Contribution:
-Help developed the idea.  Worked on some of the basics Structuring.
-
-#### Key Contributions:
-
-
-#### Challenges Overcome
-faced a big challenge of using open ai for first time
-
-#### Future Enhancements:
-Would like to develop the program we developed Image Quality Assesment 
-#### Final Thoughts:
--It supports photographers mainly  and help people who has  bulk of photos and decide which one to use fortheir personal purpose
 
 ---
 
