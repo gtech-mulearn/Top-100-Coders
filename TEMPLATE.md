@@ -1,16 +1,13 @@
 # Full Name 
-fibin ali N
+FIBIN ALI N
 ### About Me
-my name is fibin ali ,i am studying ssmptc tirur ,currently i am 2 year student.
-> write about your self .................. (minimum 200 Characters)
-I'm a Full Stack Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in Javascript, Python and a variety of frameworks, such as Django, Express and React. I have experience working with databases such as MySQL, PostgreSQL and MongoDB
-
+I'm a Diploma student with a passion for creating innovative web applications. I have a basic understanding of the full web development life cycle, from concept and design to coding. I am basic knowledges about in Javascript, Python and c language.
+And good at typing and using ms office word ,excel and powerpoint
 ### Portfolio Highlights
 
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
@@ -42,11 +39,9 @@ I'm a Full Stack Developer with a passion for creating innovative web applicatio
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- i have to complete my diploma and join a work from home job for programming and some bessness in social media
 
-#### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 
 > In your portfolio, include the following details:
