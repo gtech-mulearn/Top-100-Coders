@@ -2,7 +2,7 @@
 FIBIN ALI N
 ### About Me
 I'm a Diploma student with a passion for creating innovative web applications. I have a basic understanding of the full web development life cycle, from concept and design to coding. I am basic knowledges about in Javascript, Python and c language.
-And good at typing and using ms office word ,excel and powerpoint.
+And good at typing and using ms office word ,excel and powerpoint
 
 #### Leadership and Influence:
 
