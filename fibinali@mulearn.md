@@ -30,8 +30,6 @@ Networking: Connect with professionals in the gaming industry and social media m
 
 Side Projects: Work on gaming development projects in your free time. Start with small projects to gain experience and gradually work your way up to more complex games. Showcase your projects on platforms like GitHub or create a personal portfolio website to demonstrate your skills to potential employers or clients
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
