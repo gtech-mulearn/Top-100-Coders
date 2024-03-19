@@ -1,4 +1,4 @@
-# Full Name 
+# Full Name
 
 ### About Me
 
@@ -47,10 +47,3 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
