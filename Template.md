@@ -1,4 +1,4 @@
-# JAMES NS
+#YOUR NAME
 
 ### About Me
 
