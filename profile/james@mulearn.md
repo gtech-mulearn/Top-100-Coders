@@ -1,11 +1,12 @@
-James NS
+Vishnu S Pramod
 About Me
-Hey, Myself James NS, a second year btech computer science student at SNGIST. Besides web development my knowledge extent to basic programming in python and c languages.
+Hey, Myself Vishnu S Pramod, a 4rth year btech computer science student at College of Engineering Pathanapuram. Besides web development my knowledge extent to basic programming in python and c languages.
 
+Portfolio Highlights
 Leadership and Influence:
 Through my constant co-ordination in group projects and various offline events, i have demonstrated leadership skills.
 Networking:
-My involvement in various organizations such as IEDC and various communities, build a strong networking background.
+My involvement in various organizations such as IEDC, CSI and various communities, build a strong networking background.
 As a Top 100 Member:
 Through Top 100 program, my aim is not only to showcase my skills but also to share and gain knowledge among various tech enthusiasts.
 Career Plan:
