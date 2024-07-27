@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Welcome to the Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across India and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
+Welcome to the Top 100 Coders, the highlight of Huddle Global 2024! This event aims to identify and showcase the most talented coders from across India and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@ Welcome to the Top 100 Coders, the highlight of Huddle Global 2023! This event a
 
 ## Step 1:
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
+<!-- <img width="428" alt="Screenshot 2024-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
 <img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
 
 
@@ -76,7 +76,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 > The Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
 
-<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
+<img width="236" alt="Screenshot 2024-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
 </div>
 
 <div align="left">
@@ -113,7 +113,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 #
 
-:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2024. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
 
 > If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
 
