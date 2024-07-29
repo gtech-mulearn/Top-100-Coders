@@ -104,7 +104,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 #### 🎙️ #top-100-officehours
 
 - Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 6 PM to 7 PM.
+- Timing: Tune in every day from 8 PM to 9 PM.
 - Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
 > Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
