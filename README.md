@@ -66,21 +66,22 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 </div>
 
-<div>
+## 🚀 Step 4: 
+
+<div align=left>
   
-## 🚀 Step 4: Link your mulearn profile
+## 🚀 Link Your MuLearn Profile!
 
-#### Get Your μLearn Profile
+Ready to complete your digital persona? It’s time to link your MuLearn profile and make your coding journey shine even brighter! Follow these steps to add your MuLearn profile to your GitHub portfolio:
 
-Update your [mulearn profile](https://app.mulearn.org/register) as public in the share button and copy the Embed Link.
+#### 🍴 Get Your Embed Link!
+Head over to your [MuLearn profile](https://app.mulearn.org/register), click on the share button, and make your profile public. Copy the Embed Link provided.
 
-#### Update Your Digital Identity
+#### 📄 Update Your Markdown File!
+Open the markdown file you created in the `/profile` folder. Paste the Embed Link into the designated section of your profile file.
 
-Paste the embed link in your profile you have created in `/profile` folder and commit your changes.
-
-#### 🚀 Pull It!
-
-Once you're ready, open a pull request targeting the main branch. 
+#### 🚀 Pull It!  
+Once you've updated your profile, create a pull request targeting the main branch. Show the world your complete coding identity!
 
 </div>
 
