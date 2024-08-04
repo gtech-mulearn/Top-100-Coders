@@ -24,8 +24,8 @@
 
 #### As a Top 100 Member:
 
-- Applying for launchpad to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
-- Believing that being part of this launchpad will open doors to new opportunities, foster innovation, and enhance my career.
+- Applying for top100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
+- Believing that being part of this ltop100 will open doors to new opportunities, foster innovation, and enhance my career.
 
 #### Career Plan:
 
