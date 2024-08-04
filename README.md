@@ -66,11 +66,27 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 </div>
 
-#
+<div>
+  
+## 🚀 Step 4: Link your mulearn profile
+
+> #### Get Your μLearn Profile
+
+Update your [mulearn profile](https://app.mulearn.org/register) as public in the share button and copy the Embed Link.
+
+> #### Update Your Digital Identity
+
+Paste the embed link in your profile you have created in `/profile` folder and commit your changes.
+
+#### 🚀 Pull It!
+
+Once you're ready, open a pull request targeting the main branch. 
+
+</div>
 
 <div align="center">
 
-## 🚀 Step 4: Dive into the Digital Arena!
+## 🚀 Step 5: Dive into the Digital Arena!
 
 ### Welcome to the heart of our competition
 
