@@ -48,9 +48,11 @@
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
+#### Profile Card:
+
+- Share your profile embed link from mulearn dashboard here
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
