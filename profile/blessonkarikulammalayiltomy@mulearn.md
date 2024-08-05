@@ -8,6 +8,9 @@
 
 ### Portfolio Highlights
 
+- [Checkout my Personal Website](https://www.blessonktomy.tech)
+- [Checkout my profile page](https://www.profile.blessonktomy.tech)
+
 
 #### History of Open Source Contributions:
 
