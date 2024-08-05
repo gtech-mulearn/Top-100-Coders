@@ -3,19 +3,22 @@
 ### About Me
 
 > I am a self-paced web development student with a foundation in HTML and CSS.
-> My journey began in class 10 when I participated in a contest, igniting my passion for web development.
-> Though I didn't win, it fueled my determination to excel in this field.
-> I am a newcomer to coding, eager to expand my knowledge and skills in web development, with a strong commitment to continuous learning and growth.
+> UI Designer, Graphic Designer, a little bit into marketing
+> Have average knowledge about Tech.
 
 
 ### Portfolio Highlights
 
-
+JACK OF ALL TRADES, MASTER IN NONE
 
 
 #### History of Community Engagement:
 
--  Active Member in GDSC, Mulearn and Tinkerhub.
+-  Tech Lead in IEEE SB MCE
+-  Chief Creative Officer at Inspira Marian IEDC
+-  Campus Co-lead & Web Dev IG lead at µLearn MCE
+-  SMM Intern at µLearn Foundation
+
 
 #### Highly Visible Technical Content:
 
@@ -24,7 +27,7 @@
 #### Highly Used Software Tools:
 
 - VS Code
-- Dev C++
+- Figma
 
 #### Competitive Website Profiles:
 
@@ -34,7 +37,11 @@
 
 #### Leadership and Influence:
 
-- Content Lead at GDSC MCE (2023-24)
+-  Tech Lead in IEEE SB MCE
+-  Chief Creative Officer at Inspira Marian IEDC
+-  Campus Co-lead & Web Dev IG lead at µLearn MCE
+-  SMM Intern at µLearn Foundation
+
 
 #### Networking:
 
