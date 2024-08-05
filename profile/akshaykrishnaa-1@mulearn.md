@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hi, i am Akshay krishna A , Third Year Computer Science student at Lourdes Matha College of Science and Technology.
+> Hi, i am Akshay krishna A , final  Year Computer Science student at Lourdes Matha College of Science and Technology.
 
 
 ### Portfolio Highlights
@@ -11,11 +11,13 @@
 
 #### Leadership and Influence: 
 
-- Secretary IEEE SB LMCST
-- Vice chair IEEE SB LMCST
+- Chair  IEEE SB LMCST
+-  IEEE EXTRME Co lead Kerala Sectiion 
 - IEEE DAY Ambassador
 - Campus lead Gtech Mulearn
-- 
+- IEDC Finance Lead
+  
+  
 
 #### Networking: 
 
@@ -45,15 +47,14 @@ Kerala can emerge as a leading tech startup hub by investing in digital infrastr
 
 
     Active participant in programs conducted by Gtech Mulearn, IEDC/KSUM , IEEE
+
+    
    
+#### Profile Card:
+
+- <img src="https://mulearn.org/embed/rank/akshaykrishnaa-1@mulearn" width="100px" height="100px"></img>
 
 
 
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
 
