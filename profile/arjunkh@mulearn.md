@@ -60,6 +60,9 @@ JACK OF ALL TRADES, MASTER IN NONE
 
 - Kerala's Ecosystem is currently lush with a wide variety of skillset and has great potential to excess limitations.
 
+#### Mulearn Profile
+<img src="https://mulearn.org/embed/rank/arjunkh@mulearn" width="700px" height="500px"></img>
+
 
 > In your portfolio, include the following details:
 >> check out [arjunkh@mulearn.md](./profile/arjunkh@mulearn.md) for an exmaple
