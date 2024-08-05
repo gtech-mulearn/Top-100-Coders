@@ -2,8 +2,7 @@
 
 ### About Me
 
-> I am a dedicated and passionate college student with a strong work ethic and a keen interest in technology. Throughout my academic journey, I have developed a solid foundation in programming and web development, gaining hands-on experience with technologies like Next.js, React, and Node.js. My commitment to continuous learning and my enthusiasm for solving complex problems drive me to explore new challenges and expand my skill set. Whether working on collaborative projects or individual assignments, I bring creativity, diligence, and a positive attitude to every endeavor. Outside of my studies, I enjoy engaging in extracurricular activities that allow me to apply my technical knowledge in practical, real-world scenarios. If you'd like to know more about my experiences, projects, or aspirations, feel free to reach out!
-
+> I am a dedicated and passionate college student with a strong work ethic and a keen interest in technology. Study In **Mes Ponnani** 2nd Year on Bsc Computer sceince, Throughout my academic journey gaining hands-on experience with technologies like Next.js, React, and Node.js. My commitment to continuous learning and my enthusiasm for solving complex problems drive me to explore new challenges and expand my skill set. Outside of my studies, I enjoy engaging in extracurricular activities that allow me to apply my technical knowledge in practical, real-world scenarios. 
 
 ### Portfolio Highlights
 
@@ -65,7 +64,7 @@
 
 - <img src="https://mulearn.org/embed/rank/mohammedanfas@mulearn" width="500" height="400"/>
 
-That's All thank you();
+That's All thank you(); <Br />
 return Love;
 
 ---
