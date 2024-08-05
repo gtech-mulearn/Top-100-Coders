@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hi, i am Akshay krishna A , Third Year Computer Science student at Lourdes Matha College of Science and Technology.
+> Hi, i am Akshay krishna A , final  Year Computer Science student at Lourdes Matha College of Science and Technology.
 
 
 ### Portfolio Highlights
@@ -11,11 +11,11 @@
 
 #### Leadership and Influence: 
 
-- Secretary IEEE SB LMCST
-- Vice chair IEEE SB LMCST
+- Chair IEEE SB LMCST
+- IEEE eXTRME Co lead KERALA Section  
 - IEEE DAY Ambassador
 - Campus lead Gtech Mulearn
-- 
+- IEDC Finace Lead 
 
 #### Networking: 
 
@@ -33,7 +33,7 @@ As an aspiring software developer, being in the top 100 will demonstrate my lead
 Resivied an Funding from KSUM For a project , long tearm goal is to Start an Startup 
 
 
-#### Thoughts on Kerala's Tech Ecosystem: `required field`
+#### Thoughts on Kerala's Tech Ecosystem: 
 
 Kerala can emerge as a leading tech startup hub by investing in digital infrastructure, promoting skill development, fostering a culture of innovation, and creating an environment that attracts talent and investors.
 
@@ -51,9 +51,4 @@ Kerala can emerge as a leading tech startup hub by investing in digital infrastr
 
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
 
