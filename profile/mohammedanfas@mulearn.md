@@ -62,10 +62,8 @@
 
 #### Profile Card:
 
-- <img src="https://mulearn.org/embed/rank/mohammedanfas@mulearn" width="500" height="400"/>
+- <img src="https://mulearn.org/embed/rank/mohammedanfas@mulearn" width="500px" height="400px"></img>
 
-That's All thank you(); <Br />
-return Love;
 
 ---
 
