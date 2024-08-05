@@ -91,5 +91,5 @@ I have contributed to various open-source projects. The links for the original r
 
 #### Profile Card:
 
-<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" width="500" height="400"></img>
+<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" width="500" height="400"/>
 
