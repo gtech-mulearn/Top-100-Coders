@@ -49,7 +49,7 @@ I'm a second year Computer Science student of College of Engineering, Trivandrum
 - Well. I've already answered it!
 #### Profile Card:
 
-- Share your profile embed link from mulearn dashboard here
+- <img src="https://mulearn.org/embed/rank/mehbinac@mulearn" width="100px" height="100px"></img>
 
 > In your portfolio, include the following details:
 
