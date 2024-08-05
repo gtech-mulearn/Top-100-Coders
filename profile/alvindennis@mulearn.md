@@ -83,10 +83,9 @@ I have contributed to various open-source projects. The links for the original r
 
 -[Github](https://github.com/alvin-dennis)
 
--[LinkedIn](https://www.linkedin.com/in/alvin-dennis-0a70ba163)
+-[LinkedIn](https://linkedin.com/in/alvin-dennis-0a70ba163)
 
--[Portfolio](https://www.alvindennis.vercel.app)
+-[Portfolio](https://alvindennis.vercel.app)
 
-#### Profile Card:
+-[Mulearn](https://app.mulearn.org/profile/alvindennis@mulearn)
 
-<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" width="500" height="400"></img>
