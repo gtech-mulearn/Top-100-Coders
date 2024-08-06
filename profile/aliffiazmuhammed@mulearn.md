@@ -1,4 +1,4 @@
-# Full Name 
+# ALIF FIAZ MUHAMMED
 
 ### About Me
 
@@ -41,7 +41,8 @@
 
 #### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and boost my career.
+- Network with tech enthusiasts, encourage learning and growth, contribute to the tech ecosystem, and inspire others through my journey.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
