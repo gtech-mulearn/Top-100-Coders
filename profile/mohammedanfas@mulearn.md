@@ -33,8 +33,8 @@
 #### Competitive Website Profiles:
 
 - I have just started [leetCode](https://leetcode.com/u/kpanfas6/)
-- [Mulearn](https://app.mulearn.org/profile/anfas@mulearn)
-- [Github](https://github.com/anfas)
+- [Mulearn](https://app.mulearn.org/profile/mohammedanfas@mulearn)
+- [Github](https://github.com/anfastech)
 
 #### Leadership and Influence:
 
