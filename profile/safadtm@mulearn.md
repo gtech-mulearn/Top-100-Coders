@@ -66,5 +66,5 @@
 
 #### Profile Card:
 
-- <img src="https://mulearn.org/embed/rank/safadtm@mulearn" width="100px" height="100px"></img>
+- <img src="https://mulearn.org/embed/rank/safadtm@mulearn" width="500" height="400"></img>
 ---
