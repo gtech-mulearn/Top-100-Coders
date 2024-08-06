@@ -14,10 +14,6 @@
 | **CHAT APP**  | THis is a simple chat application where you can connect to your freinds and chat.It is built using React in as fronend and Node in backend                                           |            |[chat app](https://github.com/aliffiazmuhammed/chat-app.git) 
 
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
 #### Highly Visible Technical Content:
 
 - https://medium.com/@alifmgdi/mnist-image-classifier-using-tensorflow-and-keras-858fba743ddb
