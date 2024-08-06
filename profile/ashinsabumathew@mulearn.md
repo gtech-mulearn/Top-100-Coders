@@ -2,14 +2,14 @@
 
 ### About Me
 
-> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python and MYSQL.
+> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python, C andMYSQL.
  
 
 ### Portfolio Highlights
 
 #### History of Community Engagement:
 
-- Active member in GDSC, Tinkerhub and myulearn
+- Active member in GDSC, Tinkerhub and MuLearn
 
 #### Highly Visible Technical Content:
 
@@ -17,7 +17,7 @@
 
 #### Highly Used Software Tools:
 
-- I know basic in Python language
+- I have brimmimng knowledge in Python, C languages
 
 #### Competitive Website Profiles:
 
@@ -41,7 +41,7 @@
 # Top 100 Finalist -  Proof of Work
 
 ### About Me 
-> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python and MYSQL. I was a backend developer in my Team IQA
+> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python, C and MYSQL. I was a backend developer in my Team IQA
 
 #### My Contribution:
 - The contribution I made is the making of a part of backend of our project.
