@@ -21,7 +21,9 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Vscode
+- Git
+- Mongodb
 
 #### Competitive Website Profiles:
 
