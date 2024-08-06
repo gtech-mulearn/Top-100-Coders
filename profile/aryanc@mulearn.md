@@ -7,11 +7,13 @@ I am actively engaged in projects that aim to assist differently abled children 
 
 #### Leadership and Influence:
 
-- Currently holding position as Technical Lead in IEDC, has organized and conducted many events like IoT Bootcamps and various other. Currently working on evening culture which promotes technical knowledge and innovation in the campus.
+- Currently holding position as CEO in IEDC, has organized and conducted many events like IoT Bootcamps and various other. Currently working on evening culture which promotes technical knowledge and innovation in the campus.
+- Co-lead of FOSS United campus chapter.
 
 #### Networking: 
 
 - Bieng a part of IEDC, I had connecred with various other collages execoms which promoted my experience level.
+- IG intern of MuLearn which had a great impact in my Networking.
 
 #### As a Top 100 Member:
 
@@ -34,6 +36,7 @@ I am actively engaged in projects that aim to assist differently abled children 
 
 - Active member IEDC, it enhanced me to connect with technical communities in various other collages.
 - Also a execom meber of MuLearn in campus.
+- Co-lead of FOSS united campus chapter.
 - Member of ISTE, looking forward for oppurtinities.
 
 #### Highly Visible Technical Content:
