@@ -45,3 +45,8 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - I worked as Intern at KSUM from Jun-jul '24. Interacted with a lot of startups. There's still a lot of work to do but what the ecosystem has built up till now is impressive. Still a lot of work though.
+
+#### Profile Card:
+
+- https://app.mulearn.org/profile/sephinsebastiane@mulearn
+
