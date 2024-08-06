@@ -1,22 +1,17 @@
-# AFLAH MUHAMMED P 
+
+# Full Name 
 
 ### About Me
-    I Aflah Muhammed P , am a passionate student, who is passionate to learn 
-    and explore new heights  , I'm cuurently learning CSE at college of Engineering Trivandrum
-    cuurently in second year .
 
 > write about your self .................. (minimum 200 Characters)
 
 
 ### Portfolio Highlights
-    C
-    C++
-    Java
-    python 
-    Leetcode
+
 
 #### History of Open Source Contributions:
-    NONE
+
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
