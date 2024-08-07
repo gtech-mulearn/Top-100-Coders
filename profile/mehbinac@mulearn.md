@@ -49,5 +49,5 @@ I'm a second year Computer Science student of College of Engineering, Trivandrum
 - Well. I've already answered it!
 #### Profile Card:
 
-<img src="https://mulearn.org/embed/rank/mehbinac@mulearn" width="200px" height="200px"></img>
+<img src="https://mulearn.org/embed/rank/mehbinac@mulearn" width="500px" height="500px"></img>
 
