@@ -6,17 +6,15 @@ And good at typing and using ms office word ,excel and powerpoint
 
 #### Leadership and Influence:
 
-As an applicant for the Top100 coder community, my networking approach is centered on active listening and mutual idea exchange. I plan to engage with the community through collaborative projects and discussions, contributing my expertise while learning from others' diverse skills.
-
-My leadership strategy involves initiating peer-led workshops and hackathons to inspire and foster collective innovation. Simultaneously, I'm eager to absorb new perspectives and skills from fellow members, enriching my problem-solving and technical abilities. This two-way influence ensures a dynamic, mutually beneficial environment, promoting both personal growth and technological advancement. My aim is to be an active contributor and a keen learner within the Top100 community.
+As a developer, I collaborate with colleagues to achieve project goals. I engage in discussions and assist the team, contributing to the overall progress of the projects..
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I am working on building better connections within the community. I want to connect with good coders whom I can look up to.
 
 #### As a Top 100 Member:
 
-Enrolling in the Top 100 is an important objective for me because it completely fits with my full stack development and career goals. Above all, it offers a priceless chance for me to present my work and contributions to the larger community. To be listed among the Top 100 would be a mark of distinction among my colleagues and  to the influence I've made on the profession. Joining the Top 100 community also gives me access to a huge network of some of the most powerful experts in my field. This exposure would open up prospects for partnerships, collaborations, and mentorships that could greatly advance my knowledge and abilities..
+ am considering this as a challenge for testing myself and knowing where do I stand among these amazing people
 
 #### Career Plan:
 
@@ -26,9 +24,13 @@ Work from Home Job: Look for remote job opportunities in programming and social 
 
 Gain Experience: While working from home, make the most of your job by learning as much as you can. Gain experience in programming languages relevant to game development (such as C++, C#, Unity, Unreal Engine, etc.) and familiarize yourself with social media marketing strategies.
 
-Networking: Connect with professionals in the gaming industry and social media marketing field through online platforms like LinkedIn, Twitter, or specialized forums and communities. Networking can open up opportunities for mentorship, collaboration, and potential job offers in the future.
-
 Side Projects: Work on gaming development projects in your free time. Start with small projects to gain experience and gradually work your way up to more complex games. Showcase your projects on platforms like GitHub or create a personal portfolio website to demonstrate your skills to potential employers or clients
+
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+Kerala's tech ecosystem is on the rise, showcasing great potential for growth. The state's budding startup scene and a growing emphasis on technology education make it an exciting place for tech enthusiasts and entrepreneurs.
+
 
 
 ---
