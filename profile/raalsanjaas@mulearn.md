@@ -22,36 +22,43 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
+- Development Environments & IDEs
+    - Visual Studio Code
+- Design & Prototyping
+    - Figma
+      
 #### Competitive Website Profiles:
 
-- Hackerrank - https://www.hackerrank.com/profile/raalsanjaas2791
+- Active user at Hackerrank.
 
 #### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- Currently volanteering as Secretary at IEEE SB LMCST and working as Campus Tech Lead at MuLearn LMCST.
+  
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- I excel in building strong, collaborative relationships through clear communication and active participation. My plan is to engage with the Top 100 community by sharing insights, fostering collaboration, and leading by example in driving innovation.
 
 #### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- I think my inclusion in the Top 100 will help me advance my profession, encourage creativity, and open doors to new opportunities.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate plan is to connect and support the startup community in Kerala by hosting seminars.
+
+- Longer-Term Vision: By promoting improved infrastructure and international collaborations, I hope to contribute to Kerala being a center for sustainable innovation and cutting-edge technologies.
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- By developing local talent, encouraging innovation, and providing a welcoming atmosphere for businesses, Kerala has the potential to flourish in the technology startup ecosystem.
+
+- To realize this aim, cooperation between the public and private sectors will be essential.
+
 
 #### Profile Card:
 
 - https://app.mulearn.org/dashboard/profile
 
-> In your portfolio, include the following details:
+<!-- In your portfolio, include the following details: -->
 
----
