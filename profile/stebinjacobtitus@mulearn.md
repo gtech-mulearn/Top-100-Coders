@@ -1,4 +1,4 @@
-# Stebin Jacob TItus
+# Stebin Jacob Titus
 
 ### About Me
 
