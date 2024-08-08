@@ -41,6 +41,6 @@
 
 #### Profile Card:
 
-- <img src="https://mulearn.org/embed/rank/mohammedameen@mulearn" width="100px" height="100px"></img>
+- <img src="https://mulearn.org/embed/rank/mohammedameen@mulearn" width="190px" height="250px"></img>
 
 
