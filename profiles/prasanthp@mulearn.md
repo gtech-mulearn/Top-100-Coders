@@ -66,6 +66,6 @@
 
 #### Profile Card:
 
-- <a href="https://app.mulearn.org/profile/prasanthp@mulearn">href="https://app.mulearn.org/profile/prasanthp@mulearn</a>
+- <a href="https://app.mulearn.org/profile/prasanthp@mulearn">https://app.mulearn.org/profile/prasanthp@mulearn</a>
 
 <img src="https://github.com/user-attachments/assets/123a5374-d0c7-42e2-9203-3cb4b53dd52f" style="width:70%; height:70%">
