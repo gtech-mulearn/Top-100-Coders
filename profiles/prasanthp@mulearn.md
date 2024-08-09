@@ -63,3 +63,9 @@
 
 - In my opinion, Kerala as an educated state, has the perfect ecosystem for a tech boom and in the future it has the possibility to become the tech hub of India.
 - Also, it's a place where the young mindset have a proper plan and caliber to fulfill the goal.
+
+#### Profile Card:
+
+- https://app.mulearn.org/profile/prasanthp@mulearn
+
+<img src="https://github.com/user-attachments/assets/123a5374-d0c7-42e2-9203-3cb4b53dd52f" style="width:70%; height:70%">
