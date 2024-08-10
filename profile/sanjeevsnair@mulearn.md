@@ -48,7 +48,7 @@
 
 #### Profile Card:
 
- - [mulearn profile](https://app.mulearn.org/dashboard/profile)
+ - [<img src="https://mulearn.org/embed/rank/sanjeevsnair@mulearn" width="800" height="500"></img>](https://app.mulearn.org/profile/sanjeevsnair@mulearn)
 
 # Top 100 Finalist -  Proof of Work
 
