@@ -6,6 +6,8 @@ I am a frontend developer aspiring to become a full stack developer. I am passio
 
 ### Portfolio Highlights
 
+<img src="https://mulearn.org/embed/rank/alanfrancissanthosh-1@mulearn" height="200"></img>
+
 #### History of Open Source Contributions:
 
 I don't have much to talk about in terms of open-source contributions, but I have made significant contributions to MuLearn's public repository during my internship at MuLearn. I have also contributed extensively to the webpages for MITS Media Club, TinkerHub MITS, IEEE SB MITS, and MuLearn MITS.
