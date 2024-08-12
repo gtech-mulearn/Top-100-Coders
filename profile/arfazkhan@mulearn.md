@@ -63,3 +63,26 @@
 >> check out [arfazkhan@mulearn.md](./profile/arfazkhan@mulearn.md) for an exmaple
 
 ---
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> Hey, I'm Arfaz Khan, a BTech Electronics student with a genuine passion for various tech domains. What sets me apart is my belief that countless opportunities are out there, but success isn't guaranteed everywhere. I thrive on taking the initiative, exploring each chance, and making the most of the possibilities that come my way.
+
+#### My Contribution:
+- I played a key role in brainstorming and ideation for the candidate assessment framework, named iHire, within a short timeframe. This involved assessing feasibility, conceptualizing the solution's impact on real-world problems, and initiating the tool's implementation.
+-  iHire is an intelligent hiring tool designed to assess candidates cognitively. The project aimed to create a comprehensive candidate assessment framework that deeply analyzes a candidate's work, aiding recruiters in making informed decisions.
+  
+#### Key Contributions:
+- My primary focus was on developing a custom GitHub script for data scraping. This script assessed GitHub profiles and provided scores based on various criteria. Additionally, I took the initiative to create a CLI tool, and later collaborated with a teammate to transition it into a functional web application.
+- I concentrated on the development of a custom GitHub script, which involved overcoming challenges in implementing algorithms for various profile types. Continuous learning and brainstorming led to improved analyses. Additionally, I contributed significantly to transforming the CLI tool into a web application.
+
+#### Challenges Overcome
+- The big challenge we faced was shifting the CLI tool to a web app and hooking it up with the GPT API. When it came to integrating it with GPT, I hit a bit of a roadblock. I was confused about how to implement it, especially since handling the prompts needed careful consideration.
+
+#### Future Enhancements:
+- I envision integrating iHire with blockchain technology and implementing more rigorous algorithms for various engines, expanding its capabilities beyond GitHub. These enhancements aim to elevate iHire's capabilities, providing more comprehensive candidate assessments. Integration with blockchain ensures data security, while advanced algorithms extend the tool's usefulness across diverse platforms.
+  
+#### Final Thoughts:
+- I'm particularly proud of the rapid development and launch of iHire in a short period. The support from mentors, peers, and shared motivation reinforced the impact of connecting like-minded individuals, bringing about positive change and i really believe this tool in its full potentia could possibly dirupt the industry. Another thing I would like to highlight is i tried to covert the CLI based tool to a GPT web app using GPT obviously it takes time but it was fun although, i was not able to completely exepriment it and finish but i am looking forward to use GPT to build a GPT tool in the near future.

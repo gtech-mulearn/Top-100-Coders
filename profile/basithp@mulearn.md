@@ -59,3 +59,24 @@
 
 
 ---
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+Hello, I'm Basith P, a developer in Team Code Ninjas. In our project Talentz, which aims to make the discovery of talents from the mulearn using the beckn protocol, my primary role was to build the BAP for the project.
+
+#### My Contribution:
+- I am developing the BAP and the front-end application in Flutter with my teammates.
+
+#### Key Contributions:
+- I am developing the BAP for the project and it is one of the most important components of the beckn protocol.
+
+#### Challenges Overcome
+- I have faced challenges in understanding the protocol first, also had challenges during the development. I have solved the challenges with the help of the mentors and friends
+
+#### Future Enhancements:
+- I am hoping to complete the project and include other features of the beckon protocol in the app. I also hope to build other apps using beckn protocol.
+
+#### Final Thoughts:
+- Top 100 was a great experience for me. I learned about new technologies such as beckn protocol.

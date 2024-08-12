@@ -35,7 +35,7 @@ Joining the Top 100 coder community is pivotal for advancing my technical skills
 
 As a student passionate about enhancing Kerala's Startup Ecosystem, my immediate focus is on bridging the academic-practical divide in entrepreneurship. I plan to organize student-driven hackathons and coding workshops in colleges, starting from my own at CET. These events will nurture innovation, allowing students to turn ideas into prototypes and connect with industry mentors.
 
-Long-term, I envision establishing a student-led incubator program, offering mentorship from tech professionals and nurturing student startups from concept to launch. Collaborating with academic institutions to weave entrepreneurial skills into curricula is also pivotal.
+In the long term, I envision establishing a student-led incubator program, offering mentorship from tech professionals and nurturing student startups from concept to launch. Collaborating with academic institutions to weave entrepreneurial skills into curricula is also pivotal.
 
 To elevate Kerala in the Technology Startup Ecosystem, we must cultivate innovation among students through stronger industry-academia ties, accessible resources, and supportive infrastructure like tech labs and incubation centers. This approach, coupled with government support for student startups, will make Kerala a dynamic hub for technology innovation and entrepreneurship.
 
@@ -50,7 +50,27 @@ To excel in the Technology Startup Ecosystem, Kerala can adopt several strategie
 
 These steps will create a sustainable, innovative ecosystem, attracting global talent and investment to Kerala.\
 
+# Top 100 Finalist -  Proof of Work
 
->> check out [adithramdas@mulearn.md](./profile/adithramdas@mulearn.md) for an exmaple
+### About Me 
+> Hey, I am Adith, and I am part of team DoppelDoc. Our project is aimed at reducing the burden of the hiring process, by automatically flagging the duplicate ones, not just simple duplicate ones, but also the ones that may have different values for some parameters. 
+
+#### My Contribution:
+I worked as a Flask developer in DoppelDoc and contributed to the proper parsing of the resumes.
+
+#### Key Contributions:
+1) The Flask App- Integrating the entire code to make the product work as specified.
+2) PDF Extraction and Standardization - Take the PDFs obtained from the user, scan them for usable words, and bring them to a standard form.
+3) I also worked with @Arjun-A-I in developing algorithms for matchmaking.
+
+#### Challenges Overcome
+1) Parsing the uploaded PDFs to a standardized form.
+2) Figuring out the proper algorithm for matchmaking.
+
+#### Future Enhancements:
+1) We plan to include an image check for resumes with the pictures of the candidates.
+2) We also plan to use a faster algorithm for carrying out matchmaking.
+#### Final Thoughts:
+Working on DoppelDoc was such a fun experience. In this project, I worked mainly on the Flask app and parsing the various resumes, which helped me improve my Python skills and in turn helped me become a better developer.
 
 ---
