@@ -15,6 +15,9 @@
 
 - I am building a Solana Address tracker which allows you to see all the transaction history and assets in a Solana account.
   [Inspect Sol Address](https://github.com/daisonth/inspect-sol-address) 
+ 
+- I am building a Desentralised voting platform that allows anyone to create elections and conduct secure elections.
+  [Desentralised Voting Platform](https://github.com/daisonth/decentralised-voting-platform.git) 
 
 #### History of Community Engagement:
 
@@ -64,3 +67,23 @@
 - Kerala has a very strong population of curious and tech-savvy teenagers. This is a significant asset for the state. Projects like KBA, IEDC, KSUM, and many more serve as excellent platforms for those with similar interests to meet each other and build amazing things.
 
 ---
+
+# Top 100 Finalist - Proof of Work
+
+#### About Me 
+- I am Daison Thomas, I work as a web developer. My key skills include Rust, C/C++, Blockchain Development, PHP, JS, TS... . In our project "Talenze", we are creating a platfrom that utilize Beckn Protocol for discovering Tallent from the MuLearn Database. This enables recluters to easly get a set of ideal tallent from Mulearn and other data providers that have becknified the backend.
+ 
+#### My Contribution:
+- In our project Talenze, I worked on the BPP side of the Beckn Protocol implementation. I also supported in the development of the Nodejs Backend.
+
+#### Key Contributions:
+- 
+
+#### Challenges Overcome
+- Understanding how the beckn protocol works was the main challenge that i faced. Implementation of the BPP and BAP was also extreamly challenging. I got stuck many times and with the support of my team members I was able to overcome many of the challenges.
+
+#### Future Enhancements:
+- In the future I will try to make the project fully functional and userfriendly. Also will try to find out new application for the Beckn Protocol.
+ 
+#### Final Thoughts:
+- Being Top100 finals was and great experience, I was able to learn many new technologys and protocols. I met some wonderfull people and i feel like i already won in that sence.

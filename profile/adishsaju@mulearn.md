@@ -52,3 +52,25 @@ Adish S
 https://www.hackerrank.com/21cs067
 
 ---
+
+# Top 100 Finalist -  Proof of Work
+
+### About The Event 
+- Throughout the whole event i was forced to familiarise and use various unfamiliar languages such as CSS and JS. My github commits easily excced 75% more than its usual avarage because of the event. In my humble opinion i went from a avarage coder to one that can stand by confidence in his skill. I have learned how incredible the support and influence fellow coders have on you and i have a deep appreciation for all the participents in the Top 100. I am a Part of Team X and we had chosen to work with the beckn protocol for our hackathon project. We had chosen to understand this new protocol through this project. Our Project named "Talent Hub" aims at making a useful tool for hiring that has an intuative UI and a sophistedcated backend with the use of bekan protocols. 
+
+#### My Contribution:
+- I along with my team mate Aanand had woked togather to figure out the complexities and implementation of the beckn protocol. We have sucessfully establshed the connections between the BPP and BAP. We are still working on parsing the out put and returing the adapted values.
+
+#### Key Contributions:
+- Developed the BPP segment of the backend which contains both the network and cilent halves. I had figured out how to run the docker setup and host both the cilent and network halves along with figuring out how to establish network roles.
+
+#### Challenges Overcome
+- The most significant challenge was trying to understand and implement the beckn documentation and gateway.
+
+#### Future Enhancements:
+- We plan on merging the the powers of ChatGpt with the information passed my the beckn gateway in order to make curated cards for each of the candidates. Current version deals with only details fetched from the MuLearn website and considering an Open network at play here there are hopes of implementing more such websites in the future creating a de-centralised setup.
+
+#### Final Thoughts:
+- The concept of Beckn Protocol, is definately one with immsense potential to change the whole digital architeture. There is a lot to explore and even more to perfect in this protocol. I will definately look into it more after the event and i aim to make a project with it that can make my mentor proud. Overall the event was definately a surprising period of happiness that i never knew i needed and i look forwared to being back here next year.
+
+---

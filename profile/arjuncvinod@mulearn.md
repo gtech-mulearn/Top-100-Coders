@@ -39,3 +39,24 @@ Beyond academics, I enjoy an active lifestyle, exploration, and networking with 
 - [Leetcode](https://leetcode.com/arjuncvinod007/)
 - [Github](https://github.com/arjuncvinod)
 - [LinkedIn](https://www.linkedin.com/in/arjun-c-vinod/)
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I'm an MCA student deeply passionate about web development. Proficient in JavaScript, React.js, Node.js, and PHP, I'm dedicated to crafting dynamic web applications.My journey is marked by academic excellence and practical experience through personal projects and internships. I value teamwork and effective communication, collaborating seamlessly with diverse teams.I stay updated with the latest web development trends, reflecting my commitment to lifelong learning. My passion for technology drives me to make a significant impact in this evolving field.
+Beyond academics, I enjoy an active lifestyle, exploration, and networking with fellow tech enthusiasts. As an MCA student, I'm excited to contribute to the world of web development.
+
+#### My Contribution:
+-Me and my team almost build a project called Med Reports. It has some key features which assists doctors in writing Medical reports
+and my contributions to this project includes Idea suggestions, creation of a visually appealing UI using react.js ,writing backend of the system etc
+
+#### Key Contributions:
+- I created the frontend part of the project using React.js
+
+#### Challenges Overcome
+- I got challenges in building Api prompts and my team help me overcome this
+
+#### Future Enhancements:
+- We plan to enlarge this system with more features like login system , A basic level medical report building system without the need of a doctor,health statistics etc
+#### Final Thoughts:
+- It helps doctors and patients to reduce the consulting time and medical report making time
