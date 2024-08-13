@@ -38,6 +38,6 @@
 
 
 > In your portfolio, include the following details:
->> check out [Alayashokan@mulearn.md](./profile/Alayashokan@mulearn.md)
+>> check out [Alayashokan@mulearn.md](https://app.mulearn.org/profile/alayashokan@mulearn)
 
 ---
