@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a third-year Computer Science & Engineering student at College of Engineering, Vadakara. Curious about the technology behind works & exploring and learning it. I am currently learning MERN STACK Development. I built some projects using HTML, CSS, and JavaScript, AI, ML, ReactJS,...etc. I am always eager to learn new things and challenge myself to learn & grow.
+> I'm a third-year Computer Science & Engineering student at the College of Engineering, Vadakara. Curious about the technology behind works & exploring and learning it. I am currently learning MERN STACK Development. I built some projects using HTML, CSS, JavaScript, AI, ML, ReactJS,...etc. I am always eager to learn new things and challenge myself to learn & grow.
 
 
 ### Portfolio Highlights
@@ -39,6 +39,6 @@
 
 
 > In your portfolio, include the following details:
->> check out [Alayashokan@mulearn.md](./profile/Alayashokan@mulearn.md)
+>> check out [Alayashokan@mulearn.md](https://app.mulearn.org/profile/alayashokan@mulearn)
 
 ---
