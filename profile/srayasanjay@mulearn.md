@@ -10,50 +10,44 @@
 ### Portfolio Highlights
 
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+GTech Mulearn has given me  several oppurtunities to engage with the tech community and it has been a truly rewarding experience, both in terms of expanding my social network and enhancing my knowledge.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+Hackerank : https://www.hackerrank.com/profile/srayasanjay28201
+FreeCodeCamp : https://www.freecodecamp.org/fcc29b103c2-72de-4bf8-9984-3b218e80f964
+
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Co-lead our team for Hackathons
+- Participated and guided teams for various tech related events.
+- Lead the group for a college level micro project titled "Sign language interpretation using computer vision" 
+- Lead various mini and micro projects at the campus.
+- Conducts and guides learning groups for classmated to explore and share knowledge
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I plan to actively participate in community discussions, contribute to collaborative projects, and attend events organized by the group. I also intend to connect with the community through various social media platforms to further engage with my fellow enthusiasts.
 
 #### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+Being part of the Top 100 Coders is a valuable opportunity for me as a CSE student. This experience allows me to expand my skills, connect with industry stakeholders, and explore the field more by interacting with fellow coders I might find along the way. 
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+As I am deeply passionate about the field of Artificial Intelligence, my career plans involve joining a company whose values align with my own. I aim to contribute my skills to develop cutting-edge AI technologies and drive innovation in the field.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala is still in the early stages of developing its technological startup ecosystem. But as we can notice the emergence of numerous young and innovative minds, the potential for future growth is substantial.
+
 
 #### Profile Card:
 
-- Share your profile embed link from mulearn dashboard here
+My mulearn Profile: (https://app.mulearn.org/dashboard/profile)
 
-> In your portfolio, include the following details:
-
----
