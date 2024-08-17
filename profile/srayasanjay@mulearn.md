@@ -19,16 +19,14 @@ GTech Mulearn has given me  several oppurtunities to engage with the tech commun
 #### Competitive Website Profiles:
 
 Hackerank : https://www.hackerrank.com/profile/srayasanjay28201
-FreeCodeCamp : https://www.freecodecamp.org/fcc29b103c2-72de-4bf8-9984-3b218e80f964
 
 
 #### Leadership and Influence:
 
-- Co-lead our team for Hackathons
-- Participated and guided teams for various tech related events.
+- Participated and guided teams in various tech related events.
 - Lead the group for a college level micro project titled "Sign language interpretation using computer vision" 
 - Lead various mini and micro projects at the campus.
-- Conducts and guides learning groups for classmated to explore and share knowledge
+- Conducts and guides learning groups for classmates to share knowledge
 
 #### Networking:
 
