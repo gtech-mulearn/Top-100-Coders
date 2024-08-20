@@ -141,5 +141,5 @@ Checkout the link https://gtech-mulearn.github.io/Top-100-Coders/profile/[muid],
 
 <div aling='center'>
 
-</div>
 Checkout [sample](./profile/kochousephjohn@mulearn.md).
+</div>
