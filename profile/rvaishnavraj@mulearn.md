@@ -53,4 +53,7 @@
 #### Profile Card:
 
 
- <img src="https://mulearn.org/embed/rank/rvaishnavraj@mulearn" width="500px" height="300px"></img>
+<img
+    src="https://mulearn.org/embed/rank/rvaishnavraj@mulearn"
+    width="400px">
+</img>
