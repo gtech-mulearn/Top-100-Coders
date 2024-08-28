@@ -75,13 +75,16 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 Ready to complete your digital persona? It’s time to link your μLearn profile and make your coding journey shine even brighter! Follow these steps to add your μLearn profile to your GitHub portfolio:
 
 #### 🍴 Get Your Embed Link!
-Head over to your [μLearn profile](https://app.mulearn.org/register), click on the share button, and make your profile public. Copy the Embed Link provided.
+Head over to [μLearn Discord server](https://discord.com/channels/771670169691881483/1157030408874106991), use /get-embed-link command. Copy the Embed Link provided.
 
 #### 📄 Update Your Markdown File!
 Open the markdown file you created in the `/profile` folder. Paste the Embed Link into the designated section of your profile file.
 
 #### 🚀 Pull It!  
 Once you've updated your profile, create a pull request targeting the main branch. Show the world your complete coding identity!
+
+#### 🏆 Your page is live
+Checkout the link https://gtech-mulearn.github.io/Top-100-Coders/profile/[muid], replace your  muid in the link and get your profiles up.
 
 </div>
 
@@ -138,4 +141,5 @@ Once you've updated your profile, create a pull request targeting the main branc
 
 <div aling='center'>
 
+Checkout [sample](./profile/kochousephjohn@mulearn.md).
 </div>
