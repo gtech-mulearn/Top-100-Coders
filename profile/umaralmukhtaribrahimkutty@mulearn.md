@@ -9,21 +9,18 @@
 ### Portfolio Highlights
 
 
-<!--#### History of Open Source Contributions:
+#### History of Open Source Contributions:
 
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
--->
+
 #### Competitive Website Profiles:
 
 - [HackerRank](https://www.hackerrank.com/profile/umar1868807)
@@ -34,10 +31,8 @@
 
 - As the Technical Lead of the Innovation and Entrepreneurship Development Cell (IEDC) at my college, I have had the opportunity to coordinate and oversee numerous programs. This role has significantly enhanced my leadership abilities and allowed me to positively influence and guide others.
 - 
-<!--#### Networking:
+#### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
--->
 #### As a Top 100 Member:
 
 - I’m applying to the Top 100 to enhance my technical and leadership skills as a Computer Science Engineering student. This opportunity will expand my knowledge, provide valuable networking, and support my career growth, enabling me to contribute more effectively to my college and future endeavors.
