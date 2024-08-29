@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hello! I'm DILSHAD AHAMMED, a second-year Diploma Computer Engineering student at SSM POLYTECHNIC college, Tirur. I'm a passionate computer science enthusiast with a focus on software development. My journey began with cybersecurity, and I've since explored web development. I thrive on continuous learning and actively engage in the tech community. I have experience in a range of technologies, including Python, c programming and MySQL.
+> Hello! I'm DILSHAD AHAMMED, a Third-year Diploma Computer Engineering student at SSM POLYTECHNIC college, Tirur. I'm a passionate computer science enthusiast with a focus on software development. My journey began with cybersecurity, and I've since explored web development. I thrive on continuous learning and actively engage in the tech community. I have experience in a range of technologies, including Python, c programming and MySQL.
 
 
 ---
@@ -55,3 +55,6 @@
 - The achievement of this vision will depend on collaboration between academia, government, and industry.
 
 ---
+
+#### Profile Card:
+[<img src="https://mulearn.org/embed/rank/dilshadahammedn@mulearn" width="100px" height="100px"></img>](https://app.mulearn.org/profile/dilshadahammedn@mulearn)
