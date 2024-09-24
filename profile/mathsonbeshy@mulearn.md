@@ -52,3 +52,10 @@ Github - https://github.com/Mathson17
 #### Career Plan:
 
 - For now, I'm focused on learning as much as possible and exploring all available options. After graduation, I'll determine the best path forward based on the evolving industry landscape.tartup Ecosystem for the future.
+
+
+#### Profile Card:
+- <img
+    src="https://mulearn.org/embed/rank/mathsonbeshy@mulearn"
+    width="400px">
+</img>
