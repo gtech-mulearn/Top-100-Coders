@@ -2,52 +2,65 @@
 
 ### About Me
 
-> I am a first-year Electrical and Electronics Engineering student at St. Joseph's College of Engineering and Technology, Palai. Despite my focus on electrical engineering, I recognize the importance of technology in the digital age and am passionate about expanding my skills in software backend development. I have an intermediate understanding of coding, development, and hosting, with a primary focus on Python, HTML, and CSS. Additionally, I have experience working with databases, including MongoDB, Redis, and Firebase.
+> I am a first-year Electrical and Electronics Engineering student at St. Joseph's College of Engineering and Technology, Palai. Despite my focus on electrical engineering, I recognize the importance of technology in the digital age and am passionate about expanding my skills in backend software development. I have an intermediate understanding of coding, development, and hosting, with a primary focus on Python, HTML, and CSS. Additionally, I have experience working with databases, including MongoDB, Redis, and Firebase.
+
+
 
 As I continue my journey, I aim to bridge the gap between electrical engineering and computer science, leveraging my coding skills to contribute to innovative solutions in both fields.
 
-
 ### Portfolio Highlights
 
-#### Coding Experience
+##### Coding Experience
 
-- I have a good experience in making and compiling python codes. Mainly I code for telegram bots. I know web http inspection and web scrapping, and made web-scrapping Api's.
+- I have a solid background in Python programming, with a focus on building and compiling code for Telegram bots.
+- I am familiar with web HTTP inspection and web scraping, and have created various web-scraping APIs.
 
-#### Deployment Experience
 
-- I have used many popular deployment platforms including AWS, VERCEL, HEROKU, NETLIFY, etc...
-- And know how to use github CI/CD, Docker, and basic Linux system automation with corntab.
+##### Deployment Experience
 
-#### History of Open Source Contributions:
+- I have experience with popular deployment platforms, including AWS, Vercel, Heroku, and Netlify.
+- Additionally, I’m proficient with GitHub CI/CD, Docker, and basic Linux system automation using crontab.
 
-- As a Beginner I haven't much contributed to any open-source projects. But willing to contribute my skills for any open-source projects as I can.
 
-#### History of Community Engagement:
+##### History of Open Source Contributions
 
--  As I have mentioned I runs a small community of telegram bot channel, where i try to engage with the people, fixing codes, Managing user concerns and issues and so on...!
+- As a beginner, I haven't contributed extensively to open-source projects yet, but I'm eager to contribute my skills as opportunities arise.
 
-#### As a Top 100 Member:
 
-- Applying for Top 100 to develop my skills by meeting with some professional and gaining more experience in the every fields.
+##### Community Engagement
 
-#### Career Plan:
+- I run a small community of a Telegram bot channel where I actively engage with users, assist tg other devs in fixing code, address user concerns, and manage community issues.
 
-- In the immediate-term, I main focus on completing my degree on Electrical and Electronics Engineering. And along with those, I wish to develop my technical skills.
-- In long-term, I wish to become a electrical automation engineer, where I need both electrical and software skills.
-- 
-#### Thoughts on Kerala's Tech Ecosystem:
+
+##### As a Top 100 Member
+
+- I’m applying for the Top 100 to develop my skills further by connecting with professionals and gaining experience across various fields.
+
+
+##### Career Plan
+
+- Immediate-Term: My focus is on completing my degree in Electrical and Electronics Engineering, while continuously enhancing my technical skills.
+
+- Long-Term: I aim to become an electrical automation engineer, a role that will require both electrical and software expertise.
+
+
+##### Thoughts on Kerala's Tech Ecosystem
 
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
+
 - Collaboration between academia, government, and industry will be key to achieving this vision.
 
-#### Competitive Website Profiles:
 
-- Active member in github with a streak of weeks and with 3k+ commits within last 6 months.
-#### Profile Card:
+##### Competitive Website Profiles
+
+- Active GitHub member with a streak spanning several weeks and over 3k commits in the last six months.
+
+
+### Profile Card
 
 <img
 src="https://mulearn.org/embed/rank/appujohn@mulearn"
-width="400px">
-</img>
+width="400px"> </img>
+
 
 
