@@ -53,7 +53,10 @@ As I continue my journey, I aim to bridge the gap between electrical engineering
 
 #### Competitive Website Profiles:
 
-- Active GitHub member with a streak spanning several weeks and over 3k commits in the last six months.
+- Github: [Appujohn007](https://github.com/appujohn007)
+- LinkedIn: [Jisto John](https://linkedin.in/Jisto-john-9a82a4277)
+- TinkerHub: [Jisto John](https://app.tinkerhub.org/u/CGKL3RKE5Z)
+- mulearn: [appujohn@mulearn](https://app.mulearn.org/profile/appujohn@mulearn)
 
 
 #### Highly Used Software Tools:
