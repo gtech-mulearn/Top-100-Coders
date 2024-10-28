@@ -8,52 +8,61 @@
 
 As I continue my journey, I aim to bridge the gap between electrical engineering and computer science, leveraging my coding skills to contribute to innovative solutions in both fields.
 
-### Portfolio Highlights
+### _Portfolio Highlights_
 
-##### Coding Experience
+#### Coding Experience:
 
 - I have a solid background in Python programming, with a focus on building and compiling code for Telegram bots.
 - I am familiar with web HTTP inspection and web scraping, and have created various web-scraping APIs.
 
 
-##### Deployment Experience
+#### Deployment Experience:
 
 - I have experience with popular deployment platforms, including AWS, Vercel, Heroku, and Netlify.
 - Additionally, I’m proficient with GitHub CI/CD, Docker, and basic Linux system automation using crontab.
 
 
-##### History of Open Source Contributions
+#### History of Open Source Contributions:
 
 - As a beginner, I haven't contributed extensively to open-source projects yet, but I'm eager to contribute my skills as opportunities arise.
 
 
-##### Community Engagement
+#### Community Engagement:
 
 - I run a small community of a Telegram bot channel where I actively engage with users, assist tg other devs in fixing code, address user concerns, and manage community issues.
 
 
-##### As a Top 100 Member
+#### As a Top 100 Member:
 
 - I’m applying for the Top 100 to develop my skills further by connecting with professionals and gaining experience across various fields.
 
 
-##### Career Plan
+#### Career Plan:
 
 - Immediate-Term: My focus is on completing my degree in Electrical and Electronics Engineering, while continuously enhancing my technical skills.
 
 - Long-Term: I aim to become an electrical automation engineer, a role that will require both electrical and software expertise.
 
 
-##### Thoughts on Kerala's Tech Ecosystem
+#### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
 
 - Collaboration between academia, government, and industry will be key to achieving this vision.
 
 
-##### Competitive Website Profiles
+#### Competitive Website Profiles:
 
 - Active GitHub member with a streak spanning several weeks and over 3k commits in the last six months.
+
+
+#### Highly Used Software Tools:
+
+*Code Editors:* `Visual Studio Code,Pycharm`
+*Version Control:* `Github, Gitlab`
+*Editing and designing:* `Adobe Lightrolm, Canva`
+*Programming Lanuages:* `Python, HTML, CSS, Bash`
+*Databases:* `MongoDB, Firebase, Redis`
 
 
 ### Profile Card
