@@ -1,11 +1,17 @@
-# Full Name 
+# Jisto John
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a first-year Electrical and Electronics Engineering student at St. Joseph's College of Engineering and Technology, Palai. Despite my focus on electrical engineering, I recognize the importance of technology in the digital age and am passionate about expanding my skills in software backend development. I have an intermediate understanding of coding, development, and hosting, with a primary focus on Python, HTML, and CSS. Additionally, I have experience working with databases, including MongoDB, Redis, and Firebase.
+
+As I continue my journey, I aim to bridge the gap between electrical engineering and computer science, leveraging my coding skills to contribute to innovative solutions in both fields.
 
 
 ### Portfolio Highlights
+
+#### Coding Experience
+
+- I have a good experience in making and compiling python codes. Mainly I code for telegram bots. I know web http inspection and web scrapping, and made web-scrapping Api's. 
 
 
 #### History of Open Source Contributions:
