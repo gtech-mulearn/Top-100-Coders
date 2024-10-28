@@ -58,11 +58,11 @@ As I continue my journey, I aim to bridge the gap between electrical engineering
 
 #### Highly Used Software Tools:
 
-*Code Editors:* `Visual Studio Code,Pycharm`
-*Version Control:* `Github, Gitlab`
-*Editing and designing:* `Adobe Lightrolm, Canva`
-*Programming Lanuages:* `Python, HTML, CSS, Bash`
-*Databases:* `MongoDB, Firebase, Redis`
+- *Code Editors:* `Visual Studio Code,Pycharm`
+- *Version Control:* `Github, Gitlab`
+- *Editing and designing:* `Adobe Lightrolm, Canva`
+- *Programming Lanuages:* `Python, HTML, CSS, Bash`
+- *Databases:* `MongoDB, Firebase, Redis`
 
 
 ### Profile Card
