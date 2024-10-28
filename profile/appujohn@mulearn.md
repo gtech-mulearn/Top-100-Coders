@@ -50,9 +50,9 @@
 
 #### Profile Card:
 
-```<img
-    src="https://mulearn.org/embed/rank/appujohn@mulearn"
-    width="400px">
-</img>```
+<img
+src="https://mulearn.org/embed/rank/appujohn@mulearn"
+width="400px">
+</img>
 
----
+
