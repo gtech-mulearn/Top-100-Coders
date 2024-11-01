@@ -1,55 +1,55 @@
-## **Akshay K A**
+# Full Name 
+**Akshay K. A.**
 
-### **About Me**
-I am the Founder & CEO of Optiflam and a passionate React.js Developer with experience in software development and web security. Currently pursuing a BSc in Computer Science at M.A.M.O. College, I also mentor students in coding, helping them enhance their technical skills. Additionally, I work as a Software Engineer at NoteAI, a startup focused on innovative AI solutions.
+### About Me
+I am currently pursuing a BSc in Computer Science at MAMO College and have a passion for software engineering. I work part-time as a Software Engineer and Research & Development Engineer at NoteAI, contributing to innovative projects. As a Linux enthusiast, I actively support open-source software initiatives. I have also mentored various students in IT and programming at GTEC Computer Education and serve as the CTO of the IEDC at MAMO College. My experience as a React.js intern has further solidified my skills in web development. I am always eager to learn and collaborate with others in the tech community.
 
-### **Portfolio Highlights**
+## Portfolio Highlights
 
-#### **History of Open Source Contributions:**
-- Contributed to the GNU FOSS Community, collaborating on various open-source projects and initiatives that promote coding and software development.
-- Developed **Coldfetch**, a minimalist system information fetcher written in Bash, which displays key system details.
+### My Projects
 
-#### **History of Community Engagement:**
-- Actively mentor students at G-Tec Computer Education, providing guidance in coding and technical skills to help them succeed in their learning journeys.
+| Name                     | Description                                                                                                                            | Repo Link                                                      |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Community Hub**        | A platform for Linux and open-source enthusiasts to connect, collaborate, and innovate, fostering a vibrant community.                  | [Repo Link](https://github.com/akshay-k-a-dev/GNU-FOSS)      |
+| **Coldfetch**           | A minimalistic system information fetcher that displays detailed hardware and software specs in a user-friendly interface.              | [Repo Link](https://github.com/akshay-k-a-dev/coldfetch)     |
+| **Kunnapan AI Assistant**| A Python-based voice assistant using speech recognition and text-to-speech, capable of intelligent interaction through the Google Gemini API.| [Repo Link](https://github.com/akshay-k-a-dev/kunnapan-AI-Assistant) |
 
-#### **Highly Visible Technical Content:**
-- Developed a comprehensive React.js application during my internship at SkillForge, enhancing both functionality and user experience.
+#### History of Open Source Contributions:
+I have contributed as a tester for various open-source projects, including Linux distributions, LibreOffice, KDE, and GNOME. My involvement has allowed me to gain valuable experience and insight into the open-source development process.
 
-#### **Highly Used Software Tools:**
-- As the Founder & CEO of Optiflam, I have created digital marketing tools that streamline SEO and web development processes.
+#### History of Community Engagement:
+I actively engage with the tech community through various platforms, answering questions on forums and participating in discussions related to programming and technology. My involvement in clubs like FOSS and Tinkerhub allows me to share knowledge and collaborate with fellow enthusiasts.
 
-#### **Competitive Website Profiles:**
-- [TinkerHub Profile](https://app.tinkerhub.org/u/RGUBAXB4Y3)  
-- [GitHub Profile](https://github.com/akshay-k-a-dev)  
-- [LinkedIn Profile](https://www.linkedin.com/in/akshay-k-a-dev)  
+#### Highly Visible Technical Content:
+I have written blog posts and tutorials related to open-source software and programming best practices, which have gained traction within the tech community. I am working on creating more content to share my knowledge and experiences.
 
-#### **Top Skills:**
-- C, C++
-- JavaScript
-- React
-- Node.js
-- Python
-- Git & GitHub
-- Mentoring
-- Digital Marketing
-- Linux
-- Bash
-- Shell
+#### Highly Used Software Tools:
+I developed **Coldfetch**, a widely used system information tool that simplifies the process of fetching system details for Linux users. This tool has been well-received for its functionality and ease of use.
 
-#### **Leadership and Influence:**
-- Led a team as Campus Ambassador for the IEDC Summit 2024, promoting the event and encouraging student participation, showcasing my leadership and communication skills.
+#### Competitive Website Profiles:
+- [LinkedIn Profile](https://www.linkedin.com/in/akshay-k-a-dev/)
+- [GitHub Profile](https://github.com/akshay-k-a-dev)
 
-#### **Networking:**
-- I plan to engage with the Top 100 community by sharing knowledge, collaborating on projects, and mentoring others in the field of coding and software development.
+#### Leadership and Influence:
+As the CTO of the IEDC at MAMO College, I lead initiatives to enhance technical education and innovation among students. I actively participate in the SQC at MAMO and have organized various events, including the Logictrix inter-college tech fest. My role involves mentoring peers and fostering a collaborative environment, ensuring that our projects align with community needs and industry standards.
 
-#### **As a Top 100 Member:**
-- I am applying for the Top 100 to connect with like-minded individuals and enhance my contributions to the tech community. Being a member will provide me with resources and networks that can elevate my career in technology.
+#### Networking:
+I have built a strong professional network through platforms like LinkedIn and active participation in inter-college tech fests and Tinkerhub programs. I collaborate with various IEDCs across Kerala to share knowledge and resources, helping to strengthen the tech community in our region.
 
-#### **Career Plan:**
-- My immediate plan includes continuing to mentor students and contribute to open-source projects. Long-term, I aim to establish a startup that focuses on innovative solutions in technology, helping to strengthen Kerala’s startup ecosystem.
+#### As a Top 100 Member:
+I am applying for the Top 100 because it aligns with my goal of enhancing the Kerala startup ecosystem. Being part of this community will allow me to gain insights, collaborate with like-minded individuals, and leverage resources to further my professional development.
 
-#### **Thoughts on Kerala's Tech Ecosystem:**
-- I believe Kerala has the potential to excel in the technology startup ecosystem by fostering collaboration among educational institutions, startups, and government initiatives to create a vibrant tech community.
+#### Career Plan:
+In the short term, I aim to further develop my technical skills and contribute to projects that enhance the Kerala startup ecosystem. Long-term, I envision creating initiatives that support tech entrepreneurship and education, fostering an environment where startups can thrive and innovate.
 
-#### **Profile Card:**
-- [Mulearn Profile](https://app.mulearn.org/profile/akshayka-1@mulearn)
+#### Thoughts on Kerala's Tech Ecosystem:
+Kerala has the potential to excel in the technology startup ecosystem by focusing on nurturing talent and fostering collaboration between educational institutions and industry. Initiatives that promote open-source development, technical education, and startup incubators can significantly enhance innovation and economic growth in the region.
+
+#### Skills:
+- **Languages & Frameworks:** React, Svelte, JavaScript, CSS, Bootstrap, Python, C, C++, Node.js, PHP
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Bash, Linux, Linux Terminal
+
+### Note:
+I have not set up a formal portfolio yet, as I plan to do so after completing my graduation. I am excited about showcasing my work and contributions once it's ready.
+
