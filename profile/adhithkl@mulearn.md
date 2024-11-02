@@ -37,8 +37,11 @@
 
 #### Profile Card:
 
-- https://app.mulearn.org/profile/adhithkl@mulearn
+<img
+    src="https://mulearn.org/embed/rank/adhithkl@mulearn"
+    width="400px">
+</img>
 
 > In your portfolio, include the following details:
 
----
+---https://app.mulearn.org/profile/adhithkl@mulearn
