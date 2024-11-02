@@ -75,4 +75,7 @@ Kerala has significant potential to become a hub for technological innovation. T
 
 #### Profile Card
 
-[Athul Sabu | μLearn Profile](https://app.mulearn.org/profile/athulsabu@mulearn)
+<img
+    src="https://mulearn.org/embed/rank/athulsabu@mulearn"
+    width="400px">
+</img>
