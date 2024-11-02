@@ -2,14 +2,14 @@
 
 ### About Me
 
-I am a Computer Science and Engineering student who loves exploring the endless possibilities in software development. I believe in the power of community and enjoy being part of tech events where I can learn from others and share what I know. I'm always excited to take on new challenges and believe that every project is an opportunity to learn something new while creating meaningful impact.
+I am a Computer Science and Engineering student who loves exploring the endless possibilities in emerging technologies. I believe in the power of community and enjoy being part of tech events where I can learn from others and share what I know. I'm always excited to take on new challenges and believe that every project is an opportunity to learn something new while creating meaningful impact.
 
 ### Portfolio Highlights
 
 #### History of Open Source Contributions
 
 * Have contributed to personal projects hosted on GitHub
-* Projects are publicly available at github.com/athulsabu2002 for community use and collaboration
+* Projects are publicly available at [GitHub Profile](https://github.com/athulsabu2002) for community use and collaboration
 
 #### History of Community Engagement
 
@@ -46,8 +46,8 @@ I am a Computer Science and Engineering student who loves exploring the endless 
 #### Competitive Website Profiles
 
 * Active on GitHub with multiple full-stack projects showcasing technical capabilities
-* LinkedIn profile: linkedin.com/in/athul-sabu-417a5327b/
-* GitHub profile: github.com/athulsabu2002
+* [LinkedIn Profile](https://www.linkedin.com/in/athul-sabu-417a5327b/)
+* [GitHub Profile](https://github.com/athulsabu2002)
 
 #### Leadership and Influence
 
