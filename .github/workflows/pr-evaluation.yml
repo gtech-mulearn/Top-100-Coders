@@ -1,4 +1,3 @@
-# Save this as .github/workflows/pr-evaluation.yml
 name: PR Evaluation Workflow
 
 on:
@@ -29,7 +28,7 @@ jobs:
 
       - name: Run validation script
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOP_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           REPO_NAME: ${{ github.repository }}
           AUTHOR: ${{ github.event.pull_request.user.login }}
