@@ -40,96 +40,114 @@ jobs:
               let totalScore = 0;
               const scores = {};
 
-              // Get PR history
-              const allPrs = await github.rest.pulls.list({
-                owner,
-                repo,
-                state: 'all',
-                per_page: 100
-              });
+              try {
+                // Get PR history
+                const allPrs = await github.rest.pulls.list({
+                  owner,
+                  repo,
+                  state: 'all',
+                  per_page: 100
+                });
 
-              const userPrs = allPrs.data.filter(pr => pr.user.login === author);
-              
-              // PR Volume Score (15%)
-              const prVolume = userPrs.length;
-              scores.prVolume = Math.min((prVolume / 10) * 15, 15);
-              
-              // Merged PRs Score (15%)
-              const mergedPrs = userPrs.filter(pr => pr.merged_at !== null);
-              scores.mergedPrs = (mergedPrs.length / Math.max(prVolume, 1)) * 15;
+                const userPrs = allPrs.data.filter(pr => pr.user.login === author);
+                
+                // PR Volume Score (15%)
+                const prVolume = userPrs.length;
+                scores.prVolume = Math.min((prVolume / 10) * 15, 15);
+                
+                // Merged PRs Score (15%)
+                const mergedPrs = userPrs.filter(pr => pr.merged_at !== null);
+                scores.mergedPrs = (mergedPrs.length / Math.max(prVolume, 1)) * 15;
 
-              // Get user's issues
-              const issues = await github.rest.issues.listForRepo({
-                owner,
-                repo,
-                creator: author,
-                state: 'all',
-                per_page: 100
-              });
+                // Get user's issues
+                const issues = await github.rest.issues.listForRepo({
+                  owner,
+                  repo,
+                  creator: author,
+                  state: 'all',
+                  per_page: 100
+                });
 
-              // Issues Score (10%)
-              scores.issues = Math.min((issues.data.length / 5) * 10, 10);
+                // Issues Score (10%)
+                scores.issues = Math.min((issues.data.length / 5) * 10, 10);
 
-              // Get user's comments
-              const comments = await github.rest.issues.listComments({
-                owner,
-                repo,
-                per_page: 100
-              });
+                // Get user's comments on issues and PRs
+                const issueComments = await github.rest.issues.listCommentsForRepo({
+                  owner,
+                  repo,
+                  per_page: 100
+                });
 
-              const userComments = comments.data.filter(comment => comment.user.login === author);
-              
-              // Comments Score (15%)
-              scores.comments = Math.min((userComments.length / 20) * 15, 15);
+                const prComments = await github.rest.pulls.listReviewComments({
+                  owner,
+                  repo,
+                  per_page: 100
+                });
 
-              // Documentation Contributions (5%)
-              const docPrs = userPrs.filter(pr => 
-                pr.title.toLowerCase().includes('doc') || 
-                pr.title.toLowerCase().includes('readme')
-              );
-              scores.docs = Math.min((docPrs.length / 3) * 5, 5);
+                const userIssueComments = issueComments.data.filter(comment => comment.user.login === author);
+                const userPrComments = prComments.data.filter(comment => comment.user.login === author);
+                
+                // Comments Score (15%)
+                const totalComments = userIssueComments.length + userPrComments.length;
+                scores.comments = Math.min((totalComments / 20) * 15, 15);
 
-              // Calculate total score
-              totalScore = Object.values(scores).reduce((a, b) => a + b, 0);
+                // Documentation Contributions (5%)
+                const docPrs = userPrs.filter(pr => 
+                  pr.title.toLowerCase().includes('doc') || 
+                  pr.title.toLowerCase().includes('readme')
+                );
+                scores.docs = Math.min((docPrs.length / 3) * 5, 5);
 
-              return { totalScore, scores };
+                // Calculate total score
+                totalScore = Object.values(scores).reduce((a, b) => a + b, 0);
+
+                return { totalScore, scores };
+              } catch (error) {
+                console.error('Error calculating score:', error);
+                throw error;
+              }
             }
 
-            const { totalScore, scores } = await calculateScore();
-            const PASSING_SCORE = 60; // Minimum score required to pass
+            try {
+              const { totalScore, scores } = await calculateScore();
+              const PASSING_SCORE = 60; // Minimum score required to pass
 
-            let reviewMessage = `# PR Evaluation Results\n\n`;
-            reviewMessage += `Total Score: ${totalScore.toFixed(2)}%\n\n`;
-            reviewMessage += `## Breakdown:\n`;
-            reviewMessage += `- PR Volume: ${scores.prVolume.toFixed(2)}% / 15%\n`;
-            reviewMessage += `- Merged PRs: ${scores.mergedPrs.toFixed(2)}% / 15%\n`;
-            reviewMessage += `- Issues: ${scores.issues.toFixed(2)}% / 10%\n`;
-            reviewMessage += `- Comments: ${scores.comments.toFixed(2)}% / 15%\n`;
-            reviewMessage += `- Documentation: ${scores.docs.toFixed(2)}% / 5%\n\n`;
+              let reviewMessage = `# PR Evaluation Results\n\n`;
+              reviewMessage += `Total Score: ${totalScore.toFixed(2)}%\n\n`;
+              reviewMessage += `## Breakdown:\n`;
+              reviewMessage += `- PR Volume: ${scores.prVolume.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Merged PRs: ${scores.mergedPrs.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Issues: ${scores.issues.toFixed(2)}% / 10%\n`;
+              reviewMessage += `- Comments: ${scores.comments.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Documentation: ${scores.docs.toFixed(2)}% / 5%\n\n`;
 
-            if (totalScore >= PASSING_SCORE) {
-              reviewMessage += `✅ Congratulations! Your contributions meet our criteria.`;
-              
-              await github.rest.pulls.createReview({
-                owner,
-                repo,
-                pull_request_number: pr_number,
-                body: reviewMessage,
-                event: 'APPROVE'
-              });
-            } else {
-              reviewMessage += `❌ Your contributions don't meet our minimum criteria of ${PASSING_SCORE}%.\n\n`;
-              reviewMessage += `### Suggestions for improvement:\n`;
-              reviewMessage += `- Submit more quality PRs\n`;
-              reviewMessage += `- Engage more in discussions and code reviews\n`;
-              reviewMessage += `- Contribute to documentation\n`;
-              reviewMessage += `- Help resolve issues\n`;
+              if (totalScore >= PASSING_SCORE) {
+                reviewMessage += `✅ Congratulations! Your contributions meet our criteria.`;
+                
+                await github.rest.pulls.createReview({
+                  owner,
+                  repo,
+                  pull_request_number: pr_number,
+                  body: reviewMessage,
+                  event: 'APPROVE'
+                });
+              } else {
+                reviewMessage += `❌ Your contributions don't meet our minimum criteria of ${PASSING_SCORE}%.\n\n`;
+                reviewMessage += `### Suggestions for improvement:\n`;
+                reviewMessage += `- Submit more quality PRs\n`;
+                reviewMessage += `- Engage more in discussions and code reviews\n`;
+                reviewMessage += `- Contribute to documentation\n`;
+                reviewMessage += `- Help resolve issues\n`;
 
-              await github.rest.pulls.createReview({
-                owner,
-                repo,
-                pull_request_number: pr_number,
-                body: reviewMessage,
-                event: 'REQUEST_CHANGES'
-              });
+                await github.rest.pulls.createReview({
+                  owner,
+                  repo,
+                  pull_request_number: pr_number,
+                  body: reviewMessage,
+                  event: 'REQUEST_CHANGES'
+                });
+              }
+            } catch (error) {
+              console.error('Error in workflow:', error);
+              core.setFailed(`Workflow failed: ${error.message}`);
             }
