@@ -1,6 +1,16 @@
 import os
+import sys
 from github import Github
-from datetime import datetime
+from github import GithubException
+
+def validate_env_vars():
+    """Validate required environment variables."""
+    required_vars = ['GITHUB_TOKEN', 'PR_NUMBER', 'REPO_NAME', 'AUTHOR']
+    missing_vars = [var for var in required_vars if not os.getenv(var)]
+    
+    if missing_vars:
+        print(f"Error: Missing required environment variables: {', '.join(missing_vars)}")
+        sys.exit(1)
 
 def calculate_score(g, repo_name, author, pr_number):
     """Calculate contribution score based on various metrics."""
@@ -47,6 +57,11 @@ def calculate_score(g, repo_name, author, pr_number):
         
         return total_score, scores
         
+    except GithubException as e:
+        print(f"GitHub API Error: {str(e)}")
+        print(f"Status: {e.status}")
+        print(f"Data: {e.data}")
+        raise
     except Exception as e:
         print(f"Error calculating scores: {str(e)}")
         raise
@@ -79,6 +94,9 @@ def create_review_message(total_score, scores):
 def main():
     """Main function to evaluate PR and create review."""
     try:
+        print("Validating environment variables...")
+        validate_env_vars()
+        
         # Get environment variables
         token = os.getenv('GITHUB_TOKEN')
         repo_name = os.getenv('REPO_NAME')
@@ -86,11 +104,17 @@ def main():
         author = os.getenv('AUTHOR')
         
         print(f"Starting evaluation for PR #{pr_number} by {author}")
+        print(f"Repository: {repo_name}")
         
         # Initialize GitHub client
         g = Github(token)
+        print("GitHub client initialized")
+        
         repo = g.get_repo(repo_name)
+        print("Repository accessed successfully")
+        
         pr = repo.get_pull(pr_number)
+        print("Pull request accessed successfully")
         
         # Calculate scores
         total_score, scores = calculate_score(g, repo_name, author, pr_number)
@@ -112,7 +136,7 @@ def main():
         
     except Exception as e:
         print(f"Error in main function: {str(e)}")
-        raise SystemExit(1)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
