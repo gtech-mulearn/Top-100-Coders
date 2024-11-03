@@ -1,0 +1,155 @@
+name: PR Evaluation Workflow
+
+on:
+  pull_request:
+    types: [opened,reopened]
+
+jobs:
+  evaluate-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      issues: read
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          npm install @octokit/rest
+          npm install @actions/core
+          npm install @actions/github
+
+      - name: Evaluate PR
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const { owner, repo } = context.repo;
+            const pr_number = context.payload.pull_request.number;
+            const author = context.payload.pull_request.user.login;
+
+            async function calculateScore() {
+              let totalScore = 0;
+              const scores = {};
+
+              try {
+                // Get PR history
+                const allPrs = await github.rest.pulls.list({
+                  owner,
+                  repo,
+                  state: 'all',
+                  per_page: 100
+                });
+
+                const userPrs = allPrs.data.filter(pr => pr.user.login === author);
+                
+                // PR Volume Score (15%)
+                const prVolume = userPrs.length;
+                scores.prVolume = Math.min((prVolume / 10) * 15, 15);
+                
+                // Merged PRs Score (15%)
+                const mergedPrs = userPrs.filter(pr => pr.merged_at !== null);
+                scores.mergedPrs = (mergedPrs.length / Math.max(prVolume, 1)) * 15;
+
+                // Get user's issues
+                const issues = await github.rest.issues.listForRepo({
+                  owner,
+                  repo,
+                  creator: author,
+                  state: 'all',
+                  per_page: 100
+                });
+
+                // Issues Score (10%)
+                scores.issues = Math.min((issues.data.length / 5) * 10, 10);
+
+                // Get user's issue comments
+                const issueComments = await github.rest.issues.listCommentsForRepo({
+                  owner,
+                  repo,
+                  per_page: 100
+                });
+
+                // Get PR reviews instead of review comments
+                const reviews = await github.rest.pulls.listReviews({
+                  owner,
+                  repo,
+                  pull_number: pr_number,
+                  per_page: 100
+                });
+
+                const userIssueComments = issueComments.data.filter(comment => comment.user.login === author);
+                const userReviews = reviews.data.filter(review => review.user.login === author);
+                
+                // Comments Score (15%)
+                const totalInteractions = userIssueComments.length + userReviews.length;
+                scores.comments = Math.min((totalInteractions / 20) * 15, 15);
+
+                // Documentation Contributions (5%)
+                const docPrs = userPrs.filter(pr => 
+                  pr.title.toLowerCase().includes('doc') || 
+                  pr.title.toLowerCase().includes('readme')
+                );
+                scores.docs = Math.min((docPrs.length / 3) * 5, 5);
+
+                // Calculate total score
+                totalScore = Object.values(scores).reduce((a, b) => a + b, 0);
+
+                return { totalScore, scores };
+              } catch (error) {
+                console.error('Error calculating score:', error.message);
+                throw error;
+              }
+            }
+
+            try {
+              const { totalScore, scores } = await calculateScore();
+              const PASSING_SCORE = 60; // Minimum score required to pass
+
+              let reviewMessage = `# PR Evaluation Results\n\n`;
+              reviewMessage += `Total Score: ${totalScore.toFixed(2)}%\n\n`;
+              reviewMessage += `## Breakdown:\n`;
+              reviewMessage += `- PR Volume: ${scores.prVolume.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Merged PRs: ${scores.mergedPrs.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Issues: ${scores.issues.toFixed(2)}% / 10%\n`;
+              reviewMessage += `- Comments: ${scores.comments.toFixed(2)}% / 15%\n`;
+              reviewMessage += `- Documentation: ${scores.docs.toFixed(2)}% / 5%\n\n`;
+
+              if (totalScore >= PASSING_SCORE) {
+                reviewMessage += `✅ Congratulations! Your contributions meet our criteria.`;
+                
+                await github.rest.pulls.createReview({
+                  owner,
+                  repo,
+                  pull_request_number: pr_number,
+                  body: reviewMessage,
+                  event: 'APPROVE'
+                });
+              } else {
+                reviewMessage += `❌ Your contributions don't meet our minimum criteria of ${PASSING_SCORE}%.\n\n`;
+                reviewMessage += `### Suggestions for improvement:\n`;
+                reviewMessage += `- Submit more quality PRs\n`;
+                reviewMessage += `- Engage more in discussions and code reviews\n`;
+                reviewMessage += `- Contribute to documentation\n`;
+                reviewMessage += `- Help resolve issues\n`;
+
+                await github.rest.pulls.createReview({
+                  owner,
+                  repo,
+                  pull_request_number: pr_number,
+                  body: reviewMessage,
+                  event: 'REQUEST_CHANGES'
+                });
+              }
+            } catch (error) {
+              console.error('Error in workflow:', error.message);
+              core.setFailed(`Workflow failed: ${error.message}`);
+            }

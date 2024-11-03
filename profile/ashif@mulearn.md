@@ -89,3 +89,49 @@ In essence, my career plans go beyond personal success; they are anchored in a d
 
 ---
 
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> Briefly introduce yourself, highlighting your professional background, key skills, and any unique attributes or experiences that set you apart. (minimum 200 characters)
+
+#### My Contribution:
+- Detail the specific contributions you have made in your field. This could include projects, innovations, research, or significant work achievements.
+
+#### Key Contributions:
+- Highlight the most impactful or innovative contributions you have made. Explain the significance of these contributions to your field or industry.
+
+#### Challenges Overcome
+- Highlight the challenges you faced and how you overcome those during the event
+
+#### Future Enhancements:
+- Discuss your plans or ideas for future projects, innovations, or research in your field. Explain how these plans will contribute to the advancement of your industry.
+#### Final Thoughts:
+- Share your perspective on the importance of your work and its potential impact. Reflect on what being a Top 100 finalist means to you and how it aligns with your professional goals and aspirations.
+
+---
+# Example
+># Proof of Work
+>### My Contribution:
+>
+>Hello, I'm Ashif, a frontend developer. In my project Trady, which aims to provide trading analysis of stocks based on the image of graph provided, my primary role was to develop the flutter application enabled with OpenAI Vision. I was also able to integrate zerodha apis in the application for realtime purchase of stock in the Demat account (Need Api keys for full functionality).
+>I got a chance to contibute to the UI of a project made with Beckn Protocol, which was a challenging oppurtunity which made me learn about new open network protocol and its concepts.
+>### Key Contributions:
+>
+>Android Application: Developed a Flutter-based mobile application to process Stock market data through a simple photograph.
+>API Integration: Worked on integrating Open API for fetching details from the stock graphs, explaining the current status of stock in the given picture for example, technical analysis like MACD and price actions to normal people who dont have time to analysis the stocks.Here we implement zerodha login and intraday purchase API's provided by Zerodha.
+>Android Appication using Becken Talentz: Collebrated and lerned beckn from the team and mentors. Was also able to do frontend for the beckn application in flutter with the team.
+>Collaboration: Actively collaborated with the bakend and frontend team to ensure seamless integration of the backend services with the user interface.
+>### Challenges Overcome:
+>
+>One of the significant challenges was to study and understand the the Beckn system, but with help of mentors support we were able to grasp a good idea about it
+>
+>### Future Enhancements:
+>
+>Looking ahead, I plan to implement a project in Beckn system along with teams connected from here, and contribute more to the community as I can.
+>
+>### Final Thoughts:
+>
+>Working on Hackethon project in Top 100 codders Huddle 2023 has been a remarkable journey. The learning curve, the collebrative and brillient minds around me challenged me but also allowed me to grow as a developer. I'm proud of what we've achieved and excited for future enderverous with muLearn and myself.
+
+
