@@ -71,25 +71,27 @@ jobs:
                 // Issues Score (10%)
                 scores.issues = Math.min((issues.data.length / 5) * 10, 10);
 
-                // Get user's comments on issues and PRs
+                // Get user's issue comments
                 const issueComments = await github.rest.issues.listCommentsForRepo({
                   owner,
                   repo,
                   per_page: 100
                 });
 
-                const prComments = await github.rest.pulls.listReviewComments({
+                // Get PR reviews instead of review comments
+                const reviews = await github.rest.pulls.listReviews({
                   owner,
                   repo,
+                  pull_number: pr_number,
                   per_page: 100
                 });
 
                 const userIssueComments = issueComments.data.filter(comment => comment.user.login === author);
-                const userPrComments = prComments.data.filter(comment => comment.user.login === author);
+                const userReviews = reviews.data.filter(review => review.user.login === author);
                 
                 // Comments Score (15%)
-                const totalComments = userIssueComments.length + userPrComments.length;
-                scores.comments = Math.min((totalComments / 20) * 15, 15);
+                const totalInteractions = userIssueComments.length + userReviews.length;
+                scores.comments = Math.min((totalInteractions / 20) * 15, 15);
 
                 // Documentation Contributions (5%)
                 const docPrs = userPrs.filter(pr => 
@@ -103,7 +105,7 @@ jobs:
 
                 return { totalScore, scores };
               } catch (error) {
-                console.error('Error calculating score:', error);
+                console.error('Error calculating score:', error.message);
                 throw error;
               }
             }
@@ -148,6 +150,6 @@ jobs:
                 });
               }
             } catch (error) {
-              console.error('Error in workflow:', error);
+              console.error('Error in workflow:', error.message);
               core.setFailed(`Workflow failed: ${error.message}`);
             }
