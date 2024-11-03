@@ -29,7 +29,7 @@ jobs:
 
       - name: Run validation script
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOP_TOKEN }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           REPO_NAME: ${{ github.repository }}
           AUTHOR: ${{ github.event.pull_request.user.login }}
