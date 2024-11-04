@@ -61,9 +61,4 @@
 
 #### Profile Card:
 
-<img
-    src="https://mulearn.org/embed/rank/alakaaj@mulearn"
-    width="400px">
-</img>
-
 ---
