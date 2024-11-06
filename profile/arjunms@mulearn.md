@@ -92,3 +92,8 @@ Submitting an application to Top 100 in order to :
 - [HackerRank](https://www.hackerrank.com/profile/arjun_ms)
 
 ---
+<img
+    src="https://mulearn.org/embed/rank/arjunms@mulearn"
+    width="400px">
+</img>
+
