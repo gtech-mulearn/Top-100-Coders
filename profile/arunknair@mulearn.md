@@ -44,4 +44,8 @@
 - kerala's Tech Ecosystem is growing currently which i hope will reach a hieght all other countries can look into to reference like how the ISRO was taken as reference for the Mars missions. 
 
 #### Profile Card:
-- Profile: [arunknair@mulearn](https://app.mulearn.org/profile/arunknair@mulearn)
+
+<img
+    src="https://mulearn.org/embed/rank/arunknair@mulearn"
+    width="700px">
+</img>
