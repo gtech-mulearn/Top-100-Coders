@@ -1,62 +1,51 @@
-# **Arun K Nair** (Tech Explorer )
+# Arun K Nair
 
 ### About Me
 
-> As a technology enthusiast, I have an insatiable curiosity about the expansive domain of technology.
-> From striking up insightful conversations to diving deep into analytical ponderings, I pride myself on being both a conversational opener and a critical thinker.
-> My passion for technology was ignited at a young age, and since then, I've been on a relentless journey to quench my thirst for knowledge.
-> Through my blog, I document this journey and disseminate my learnings.
-> I am currently refining my expertise as a student of Bachelor of Technology in Computer Science at Jyothi Engineering College.
-> Know more about me [here](https://lnkd.in/gAribGgH).
+> I am an innovative UI/UX designer and aspiring software developer currently in my final year of B.Tech in Computer Science and Engineering under KTU, Kerala. I have a strong passion for creating user-centered designs and developing responsive web applications. With experience in project and team leadership, I am skilled at fostering collaborative environments to achieve shared goals. My expertise spans UI/UX design tools like Figma, web development with HTML, CSS, JavaScript, React.js, and proficiency in Python, SQL, Java, and C. I am constantly enhancing my skills through educational initiatives and professional experiences, such as my tenure at GTech MuLearn, GeeksforGeeks, and various impactful projects.
 
 ### Portfolio Highlights
 
-#### Leadership and Influence:
-
-- Throughout my educational journey, I have stepped up into various leadership roles which have shaped me into the influencer I am today. Some of my key leadership roles include:
-    * Co-Lead Media for the College's FOSS Community
-    * Student Ambassador for both the ICT Academy and GeeksforGeeks
-    * Executive Member of CESA and Treasurer for CSI at the college
-    * Campus IG at Gtech
-  My diverse experiences have honed my ability to lead, adapt, and inspire those around me.
-
-#### Networking:
-
-- Engaging in discussions and sharing knowledge is second nature to me. As part of the Top 100 community, my strategy would be to initiate meaningful conversations, share resources, and collaborate on tech innovations. With my multilingual proficiency, I aim to bridge gaps and foster connections, further strengthening the community.
-
-#### As a Top 100 Member:
-
-- I am applying for the Top 100 to align with individuals who share my fervor for technology. Being in this elite group will not only amplify my professional growth but also provide a platform to share, learn, and contribute to the broader tech ecosystem.
-
-#### Career Plan:
-
-- In the immediate future, I aim to leverage my skills in Python, HTML, CSS, content writing, and UI design to contribute to startups in Kerala. Long-term, I envision creating or being part of initiatives that foster innovation, mentorship, and growth in the Kerala Startup Ecosystem.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Kerala has immense potential to be a global tech hub. By focusing on education, fostering innovation, and promoting collaborations between academia and industry, Kerala can set a benchmark in the Technology Startup Ecosystem.
-
 #### History of Open Source Contributions:
-
-- cureently i have no open source contributions 
+- Contributed to **FOSS@JECC** as a Co-Lead Media, directing media campaigns to promote free and open-source software events and increasing community engagement in college.
+- Developed and maintained **Ollama WebUI**, integrating real-time code editing and document management features to enhance usability and project collaboration.
 
 #### History of Community Engagement:
-
-- As Co-Lead Media for my college's FOSS Community and Student Ambassador for multiple organizations, I have been actively involved in community engagement, fostering knowledge sharing and collaboration.
-- As part of mulearn also i was able to contribute and help grow skills in many.
+- As a **Campus Ambassador for GeeksforGeeks**, organized 10+ workshops and study sessions, significantly enhancing the coding skills of many students.
+- Managed interest groups at **GTech MuLearn**, creating educational content and researching new technologies to foster professional growth among peers.
 
 #### Highly Visible Technical Content:
-
-- My blog is a testament to my commitment to disseminating knowledge. Through it, I share insights, tutorials, and experiences in the tech domain.
-- You can read more [here]([https://lnkd.in/gAribGgH](https://medium.com/@arunknair2003)).
+- Developed the **Hackathena-24 Webpage**, a React-based platform for showcasing event details, sponsors, and a registration system.
+- Authored technical blogs and participated in college workshops to share insights on UI/UX design and web development.
 
 #### Highly Used Software Tools:
-
-- Visual code
-- git & Github
-- openai
+- Cursor, GitHub, Notion, Figma , Chatgpt .
 
 #### Competitive Website Profiles:
+- **Leetcode**: https://leetcode.com/u/AKN414-IND/
+- **Mulearn**: https://app.mulearn.org/profile/arunknair@mulearn
+- **HackerRank**: https://www.hackerrank.com/profile/arunknair2003
+- **Exercism**:  https://exercism.org/profiles/AKN-414
+#### Leadership and Influence:
+- As **Joint Treasurer of CESA at Jyothi Engineering College**, managed financial operations with precision, ensuring smooth event execution.
+- **Co-Lead Media at FOSS@JECC**, led successful media initiatives and mentored peers in strategic planning and execution of campaigns.
+- Awarded **Mr. mPOWER, Best Performer Award** for outstanding contributions to college activities.
 
-- [HackerRank](https://www.hackerrank.com/profile/arunknair2003)
-- [Exercism](https://exercism.org/profiles/AKN-414)
+#### Networking:
+- I actively network within technical forums, such as **Discord** communities and technical workshops, to engage with industry peers. My approach is rooted in building meaningful professional relationships that drive shared learning and innovation. I plan to extend my networking to the Top 100 community, sharing expertise and inspiring collaborative growth.
+
+#### As a Top 100 Member:
+- I am applying for this recognition because I thrive on challenges and believe they fuel my growth, much like how a car needs fuel to run. I am driven to push my limits by engaging in meaningful competition and collaboration. This opportunity will not only help me grow but also connect me with innovative minds and peers who share my passion for technology.
+  
+#### Career Plan:
+- In the short term, I aim to find a stable income from a job or a freelancing career . In the long term i wish to build some tech or saas that can leave a mark in history under my name to years to come .
+
+#### Thoughts on Kerala's Tech Ecosystem:
+- kerala's Tech Ecosystem is growing currently which i hope will reach a hieght all other countries can look into to reference like how the ISRO was taken as reference for the Mars missions. 
+
+#### Profile Card:
+
+<img
+    src="https://mulearn.org/embed/rank/arunknair@mulearn"
+    width="700px">
+</img>
