@@ -1,11 +1,16 @@
-# Full Name 
+AKASH PR
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> write about your self 
+As an ambitious Computer Science and Artificial Intelligence Engineering student, I am passionately navigating the intricate maze of algorithms, machine learning, and data science, aiming to harness the transformative power of AI to solve real-world problems. My academic journey is punctuated by rigorous coursework, challenging projects, and a ceaseless curiosity about how technology can be leveraged to innovate and improve lives. 
+
+I have developed a solid foundation in programming languages such as Python, Java, and C++, allowing me to not only understand the theoretical aspects of AI but also apply this knowledge practically, creating intelligent systems that learn and adapt. My fascination with AI extends beyond the classroom; I actively participate in hackathons, contribute to open-source projects, and engage in online forums to discuss the latest trends and breakthroughs in the field. 
+
+This journey is not just about acquiring knowledge; it's about developing a mindset of continuous learning and problem-solving. Whether it's through developing smarter algorithms, improving machine learning models, or exploring the ethical implications of AI, my goal is to be at the forefront of this ever-evolving field, making a meaningful impact through innovation and technology.(minimum 200 Characters)
 
 
-### Portfolio Highlights
+Portfolio Highlights
 
 
 #### History of Open Source Contributions:
@@ -20,7 +25,7 @@
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
 
-#### Highly Used Software Tools:
+Highly Used Software Tools:
 
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
@@ -48,11 +53,8 @@
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
-#### Profile Card:
-
-- Share your profile embed link from mulearn dashboard here
 
 > In your portfolio, include the following details:
+>> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
-

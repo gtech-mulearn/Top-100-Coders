@@ -1,9 +1,8 @@
-
-# Abel Louis Fernandez
+# James NS
 
 ### About Me
 
-I am a first-year Computer Science Engineering student at Mar Baselios College of Engineering with a passion for technology and innovation. While I'm in the early stages of my academic journey, I am eager to learn, grow, and make a meaningful impact in the tech industry.
+I am a second-year Computer Science Engineering student at Sree Narayana Guru Institute of Science and Technology with a passion for technology and innovation. While I'm in the early stages of my academic journey, I am eager to learn, grow, and make a meaningful impact in the tech industry.
 
 ### Portfolio Highlights
 
@@ -41,23 +40,7 @@ As a student, I am in the process of building my technical skills and haven't cr
 
 #### Highly Used Software Tools:
 
-I Python and JavaScript.
-
+ Python,Java, C and I love to code and make websites in HTML.I also use mql5 for making auto trading robots,I love trading the financial markets and am fascinated by them.
 #### Competitive Website Profiles:
 
 As of now, I don't have profiles on competitive websites but I plan to create them as I progress in my academic and technical journey
-
-# Top 100 Finalist -  Proof of Work
-
-### About Me 
-> I am Abel Louis Fernandez,First Year CSE student at Mar Baselios College of Enginnering,i know to code little bit in python,django framework.
-#### My Contribution:
-- I made the backend logic of how to take input from user and use it find problem of the vehicle.
-#### Key Contributions:
-- I gathered the dataset of error codes from websites and managed them in such a way that it can be easily referrnced and a problem can be found out
-#### Challenges Overcome
-- Challenges i overcome were the use of apis,managing different forms of data and text analysis.
-#### Future Enhancements:
-- I plan to learn about machine learning,apis and make projects on them to pratice and make me strong in this domain
-#### Final Thoughts:
-- While working on vehicle station i learnt about how to collect data from websites and manage them,use apis,about embeddings,string comaparsions algorthims.I was a wonderful experience and also made me reliaze how much more i want to learn and pratice.

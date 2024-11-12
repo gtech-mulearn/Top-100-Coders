@@ -28,7 +28,7 @@ Joshua Varghese
 
 #### As a Top 100 Member:
 
-- The Top 100 program is an excellency honour to have in my career life. It is a great opportunity to be a part of this program and I am looking forward to making the best use of it. I am looking forward to learning new skills and technologies and to contribute to the community. I am also looking forward to networking with the other members of the program and to collaborate with them on various projects.
+- The Top 100 program is an excellency honour to have in my career life. It is a great opportunity to be a part of this program, and I look forward to making the best use of it. I am looking forward to learning new skills and technologies and contributing to the community. I am also looking forward to networking with the other members of the program and collaborating with them on various projects.
 
 #### Career Plan:
 
@@ -36,7 +36,7 @@ Joshua Varghese
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala is a state that has a lot of potential to excel in the technology startup ecosystem for the future. It is not as advanced as other states like bangalore but if utilized and supported properly, there is a huge potential for growth and development in the kerala startup scene.
+- Kerala is a state that has a lot of potential to excel in the technology startup ecosystem for the future. It is not as advanced as other states like Bangalore but if utilized and supported properly, there is a huge potential for growth and development in the Kerala startup scene.
 
 #### Highly Used Software Tools:
 
@@ -55,3 +55,31 @@ Joshua Varghese
 - https://www.hackerearth.com/@joshuav003
 
 ---
+
+# Top 100 Finalist - Proof of Work
+#### About Me
+- Hey, I'm Joshua, a front-end UI developer in Team Y. Our project talent.io, aims to provide the details of achievements and skills of each MuLearn user that satisfy the conditions given by the employer. Recruiters all around the globe can find talents from MuLearn by searching for the skills they are looking for in their candidates.
+
+#### My Contribution:
+- I was responsible for the development of the UI of the entire website.
+- I built the search page and contributed to developing the landing page.
+- I achieved pixel-perfection in bringing the design to code. I helped my fellow teammates in achieving this.
+- I was in charge of bug identification and mitigation for both frontend and backend.
+
+#### Key Contributions:
+- Development of the Website UI
+- Setting up the development environment for Vue.js and TailwindCSS frameworks.
+- Built one of the complex pages (search page) and contributed to developing the landing page
+- Bug identification and mitigation
+
+#### Challenges Overcome:
+- Built an advanced filtered & sorted search without compromising the user experience.
+- The most significant challenge was to create a good-looking front-end that worked well with the back-end design developed by my fellow teammates.
+
+#### Future Enhancements:
+- The current version deals with only details fetched from the MuLearn website and considering an Open network at play here there are hopes of implementing more such websites in the future creating a de-centralised setup.
+
+#### Final Thoughts:
+- The concept of the Beckn Protocol, a decentralised commerce system can have a huge array of uses in the coming future. The open networks that can connect multiple services into a single interface without requiring a monolithic system architecture can surely change the dynamics of web or app usage even more in the future.
+
+![Screenshot 2023-11-17 at 16-49-36 Screenshot](https://github.com/gtech-mulearn/Top-100-Coders/assets/69136448/a930cbaf-1c0e-49b5-a5d2-b2f9b501f083)

@@ -51,6 +51,26 @@
 
 - Developed a web-based toolkit for polytechnic lecturers called [Poly-tools](<https://github.com/amjed-ali-k/poly-tools>) used by 400+ users.
 
-#### Competitive Website Profiles
+# Proof of Work
 
-- [Leetcode](https://leetcode.com/amjed-ali-k)
+### My Contribution
+
+Hello, I'm Amjed Ali, a full stack developer. I created the entire project from scratch, including the backend, frontend, and database.
+
+### Key Contributions
+
+Discord Js: Connected the Discord bot to the backend services, enabling users to interact with the bot and receive real-time environmental data.
+Dashboard: Worked on a dashboard using Next js, Tailwind CSS and Shadcn. The dashboard allows users configure their server and subcriptions to the bot.
+Database Management: Designed and managed the PostgreSQL database, ensuring efficient data storage and retrieval.
+
+### Challenges Overcome
+
+Primary challenge for me is creating a discord bot using node js, which i don't have any prior experience.
+
+### Future Enhancements
+
+Looking ahead, I plan to add subscription model and diffrent flavours to the bot response. In future, bot will be able to provide diffrent kind of responses other than sarcasm
+
+### Final Thoughts
+
+Working on this project was a great learning experience for me. I was able to learn new technologies and improve my skills. I look forward to working on more projects like this in the future.

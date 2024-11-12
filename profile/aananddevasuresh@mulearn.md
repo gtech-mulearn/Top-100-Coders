@@ -35,3 +35,24 @@
 - https://play.picoctf.org/users/Keyes
 
 ---
+># Proof of Work
+>### My Contribution:
+>
+>Hi, I'm Aanand and I worked along with Adish for integrating the BAP and BPP, which is a part of the Beckn protocol, for our project-"Talent Hub". I was in charge of handling the BAP whose main role is to issue requests to all the BPP's and then collect data from them and push it to the front end.
+>
+>### Key Contributions:
+>
+>I was in charge of the BAP portion of the protocol, whose main job is to accept requests from the front end in the form of queries which are then passed to the Becken Gateway which further forwards it to all the providers who have been registered in the becken register. Then, we filter these requests and give it back to the front end through some callback api's like (on_search,on_status) which are standard becken formats of the received data. Then they are forwarded back to the front end wherein a plethora of features can be implemented so as to give the end users a seamless view of all of the services in one go.
+>Working together: I worked with my fellow team members and efficiently divided the tasks to provide seamless and easy integration between the different spheres of the project.
+>### Challenges Overcome:
+>
+>The biggest challenge for me was my lack of experience with hackathons, but due to the friendly and family like cohesive feeling of the group, top100 coders, enabled me to feel at ease and helped me improve as well as learn alot about how to approach a problem statement, or a hackathon
+>The second challenge was that the implementation of a protocol, unlike a website or a mobile application was a very different take for a hackathon problem statement, which also managed to throw a lot of us off track. Many of us faced the same problems but our mentors, especially Faiz sir and Anil sir who helped us a lot to implement this new technology.
+>
+>### Future Enhancements:
+>
+>In the future, being a new and upcoming technology whose analogues have performed very well in other domains, I know that the scope of this protocol is boundless and India can surely come up to lead the next big software development from the forefront, with proper use of innovations like the Beckn protocol.
+>
+>### Final Thoughts:
+>
+>Working on something that was way out of my league helped me improve my collaboration skills and helped me learn a ton of new skills, as well as learn a lot about the new innovation - Beckn protocol, as well as join more hackathons so as to learn and implement more new technologies and expand my arsenal.

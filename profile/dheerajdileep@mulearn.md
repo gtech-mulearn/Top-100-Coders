@@ -3,7 +3,7 @@
 
 ## About Me
 
-> Enthusiastic and detail-oriented Information Technology student pursuing a Bachelor's degree at Cochin University of Science and Technology (CUSAT). With a current CGPA of 8.96/10, I am passionate about web development and actively seeking opportunities to apply my skills in real-world projects.
+> Enthusiastic and detail-oriented Information Technology student pursuing a Bachelor's degree at Cochin University of Science and Technology (CUSAT). With a current CGPA of 8.96/10, I am passionate about web development and actively seeking opportunities to apply my skills in real-world projects..
 
 ## Experience
 

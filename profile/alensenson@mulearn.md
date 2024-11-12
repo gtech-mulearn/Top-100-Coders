@@ -40,3 +40,45 @@ My vision for Kerala's tech landscape revolves around the creation of an environ
 
 - As a CodeChef member, I proudly hold a global ranking of 62k, underscoring my dedication to honing my skills:  [Codechef profile](https://www.codechef.com/users/mikej)
 - Active participation on Kaggle further affirms my commitment to contributing to the broader data science and machine learning community: [Kaggle profile](https://www.kaggle.com/alensenson)
+---
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> BTech student with a knack for Python development. Proficient in building command line apps, equipped with basic ML and Python-based web development skills 
+
+#### My Contributions
+Innovatively crafted open-source Python CLI apps:
+
+- Developer in team CodeWiz
+
+- Seamlessly merging CLI functionality with OpenAI, we birthed a voice-based OS, sculpting its backend and flawlessly resolving critical errors.
+- Pioneered the backend for an extension that delves into the realms of online meetings, harnessing the power of OpenAI for insightful analysis.
+- Embarked on a journey to develop a CLI app enabling offline webpage access, bridging digital gaps effortlessly
+ 
+
+#### Key Contributions:
+- Revolutionizing the user experience, a groundbreaking contribution emerges: the Voice Interface OS. This visionary system not only eliminates the complexities of handling command lines but also unleashes the complete potential of these commands. Imagine effortlessly navigating your device, harnessing its full power, and executing commands with just your voice. This innovation transcends barriers, making technology more accessible and intuitive for everyone. Welcome to a future where seamless interaction with technology is at your command.
+
+#### Challenges Overcome
+Varied Browser Versions Challenge:
+   - During our journey, accessing voice data in online meetings posed a significant challenge due to discrepancies in browser versions.
+   - The inconsistency made accessing these data a complex task, requiring a unique solution.
+
+Innovative Extension Creation:
+   - To resolve the issue, we developed a specialized extension designed as a popup interface.
+   - This inventive solution aimed to streamline access while navigating the complexities of permission management.
+
+Complexity of Voice OS:
+   - Another hurdle we encountered was the complexity inherent in voice operating systems.
+   - In response, we devised a strategy to enhance user experience by creating a simple, intuitive graphical user interface (GUI).
+
+User-Centric Approach:
+   - Our focus remained on ensuring user-friendliness and accessibility.
+   - By implementing these solutions, we aimed to empower users to navigate voice technology effortlessly, marking significant milestones in our journey.
+   
+#### Future Enhancements:
+- Unleashing the Potential: Our Voice OS heralds a future brimming with boundless possibilities. Its evolution promises heightened accuracy, paving the way for a transformative leap in performance. With the capability to seamlessly supplant current OS systems, it stands as a beacon of efficiency and empowerment, poised to revolutionize computing with unparalleled strength and potency.
+
+#### Final Thoughts:
+Being part of the prestigious top 100 and actively contributing to these remarkable projects has been an invaluable journey, enlightening me about the practical facets of software development. This immersive experience has not only honed my skills but also fueled personal growth. I am confident that this hands-on expertise will significantly benefit my future endeavors, empowering me to excel further.
