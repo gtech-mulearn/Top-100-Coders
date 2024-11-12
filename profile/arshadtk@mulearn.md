@@ -9,7 +9,7 @@
 -Flutter App Developer: Skilled in creating user-friendly Flutter applications, enhancing the mobile app experience.
 -Web Development Explorer: Explored web development with HTML, CSS, and JavaScript to gain a foundational understanding of web technologies.
 TensorFlow Enthusiast: Passionate about deep learning and TensorFlow, with a focus on building and experimenting with machine learning models.
-- Linkedin: https://www.linkedin.com/in/arshad-thonikkara-149238209
+- Linkedin: https://www.linkedin.com/in/arshad-tk/
 - Github: https://github.com/Arshadkvk
 
 #### Leadership and Influence: 
@@ -38,7 +38,7 @@ TensorFlow Enthusiast: Passionate about deep learning and TensorFlow, with a foc
 
 #### Competitive Website Profiles:
 
-- Linkedin: https://www.linkedin.com/in/arshad-thonikkara-149238209
+- Linkedin: https://www.linkedin.com/in/arshad-tk/
 - Github: https://github.com/Arshadkvk
 
 
