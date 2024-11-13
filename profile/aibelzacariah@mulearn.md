@@ -11,7 +11,9 @@ On my freetime I work on Brain computer research or work with fine tuning AI mod
 
 ### Portfolio Highlights
 
-https://notft.github.io/porfolio/
+https://notft.github.io/porfolio/ 
+
+https://www.linkedin.com/in/aibel-bin-zacariah-677660226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 #### History of Open Source Contributions:
 
@@ -61,6 +63,10 @@ which would in turn make it such a success.. Like contributing to something like
 #### Profile Card:
 
 - Share your profile embed link from mulearn dashboard here
+- <img
+    src="https://mulearn.org/embed/rank/aibelzacariah@mulearn"
+    width="400px">
+</img>
 
  https://app.mulearn.org/profile/aibelzacariah@mulearn
 
