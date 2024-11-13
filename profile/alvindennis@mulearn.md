@@ -1,8 +1,8 @@
-# Alvin Dennis (Tech Enthusiast and Backend Web Developer)
+# Alvin Dennis
 
 ### About Me
 
-> I'm a Tech Enthusiast and Backend Web Developer with a passion for creating backend for innovative web applications. I have a deep understanding of the full backend web development life cycle. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
+> I'm a Tech Enthusiast and  Frontend Web Developer with a passion for creating frontend for innovative web applications. I have a deep understanding of the full frontend web development life cycle. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL, MongoDB, Firebase. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
 
 ---
 
@@ -24,8 +24,8 @@
 
 #### As a Top 100 Member:
 
-- Applying for Top 100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
-- Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and enhance my career.
+- Applying for top100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
+- Believing that being part of this ltop100 will open doors to new opportunities, foster innovation, and enhance my career.
 
 #### Career Plan:
 
@@ -39,7 +39,19 @@
 
 ### History of Open-Source Contributions
 
-- Currently I have no projects to display for Open-Source Contributions as I am learning new tools and technologies, although I have performed modifications in college projects for fellow students. 
+I have contributed to various open-source projects. The links for the original repositories are given below
+- [Medcare](https://github.com/BTANISHA11/medcare)
+- [Reading-Matters](https://github.com/ishitaraina1807/Reading-Matters)
+- [WebQuest-QuizGame](https://github.com/ishitaraina1807/WebQuest-QuizGame)
+- [Blog_Website](https://github.com/Kritika30032002/Blog_Website)
+- [CityPlus](https://github.com/Nandini80/CityPlus)
+- [Dorm-Deals-Frontend](https://github.com/RishabhJain0721/Dorm-Deals-Frontend)
+- [Spotify_Api](https://github.com/Eklavya-sus/Spotify_Api)
+- [SkillShala](https://github.com/Namya13Jain/Skill_Shala)
+  
+ Contributions to college repos
+- [Mulearn SJCET](https://github.com/mulearnsjc/campus-chapter)
+- [IEDC SJCET](https://github.com/IEDC-SJCET/IEDC)
 
 #### History of Community Engagement:
 
@@ -57,15 +69,27 @@
 
 #### Highly Used Software Tools:
 
-- Python
-- C programming
-- SQL
+- MongoDB
 - Figma
 - GitHub
+- Git
+- Firebase
+- Vercel
+- Postman
+- Netlify
 - VScode
 
 #### Competitive Website Profiles:
 
--[Github](https://github.com/MeteoricKnight)
+-[Github](https://github.com/alvin-dennis)
 
--[LinkedIn](https://www.linkedin.com/in/alvin-dennis-0a70ba163)
+-[LinkedIn](https://linkedin.com/in/alvin-dennis-0a70ba163)
+
+-[Portfolio](https://alvindennis.vercel.app)
+
+-[Mulearn](https://app.mulearn.org/profile/alvindennis@mulearn)
+
+#### Profile Card:
+
+<img src="https://mulearn.org/embed/rank/alvindennis@mulearn" width="500" height="400"/>
+

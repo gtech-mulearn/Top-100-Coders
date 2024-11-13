@@ -1,25 +1,48 @@
-**Full Name**: Awindas R
+# Awindas R.
 
-**About Me**: I'm a motivated B. Tech student with a relentless passion for coding and front-end development. Proficient in Python, HTML, Javascript, and CSS, I thrive in the world of algorithms, data structures, and coding challenges. My knowledge extends to cloud technologies, adding a layer of versatility to my coding abilities.
+### About Me
 
-**Portfolio Highlights**:
+> I am a skilled frontend developer specializing in ReactJS, Tailwind CSS, and Next.js. With a passion for crafting intuitive and user-friendly web applications, I have worked on various projects, including a tipping app that simplifies the process of showing gratitude in the service industry. I have experience with backend technologies such as Node.js and Express.js, and I am proficient in using tools like GitHub, Figma, and Postman. My role as a Campus Lead at μLearn - SJCET, Palai, has honed my leadership and project management skills, enabling me to effectively communicate and collaborate with a diverse team.
 
-- **Leadership and Influence**: As the Campus Lead at MuLearn and during my past roles, I've demonstrated my leadership skills by overseeing workshops, seminars, and webinars to enhance students' learning experiences. My collaborative approach with a dedicated team has resulted in significant growth in membership and participation.
+### Portfolio Highlights
 
-- **Networking**: My networking prowess has been honed through active participation in tech-related organizations. As a Top 100 member, I intend to leverage these skills to engage with fellow coders, foster collaboration, and elevate our shared passion for coding.
 
-- **As a Top 100 Member**: My application to the Top 100 is driven by the desire to connect with the best in the field. Being part of this elite group will open doors to mentorship opportunities and expose me to cutting-edge trends, providing a competitive edge to my coding journey.
+#### History of Community Engagement:
 
-- **Career Plan**: In the immediate future, I aim to continually improve and compete at the highest levels in coding challenges. Long term, I see myself making a meaningful contribution to the tech world, mentoring and inspiring the next generation of coders.
+- As a Campus Lead at μLearn - SJCET, Palai, I have implemented student-focused strategies to boost engagement and participation in μLearn initiatives. Additionally, I actively participate in technical forums and platforms.
 
-- **Thoughts on Kerala's Tech Ecosystem**: Kerala has the potential to excel in the Technology Startup Ecosystem. By nurturing innovation, increasing funding and resources, and promoting a supportive environment for startups, Kerala can emerge as a tech powerhouse.
+#### Highly Used Software Tools:
 
-**History of Open Source Contributions**: My journey includes active contributions to open-source projects, enhancing code quality, and participating in discussions and code reviews. My commitment to open source underscores my passion for community-driven coding.
+- The tool I developed to maintain media database and Home Media centre is used by few people still to help make their media centre since it makes maintaining their content in apps like radarr, sonarr plex etc easier.
 
-**History of Community Engagement**: I've actively engaged with the tech community by answering coding questions on platforms like Stack Overflow, supporting fellow developers, and sharing my knowledge through technical forums and communities.
+#### Competitive Website Profiles:
 
-**Highly Used Software Tools**: My contributions to software tools have streamlined the coding process for many, benefiting both contributors and users. These tools have gained recognition for their efficiency.
+- I am active on GitHub (https://github.com/awindsr), where I share my projects and collaborate with the developer community and Here is my HackerRank profile link (https://www.hackerrank.com/profile/awindsr)
 
-**Competitive Website Profiles**: You can find my profiles on competitive coding websites like [HackerRank](https://www.hackerrank.com/profile/awindsdr), where I actively participate in coding challenges and exhibit my coding skills, showcasing my dedication to continuous improvement.
+#### Leadership and Influence:
 
-As a coding enthusiast, I'm excited to be a part of the Top 100, and I'm eager to contribute to the coding community while learning from the best in the field.
+- As a Campus Lead at μLearn - SJCET, Palai, I have led a team of 15+ members, developing and implementing strategies to effectively communicate the value of μLearn’s educational offerings. My leadership skills are evident in my ability to plan and execute various events and activities successfully.
+
+#### Networking:
+
+- I excel in networking and plan to engage with the Top 100 community by participating in discussions, sharing knowledge, and collaborating on projects. 
+
+#### As a Top 100 Member:
+
+- I am applying for this Top 100 to gain experience and challenge myself by engaging with fellow devs. This opportunity will allow me to broaden my knowledge, develop new skills, and collaborate on projects. 
+
+#### Career Plan:
+
+- My immediate plan is to continue developing innovative software solutions and mentoring aspiring developers. In the longer term, I aim to establish a tech startup that addresses specific needs within the community.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Kerala has the potential to excel in the Technology Startup Ecosystem by leveraging its strong educational infrastructure and promoting a culture of innovation and entrepreneurship. Encouraging collaboration between academia, industry, and government can create a supportive environment for startups to thrive.
+
+#### Profile Card:
+
+- <img
+    src="https://mulearn.org/embed/rank/awindasr@mulearn"
+    width="400px">
+</img>
+
