@@ -1,60 +1,62 @@
-# K H Arjun 
+# K H Arjun
 
 ### About Me
 
-> I am a self-paced web development student with a foundation in HTML and CSS.
-> My journey began in class 10 when I participated in a contest, igniting my passion for web development.
-> Though I didn't win, it fueled my determination to excel in this field.
-> I am a newcomer to coding, eager to expand my knowledge and skills in web development, with a strong commitment to continuous learning and growth.
-
+> I am a self-paced web development student with a solid foundation in HTML and CSS. My journey began in class 10 when I participated in a contest, sparking my passion for web development. Although I didn't win, it fueled my determination to excel. As a newcomer to coding, I’m eager to grow my knowledge and skills, committed to continuous learning and community engagement.
 
 ### Portfolio Highlights
 
+#### Professional Experience:
 
+- **Chief Creative Officer** at **Inspira Marian IEDC** (July 2024 - Present)  
+  Leading a creative team of graphic designers and video editors, producing interactive content and other creative assets for social media.
 
+- **Social Media Manager** at **GTech µLearn** (Nov 2023 - Present)  
+  Key member of the social media team, involved in shaping content flow and strategy.
 
-#### History of Community Engagement:
+- **Marketing Associate** at **Hoomans Project** (July 2024 - Present)  
+  Specialized in UI design and social media management, creating visually appealing, user-centric designs aligned with client goals.
 
--  Active Member in GDSC, Mulearn and Tinkerhub.
+- **Operations Lead** at **GDGC MCE**
 
-#### Highly Visible Technical Content:
+#### Community Engagement:
 
-- Some Beginner Level Projects in GitHub.
+- Active member of **GDSC, Mulearn,** and **Tinkerhub**.
 
-#### Highly Used Software Tools:
+#### Technical Projects:
 
-- VS Code
-- Dev C++
+- Beginner-level web development projects hosted on GitHub.
+
+#### Key Software Skills:
+
+- **Design:** Figma
+- **Development:** VS Code, Dev C++, Git, Python
 
 #### Competitive Website Profiles:
 
-- Instagram: https://www.instagram.com/a.rjunnn._/
-- LinkedIn: https://www.linkedin.com/in/k-h-arjun-310913206/
-- Github: https://github.com/ArjunKH2004/
+- [Instagram](https://www.instagram.com/a.rjunnn._/)
+- [LinkedIn](https://www.linkedin.com/in/k-h-arjun-310913206/)
+- [GitHub](https://github.com/ArjunKH2004/)
 
-#### Leadership and Influence:
+#### Education:
 
-- Content Lead at GDSC MCE (2023-24)
+- **B.Tech in Artificial Intelligence and Machine Learning**  
+  Marian Engineering College, Nov 2022 - June 2026
 
-#### Networking:
+#### Skills and Languages:
 
-- Active Volunteering Skills for Public Events.
-- Good Inter-personal Communication Skills.
+- **Languages:** English
+- **Soft Skills:** Effective team leadership, strategic thinking, and adaptability.
 
-#### As a Top 100 Member:
+### Career Goals
 
-- Learn, Socialize and Grow together as a community to strive great things fir the future.
-
-#### Career Plan:
-
-- To grow and mentor new-comers into the world of coding.
+> To mentor and guide newcomers into the world of coding, while continually evolving my design and technical skills.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala's Ecosystem is currently lush with a wide variety of skillset and has great potential to excess limitations.
+> Kerala’s tech ecosystem is rich with diverse skills and talent, poised for growth beyond current limits. I aim to contribute to its development through innovative design and community-led initiatives.
 
-
-> In your portfolio, include the following details:
->> check out [arjunkh@mulearn.md](./profile/arjunkh@mulearn.md) for an exmaple
-
----
+<img
+    src="https://mulearn.org/embed/rank/arjunkh@mulearn"
+    width="400px">
+</img>
