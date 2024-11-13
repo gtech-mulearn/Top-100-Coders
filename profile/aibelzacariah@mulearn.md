@@ -62,7 +62,5 @@ which would in turn make it such a success.. Like contributing to something like
 
 - Share your profile embed link from mulearn dashboard here
 
-> In your portfolio, include the following details:
-
----
+ https://app.mulearn.org/profile/aibelzacariah@mulearn
 
