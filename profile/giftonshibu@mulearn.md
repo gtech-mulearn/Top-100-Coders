@@ -17,9 +17,6 @@
 #### Highly Visible Technical Content:
 - I am currently developing comprehensive tutorials and guides on technologies such as React and Django, which I plan to share through GitHub and presentations at community events.
 
-#### Highly Used Software Tools:
-- I have developed tools and systems for educational purposes, such as a certificate management system tailored for college students to manage their certificates in the cloud.
-
 #### Competitive Website Profiles:
 - I am building my competitive coding profile, with future plans to participate more actively in platforms like HackerRank and Codeforces to further sharpen my coding skills.
 
@@ -33,7 +30,7 @@
 - Being part of the Top 100 Coders Challenge will enable me to expand my professional network, gain exposure to new coding challenges, and collaborate with fellow top coders. This experience will enhance my technical skills and boost my career prospects in software development and project leadership.
 
 #### Career Plan:
-- My immediate goal is to complete innovative projects such as the curry recipe chatbot using Streamlit and to further my skills in full-stack development. Long-term, I plan to develop more impactful tech solutions that contribute to the educational sector and software security.
+- My immediate goal is to complete innovative projects  and to further my skills in full-stack development also in data science. Long-term, I plan to develop more impactful tech solutions that contribute to the educational sector and software security.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 - Kerala's tech ecosystem has great potential, supported by a strong educational foundation and community engagement. I believe fostering partnerships between startups, tech communities, and educational institutions will bridge the skills gap and position Kerala as a leading tech innovation hub.
