@@ -1,10 +1,10 @@
 # Gifton Shibu
 
 ### About Me
-> I am Gifton Shibu, a 3rd-year Computer Science and Engineering student at Sree Narayana Gurukulam College of Engineering, Kadayirippu. I am an active member of the technical community, serving as an IEEE ExeCom member and holding leadership roles such as the content lead at IEEE CS SBC and secretary of MuLearn at SNGCE. With a solid foundation in software development, I am adept at working with modern technologies like React, Django, and MongoDB, exemplified through my involvement in projects such as *ContactEase: Personal Details Management System*. My technical expertise is complemented by my experience in organizing events like TechIQ, an engineering-themed quiz competition, and Udaan, a collaborative event aimed at inspiring young students. I am also a student intern at the IEEE Education Society Kerala Chapter and am committed to making impactful contributions to both my college and the broader tech community.
+> I am Gifton Shibu, a 3rd-year Computer Science and Engineering student at Sree Narayana Gurukulam College of Engineering, Kadayirippu. I am an active member of the technical community, serving as an IEEE ExeCom member and holding leadership roles such as the content lead at IEEE CS SBC and Lead of MuLearn at SNGCE. With a solid foundation in software development, I am adept at working with modern technologies like React, Django, and MongoDB, exemplified through my involvement in projects such as *ContactEase: Personal Details Management System*. My technical expertise is complemented by my experience in organizing events like TechIQ, an engineering-themed quiz competition, and Udaan, a collaborative event aimed at inspiring young students. I am also a student intern at the IEEE Education Society Kerala Chapter and am committed to making impactful contributions to both my college and the broader tech community.
 
 ### Portfolio Highlights
-- **Internships & Leadership**: Student intern at the IEEE Education Society Kerala Chapter; active member and content lead at IEEE CS SBC; secretary of MuLearn at SNGCE.
+- **Internships & Leadership**: Student intern at the IEEE Education Society Kerala Chapter; active member and content lead at IEEE CS SBC; Lead of MuLearn at SNGCE.
 - **Projects**: Developed *ContactEase*, a personal contact management system using React, Bootstrap, Django, and MongoDB; working on a curry recipe chatbot project using Streamlit and the Gemini API.
 - **Community Engagement**: Event organizer for pre-events of E-KITES 2.0 and educational programs like Udaan.
 
