@@ -3,7 +3,7 @@
 ### Help or Support
 
 If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our Top 100 Support WhatsApp Group for real-time assistance. Just click on the link:
-[join group](https://chat.whatsapp.com/CSnvfSvv06eB1j9GEKavRn)
+[join group](https://chat.whatsapp.com/HR3S8gyoyyaLyY4XlHYR0g)
 
 ### Profile Highlights
 
