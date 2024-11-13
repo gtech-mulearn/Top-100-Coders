@@ -1,5 +1,5 @@
-# Full Name
-Ann Maria Jaison
+# Ann Maria Jaison
+
 
 ### About Me
 > I am a passionate B.Tech student specializing in Cybersecurity at St. Joseph College of Engineering and Technology, Palai. With a background in Computer Science, I have consistently achieved top marks and have actively pursued internships and job simulations to deepen my technical expertise. My experience spans cybersecurity analysis, media internships, and social media marketing, reflecting my commitment to both technical and creative domains. As a Women in Tech Lead for ThinkerHub and an organizer for events like O-Pen Mike, I thrive in collaborative environments and value community engagement. My skills include C++, UI/UX design, video editing, and cybersecurity, and I am keen on freelancing in custom design services like 3D wallpapers and sneaker designs.
