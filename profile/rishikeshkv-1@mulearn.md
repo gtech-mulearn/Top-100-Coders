@@ -20,7 +20,6 @@ Now, I'm eager to bring my skills and enthusiasm to a dynamic team, contributing
 
 -  I am an active participant with various web development communities in discord discussing about new tech and helping each other with development.Also, I used to attend various technical events and network with people.
 
-
 #### Competitive Website Profiles:
 
 Exercism-https://exercism.org/profiles/rishi9808
@@ -47,5 +46,7 @@ Leetcode-https://leetcode.com/rishikeshkaroth/
 
 #### Profile Card:
 
+
 [<img src="https://mulearn.org/embed/rank/rishikeshkv-1@mulearn" width="500px" height="500px"></img>](https://app.mulearn.org/profile/rishikeshkv-1@mulearn)
+
 
