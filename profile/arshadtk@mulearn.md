@@ -2,24 +2,23 @@
 
 ### About Me
 
->Pursuing a BTech in Computer Science and Engineering at MEA Engineering College, I am a passionate student with a focus on app development, particularly in Flutter. Proficient in Python, Flutter and Web Development, I enjoy creating innovative mobile applications and am committed to continual learning in the technology field. Let's connect and explore opportunities in the app development space! 🚀
+>I am a Flutter developer with a background in Computer Science Engineering. I specialize in creating cross-platform mobile applications and have experience in building scalable solutions. I am passionate about coding and aim to contribute to Kerala’s growing tech ecosystem with innovative mobile applications.
 
 
 ### Portfolio Highlights
 -Flutter App Developer: Skilled in creating user-friendly Flutter applications, enhancing the mobile app experience.
 -Web Development Explorer: Explored web development with HTML, CSS, and JavaScript to gain a foundational understanding of web technologies.
 TensorFlow Enthusiast: Passionate about deep learning and TensorFlow, with a focus on building and experimenting with machine learning models.
-- Linkedin: https://www.linkedin.com/in/arshad-thonikkara-149238209
+- Linkedin: https://www.linkedin.com/in/arshad-tk/
 - Github: https://github.com/Arshadkvk
 
 #### Leadership and Influence: 
 
-- As the CTO of IEDC MEA, I have consistently fostered a culture of innovation and technology leadership, guiding students and colleagues in harnessing their creative potential to drive entrepreneurial projects and technological advancements.
+- I served as the CTO of IEDC MEA, where I led tech-driven initiatives supporting entrepreneurship and innovation. This experience gave me the opportunity to mentor aspiring developers, organize hackathons, and drive technology adoption. Additionally, I’ve completed several projects in Flutter, showcasing my ability to lead in mobile app development.
 
 #### Networking:
 
-- Look forward to engaging with Top 100 community and networking with innovators.
-- Plan to participate in events, share machine learning expertise, and learn from others.
+- I believe networking is key to growth, and I’ve built a strong network within the tech community through platforms like AccioJob and Skolar.in. I aim to leverage this network by joining the Top 100, to connect with top coders and influence the tech ecosystem in Kerala.
 
 #### As a Top 100 Member:
 
@@ -34,16 +33,12 @@ TensorFlow Enthusiast: Passionate about deep learning and TensorFlow, with a foc
 
 #### Thoughts on Kerala's Tech Ecosystem: 
 
-- Promote entrepreneurship in colleges via incubators, mentoring, events.
-- Foster a collaborative culture and strong founder network.
+- Kerala is rapidly growing in the tech sector, with a thriving community and organizations like KSUM and GTech supporting innovation. By providing more resources for early-stage startups and fostering collaboration, Kerala can become a leading hub for mobile development and tech entrepreneurship.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### Competitive Website Profiles:
 
-- Linkedin: https://www.linkedin.com/in/arshad-thonikkara-149238209
+- Linkedin: https://www.linkedin.com/in/arshad-tk/
 - Github: https://github.com/Arshadkvk
 
 
