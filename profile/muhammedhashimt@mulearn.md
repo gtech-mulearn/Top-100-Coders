@@ -1,60 +1,65 @@
-# Muhammed Hashim T - Fullstack Web & Mobile App Developer  
+# Muhammed Hashim T
+
+---
 
 ## About Me  
-Hi! I’m **Muhammed Hashim T**, a passionate Fullstack Web and Mobile App Developer. I love working with a diverse range of technologies, including **Nest.js**, **Next.js**, **GraphQL**, **MongoDB**, and **MySQL**. My interest in tech is deeply rooted in my love for **mathematics** and **artificial intelligence**, which often inspire my projects.  
+Hi! I’m Muhammed Hashim T, a **Full Stack Web Developer** with a love for crafting modern, efficient, and scalable web applications. I specialize in frameworks like **NestJS**, **ExpressJS**, **Next.js**, and **React.js**, and I work with databases like **PostgreSQL**, **MongoDB**, and **MySQL**. My favorite tools are **TypeScript**, **JavaScript**, and API technologies like **GraphQL** and **REST**.  
 
-Alongside web development, I’m skilled in building reliable and scalable **mobile applications** using **Flutter**, enabling me to deliver solutions that work seamlessly across platforms. With a strong foundation in **Data Structures and Algorithms**, I focus on creating applications that are optimized for performance and efficiency.  
-
----
-
-## Technical Expertise  
-- **Fullstack Web Development**  
-  I build complete web solutions, ensuring smooth user experiences from start to finish.  
-- **Mobile App Development**  
-  I use **Flutter** to create high-performance, cross-platform mobile apps with sleek and intuitive designs.  
-- **Tech Stack**  
-  My go-to tools include **Nest.js** for backends, **Next.js** for frontends, and **GraphQL** for efficient data handling. I’m also experienced in managing databases with **MongoDB** and **MySQL**.  
-- **Core Programming Skills**  
-  My expertise in **Data Structures and Algorithms** allows me to solve problems efficiently while building high-performing applications.  
+Currently, I’m in my first year of studies at **Pondicherry University**, but I’ve already dived deep into the tech world, balancing academics with my passion for building and contributing to impactful projects. I’m always learning, exploring, and pushing myself to solve meaningful problems through technology.  
 
 ---
 
-## Open Source Contributions  
-I enjoy contributing to open-source projects, collaborating with other developers to enhance codebases, fix bugs, and implement new features. It’s a great way to learn, grow, and give back to the community!  
+## Portfolio Highlights  
+
+### Open Source Contributions  
+I love contributing to open-source projects, and one of my proudest contributions is **Rustcrab**, a project that supports the Rust programming community. I also actively work on GitHub repositories, focusing on improving functionality and fixing issues that help developers around the world.  
+
+### Community Engagement  
+I’ve been part of many events organized by **MuLearn** and other tech communities. From participating in workshops to conducting events myself, I enjoy creating spaces where people can share knowledge and grow together.  
+
+### Highly Used Software Tools
+- **Excelence**: A tool that simplifies data management by enabling seamless Excel file uploads and form population.  
+- **wc22-qatar-api**: A comprehensive API for the Qatar World Cup, widely used by developers to access structured data.  
+
+### Competitive Profiles  
+- **HackerRank**: https://www.hackerrank.com/profile/hashimt4567
+- **Exercism**: https://exercism.org/profiles/MuhammedHashimT
+- **LeetCode**: https://leetcode.com/u/mhashimtml/
+
+### Leadership and Influence  
+As the founder of **Farrago Software Engineering**, I’ve led my team in building impactful projects while mentoring others to improve their technical skills. I’ve also organized workshops and hackathons to help others develop their talents and discover their potential in tech.  
+
+### Networking  
+I believe in the power of connections. By participating in events, forums, and discussions, I’ve built strong relationships with peers and industry leaders. As I grow, I aim to collaborate with and inspire others in the tech community.  
 
 ---
 
-## Tools I Love to Use  
-- **Visual Studio Code**  
-  My favorite code editor, equipped with helpful extensions for a smoother development process.  
-- **Git**  
-  I rely on Git for version control, ensuring that my projects are well-organized and team-friendly.  
-- **Postman**  
-  A handy tool I use for testing APIs and building scalable backend systems.  
-- **Android Studio & Flutter DevTools**  
-  These are essential for developing and optimizing mobile applications.  
+## Why I Want to Be a Top 100 Member  
+I see this opportunity as a way to grow, contribute, and collaborate with like-minded individuals. Being part of the **Top 100** would help me amplify my impact, learn from others, and work toward crafting software solutions that can make a difference.  
 
 ---
 
-## Leadership and Influence  
-I’ve had the privilege of leading several projects, guiding development teams to success. By introducing innovative approaches and improving workflows, I’ve helped my teams deliver projects faster and more effectively.  
+## My Career Plan  
+
+### Short-Term Goals  
+- Dive deeper into entrepreneurship by working on projects that solve real-world problems.  
+- Continue contributing to open-source projects and building tools that make life easier for developers.  
+
+### Long-Term Goals  
+- Establish a successful startup that delivers innovative software solutions.  
+- Play an active role in strengthening Kerala’s tech community by mentoring new talent and creating opportunities for collaboration.  
 
 ---
 
-## Networking  
-I actively engage with tech communities, hosting discussions about the latest trends and technologies. As a regular speaker at events, I’ve built strong connections across industries, fostering collaboration and knowledge-sharing among peers.  
+## Thoughts on Kerala's Tech Ecosystem  
+Kerala is a growing hub for innovation, but I believe there’s even more potential to unlock. By improving access to funding, promoting mentorship programs, and bridging the gap between education and industry, Kerala can truly stand out as a global leader in tech. I’m excited to contribute to this vision in any way I can.  
 
 ---
 
-## Top 100 Fellowship Application  
-I’m excited to apply for the **Top 100 Fellowship** to contribute my skills and experiences to Kerala’s startup ecosystem. This program is a great opportunity to collaborate with like-minded individuals, share ideas, and work towards making Kerala a hub for innovation and entrepreneurship.  
+## Profile Card  
+<img
+    src="https://mulearn.org/embed/rank/muhammedhashimt@mulearn"
+    width="400px">
+</img>
 
----
-
-## Career Plan  
-In the short term, I aim to work on projects that align with Kerala’s startup ecosystem, helping startups grow and succeed. In the long run, I aspire to mentor upcoming developers and foster a culture of innovation and collaboration. Being part of the **Top 100 Fellowship** will give me the platform to make a lasting impact on Kerala’s tech landscape.  
-
----
-
-## Kerala’s Technology Startup Ecosystem  
-For Kerala’s startup ecosystem to thrive, we need stronger collaboration between academia and industry. Initiatives like mentorship programs, easier access to funding, and supportive policies can help startups grow. Investing in emerging technologies and encouraging interdisciplinary teamwork will position Kerala as a leading center for innovation and technology.  
+---  
