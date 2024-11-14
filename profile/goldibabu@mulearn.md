@@ -1,9 +1,11 @@
-# Abin Raju Daniel
+# Goldi Babu
 
 ### About Me
+Hey, I’m GOLDI, but you can call me GB.
+I’m currently studying cybersecurity and really into everything tech and security-related.
+Always looking to learn new things and stay up-to-date with the latest in the cyber world
+I'm a Java enthusiast with a passion for problem-solving through code. I love combining creativity and logic to build meaningful solutions.
 
-I'm a Python enthusiast with a passion for problem-solving through code. I love combining creativity and logic to build meaningful solutions.
-Love to expand my knowledge todifferent field of technology ,keen to be part of organized tech /innovatiotn events 
 
 
 ### Portfolio Highlights
@@ -12,12 +14,12 @@ Love to expand my knowledge todifferent field of technology ,keen to be part of 
 
 #### Leadership and Influence: 
 
-Active member in GDSC, Tinkerhub and myulearn
+Active member in GDSC, mulearn
 
 #### Networking: 
 
-Instagram- @abinrd
-Linkedin- https://www.linkedin.com/in/abin-raju-a035a81ab/
+Instagram- @goldi_babu
+Linkedin- https://www.linkedin.com/in/goldibabu/
 
 #### As a Top 100 Member:
 
@@ -35,7 +37,7 @@ Kerala can excel by fostering innovation, investing in education, providing infr
 
 #### History of Community Engagement:
 
-Active member in GDSC, Tinkerhub and mulearn
+Active member in GDSC & mulearn
 
 #### Highly Visible Technical Content:
 
@@ -43,7 +45,6 @@ https://medium.com/@abinRd/the-beautiful-game-my-passion-for-football-10c03e4dfe
 
 #### Highly Used Software Tools:
 
-I use Python and a bit of web dev softwares
+I use java and blender 
 
 #### Competitive Website Profiles:
-

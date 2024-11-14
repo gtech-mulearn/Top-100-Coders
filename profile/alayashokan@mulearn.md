@@ -2,16 +2,17 @@
 
 ### About Me
 
-> I'm a second-year Computer Science & Engineering student at CEV. Curious about the technology behind works & exploring and learning it. I currently learning Web Development. I built some projects using HTML, CSS, and JavaScript. I am always eager to learn new things and challenge myself to learn & grow.
+> I'm a third-year Computer Science & Engineering student at the College of Engineering, Vadakara. Curious about the technology behind works & exploring and learning it. I am currently learning MERN STACK Development. I built some projects using HTML, CSS, JavaScript, AI, ML, ReactJS,...etc. I am always eager to learn new things and challenge myself to learn & grow.
 
 
 ### Portfolio Highlights
 
 
 #### Leadership and Influence: 
-
+-  IEEE Web Master @ CEV
+-  Campus Ambassadors of IEEE Xtreme @CEV
 -  Mulearn Campus Web Lead @ CEV
--  Active participant in GTech Mulearn Current rank #168
+-  Active participant in GTech Mulearn Current rank #53
 
 #### Networking: 
 
@@ -33,11 +34,11 @@
 #### Competitive Website Profiles:
 
 - [Github](https://github.com/Alayasokan)
-- [LinkedIn](https://www.linkedin.com/in/alay-ashokan-25058a248/)
+- [LinkedIn](www.linkedin.com/in/alay-ashokan)
 
 
 
 > In your portfolio, include the following details:
->> check out [Alayashokan@mulearn.md](./profile/Alayashokan@mulearn.md)
+>> check out [Alayashokan@mulearn.md](https://app.mulearn.org/profile/alayashokan@mulearn)
 
 ---
