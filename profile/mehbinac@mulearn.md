@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a second year Computer Science student of College of Engineering, Trivandrum and a seasonal coder. However I'm an enthusiast in latest technologies. I'm really good in management tbh ;)
+I’m a second-year Computer Science student at the College of Engineering, Trivandrum, with a passion for coding and exploring the latest technologies. While I consider myself a seasonal coder, my enthusiasm for tech drives me forward. I also excel in management and leadership! ;)
 
 
 ### Portfolio Highlights
@@ -26,7 +26,7 @@ I'm a second year Computer Science student of College of Engineering, Trivandrum
 
 #### Competitive Website Profiles:
 
--I'm not really active in all those
+- I'm not really active in all those
 
 #### Leadership and Influence:
 
@@ -42,7 +42,7 @@ I'm a second year Computer Science student of College of Engineering, Trivandrum
 
 #### Career Plan:
 
-- I hope that KSUM is already doing greate in terms of building startup ecosystem in Kerala. Considering the technological advancements in the world, technology in Kerala may find outdated, but I think programs like this will push the boundaries
+- I hope that KSUM is already doing great in terms of building startup ecosystem in Kerala. Considering the technological advancements in the world, technology in Kerala may find outdated, but I think programs like this will push the boundaries
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
