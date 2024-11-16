@@ -1,4 +1,4 @@
-# JOEL BASIL KURIAN (NLP & ML Enthusiast)
+# JOEL BASIL KURIAN (Generative AI Enthusiast)
 
 ### About Me
 
