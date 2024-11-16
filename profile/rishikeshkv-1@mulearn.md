@@ -1,12 +1,10 @@
-Rishikesh K V
+## Rishikesh K V
 
 ### About Me
 
-I'm Rishikesh K V, a dedicated and versatile software developer. With a strong foundation in Computer Science and Engineering, I've honed my technical skills and gained hands-on experience to become proficient in various programming languages, including JavaScript, Python, C, and Java.
+I'm Rishikesh K V, a dedicated and versatile software developer currently working as a software research engineer at ERPGulf. With a strong foundation in Computer Science and Engineering, I've honed my technical skills and gained hands-on experience to become proficient in various programming languages, including JavaScript, Python and C.
 
-My focus has been on web development, and I've worked with technologies like ReactJS, NodeJS, ExpressJS, MongoDB, and SQL. During my internship at Convai Innovations Pvt. Ltd, I had the opportunity to optimize code, enhance UI, and delve into exciting areas like machine learning and NLP.
-
-I take pride in my achievements, which include winning coding competitions and hackathons, showcasing my problem-solving abilities. My passion for design led me to use tools like Figma for creating intuitive user interfaces.
+My focus has been on web development, and I've worked with technologies like ReactJS, NodeJS, ExpressJS, MongoDB, and SQL.
 
 Now, I'm eager to bring my skills and enthusiasm to a dynamic team, contributing to innovative projects in the ever-evolving tech landscape. I believe in the power of collaboration and effective communication, making me a valuable asset in any professional setting.
 
@@ -20,8 +18,7 @@ Now, I'm eager to bring my skills and enthusiasm to a dynamic team, contributing
 
 #### History of Community Engagement:
 
--  I am an active participant with various web development communities in discord discussing about new tech and helping each other with development
-
+-  I am an active participant with various web development communities in discord discussing about new tech and helping each other with development.Also, I used to attend various technical events and network with people.
 
 #### Competitive Website Profiles:
 
@@ -30,7 +27,7 @@ Leetcode-https://leetcode.com/rishikeshkaroth/
 
 #### Leadership and Influence:
 
-- I am currently the web development lead of Mulearn club of my college where I actively engage with 150 students providing them with useful resources and also conducting competition for upskilling them.
+- I have been the web development lead of Mulearn club of my college where I had actively engaged with 150 students providing them with useful resources and also conducted competitions and programs for upskilling them.
 
 #### Networking:
 
@@ -38,10 +35,18 @@ Leetcode-https://leetcode.com/rishikeshkaroth/
 
 #### As a Top 100 Member:
 
-- I am currently a 4th yr student who is actively learning and applying my skills in my own way possible to become a professional developer. I believe as a Top 100 member I can interact and work with talented developer which will motivate me to become better and I can cintribute better to the projects.
+- I believe as a Top 100 member I can interact with talented developer which will motivate me to become better and I can contribute better to the projects.
 
 #### Career Plan:
 
-- I aspire to start a fulfilling career as a full-stack web developer. I'm enthusiastic about the prospect of working on amazing projects and contributing positively to them.
+- I am currently working as a Software research engineer, In parallel upskiling myself to build tech products that can be helpful to society
+
+#### Thoughts on Kerala's Tech Ecosystem:
+- I hope that KSUM is already doing greate in terms of building startup ecosystem in Kerala. Considering the technological advancements in the world, technology in Kerala may find outdated, but I think programs like this will push the boundaries
+
+#### Profile Card:
+
+
+[<img src="https://mulearn.org/embed/rank/rishikeshkv-1@mulearn" width="500px" height="500px"></img>](https://app.mulearn.org/profile/rishikeshkv-1@mulearn)
 
 

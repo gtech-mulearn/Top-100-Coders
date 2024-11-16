@@ -80,3 +80,43 @@ Moreover, I am a passionate enthusiast of Innovation and technology which led me
 
 
 >> check out [akarshas@mulearn](./profile/akarshas@mulearn.md) 
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+>I'm a hardworking Engineering student currently pursuing my B.Tech degree in CSE(AIML). I am currently serving as the head of the internship cell at our college and was the Vice Chairman of the Computer Society of India.
+Over the past 3 years, working in many teams and initiatives, made me realize the team player in me. I have excellent coordination and communication skills along with good Leadership and technical skills. Working on the last initiative called InsightLabs fostered my way to learn quickly and adapt to new situations.
+
+Moreover, I am a passionate enthusiast of Innovation and technology which led me to select a career path as a software engineer.
+
+#### My Contribution:
+- Developer in CodeWiz
+- Backend development : Worked on a Python flask project that connects to web application that helps users to generate different text content
+- OpenAI API Integration : Worked on integrating Cohere's LLM Coral via API. Used this to generate content based on user input
+- Developed a webpage that captures user audio and create live transcripts
+- Converted the same webpage into a pop up based extension 
+- Developed a AI assistant for CLI commands based on Audio input of users 
+
+#### Key Contributions:
+- Integrated CLI & OpenAI LLMs for a voice-based command line Assistant.
+- Developed a webpage that capture user audio and generate live transcripts
+- Solved the various permission issues regarding user audio capturing through browser.
+#### Challenges Overcome
+- The Challenge we faced at beginning was integrating an audio capturing feature in a browser extension which was overcame by detaching extension into a pop up window while using.
+- Second challenge was capturing audio from browser window(that may be playing audio from google meet, youtube etc.) and passing it to our application. This challenge is still pending to be solved.
+- Main challenge in our second project was to input the response from gpt's response as terminal command without human intervention. For that we used subprocess module in Python.
+
+#### Future Enhancements:
+- ### Browser Extension:
+    - There are still many issues to be solved in the browser extension like capturing audio output from browser(running websites like google meet, youtube) and passing it to our application.
+    - Integrating openai llms through api on generated transcripts for adding various features like summarization, doubt solving. 
+- ### Voice OS:
+    - Improving accuracy of voice capturing feature by providing fine tuning of the model.
+    - Solving the pain of converting the user input into various file format for different processing which thereby causing delay in response generation
+    - Decreasing the latency in response given by the system.
+    - Updating the functionality of the system so that the user need not to press any button to pass the command.
+#### Final Thoughts:
+- The first project we worked would have impacted very well on student community that I myself being a shy student very much reluctant to ask doubt on online classroom and also there will be no interruption for teacher due to small and repetitive doubt from students that can be solved from summarization of transcripts.
+- The second project helps a beginner level developer using CLI in a layman level to use CLI through audio input. It helps them from being stuck on remembering many terminal commands and stuck on errors.
+- Top100coders was a excellent event that led us through various great and challenging experiences. Morethan what we learned what i think great what how we managed to learn more new things.
+

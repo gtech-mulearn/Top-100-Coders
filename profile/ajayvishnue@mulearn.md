@@ -42,3 +42,28 @@
 
 
 ---
+
+
+
+# Top 100 Finalist -  Proof of Work
+
+### About Me 
+> I am a self taught web developer who is currently focused on backend web development. I am currently learning django framework and trying to do projects in the same. Here I have tried to create a backend side for our project using openAI
+
+#### My Contribution:
+- I have developed an user login and signup module using jwt authentication and along with which i have created an api which returns a candidate's introduction based on the data provided by the user. 
+
+#### Key Contributions:
+- I have tried to create a AI module which would deliver a candidate's brief or inroduction based on a given set of data.
+  
+#### Challenges Overcome
+- Using AI inside restframework and jwt authentication
+
+#### Future Enhancements:
+- Generating this module to create an entire user portfolio in an efficient and creative way based on basic user data inputs.
+  
+#### Final Thoughts:
+- AI is growing day by day and it is important that we understand it's capabilities. The Top100Coders was one of the finest event for a coder to grow and learn 
+themselves while contributing to various projects.
+
+-

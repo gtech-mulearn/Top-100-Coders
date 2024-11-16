@@ -2,14 +2,14 @@
 
 ### About Me
 
-> I'm a Python enthusiast with a passion for problem-solving through code. I love combining creativity and logic to build meaningful solutions.
+> I, Ashin Sabu Mathew studying in St.Joseph College of Engineeering, Palai for the course Computer Science Engineering(Cyber Security), my native place is Kollam. I know the basics about Python and MYSQL.
  
 
 ### Portfolio Highlights
 
 #### History of Community Engagement:
 
-- Active member in GDSC, Tinkerhub and myulearn
+- Active member in GDSC, Tinkerhub and mulearn
 
 #### Highly Visible Technical Content:
 
@@ -17,7 +17,7 @@
 
 #### Highly Used Software Tools:
 
-- I'm good in Python language
+- I have a brimming knoweldge in C,Java,Python language
 
 #### Competitive Website Profiles:
 
@@ -36,7 +36,3 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala can excel by fostering innovation, investing in education, providing infrastructure, and creating a supportive regulatory environment for tech startups.
-
-
-> In your portfolio, include the following details:
->> check out [ashinsabumathew@mulearn.md](./profile/ashinsabumathew@mulearn.md) for an exmaple

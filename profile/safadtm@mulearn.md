@@ -2,8 +2,8 @@
 
 ### About Me
 
-> Hello! I'm Safad T M, a first-year B.Voc Software Development and System Administration student at M.E.S college, Marampally,Aluva.
-> I've expanded my skill set to include creating Flutter mobile applications and picked up some web programming know-how.I thrive on continuous learning and actively engage in the tech community. I have experience in a range of technologies, including Html, Javascript, Flutter, Springboot, C programming and MySQL.
+> Hello! I'm Safad T M, a second-year B.Voc Software Development and System Administration student at M.E.S college, Marampally,Aluva.
+> I've expanded my skill set to include creating Flutter mobile applications and picked up some web programming know-how.I thrive on continuous learning and actively engage in the tech community. I have experience in a range of technologies, including Html, Javascript, Flutter, DOT NET,PHP, C programming and MySQL.
 
 
 ---
@@ -17,13 +17,14 @@
 
 #### History of Community Engagement:
 
-- Was an active member of IEDC & Tinkerhub.
 - Was attend devfest 2022
 
 
 #### Highly Used Software Tools:
 
 - VS code
+- Visual Studio
+- SQL Server Management Studio
 - Andriod Studio
 - Hoppscotch
 - Postman
@@ -39,10 +40,6 @@
 - Medium : https://medium.com/@safadtm
 - Portfolio : https://safad-tm-portfolio.web.app/
 
-
-#### Leadership and Influence:
-
-- Member of IEDC
 
 #### Networking:
 
@@ -67,6 +64,7 @@
 - Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive.
 - The achievement of this vision will depend on collaboration between academia, government, and industry.
 
+#### Profile Card:
 
- 
+- <img src="https://mulearn.org/embed/rank/safadtm@mulearn" width="500" height="400"></img>
 ---

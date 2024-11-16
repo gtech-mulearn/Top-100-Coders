@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This event aims to identify and showcase the most talented coders from across the state of Kerala and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
+Welcome to the Top 100 Coders, the highlight of Huddle Global 2024! This event aims to identify and showcase the most talented coders from across India and connect them with startups and industries. Our mission is to foster a vibrant startup ecosystem and turn these talented individuals into a valuable resource army.
 </div>
 
 <div align="center">
@@ -16,9 +16,13 @@ Welcome to Kerala Top 100 Coders, the highlight of Huddle Global 2023! This even
 
 ## Step 1:
 
-<img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83">
+<!-- <img width="428" alt="Screenshot 2024-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
+<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
+
+
 
 ### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
+#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
 
 #
 
@@ -62,17 +66,37 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 </div>
 
-#
+## 🚀 Step 4: 
+
+<div align=left>
+  
+#### 🚀 Link Your μLearn Profile!
+
+Ready to complete your digital persona? It’s time to link your μLearn profile and make your coding journey shine even brighter! Follow these steps to add your μLearn profile to your GitHub portfolio:
+
+#### 🍴 Get Your Embed Link!
+Head over to [μLearn Discord server](https://discord.com/channels/771670169691881483/1157030408874106991), use /get-embed-link command. Copy the Embed Link provided.
+
+#### 📄 Update Your Markdown File!
+Open the markdown file you created in the `/profile` folder. Paste the Embed Link into the designated section of your profile file.
+
+#### 🚀 Pull It!  
+Once you've updated your profile, create a pull request targeting the main branch. Show the world your complete coding identity!
+
+#### 🏆 Your page is live
+Checkout the link https://gtech-mulearn.github.io/Top-100-Coders/profile/[muid], replace your  muid in the link and get your profiles up.
+
+</div>
 
 <div align="center">
 
-## 🚀 Step 4: Dive into the Digital Arena!
+## 🚀 Step 5: Dive into the Digital Arena!
 
 ### Welcome to the heart of our competition
 
 > The Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
 
-<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
+<img width="236" alt="Screenshot 2024-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
 </div>
 
 <div align="left">
@@ -100,7 +124,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 #### 🎙️ #top-100-officehours
 
 - Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 6 PM to 7 PM.
+- Timing: Tune in every day from 8 PM to 9 PM.
 - Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
 > Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
@@ -109,7 +133,7 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 #
 
-:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2024. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
 
 > If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
 
@@ -117,4 +141,5 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 
 <div aling='center'>
 
+Checkout [sample](./profile/kochousephjohn@mulearn.md).
 </div>

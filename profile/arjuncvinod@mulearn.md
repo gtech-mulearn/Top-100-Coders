@@ -7,7 +7,7 @@ Beyond academics, I enjoy an active lifestyle, exploration, and networking with 
 
 
 ### Portfolio Highlights
-
+<img src="https://mulearn.org/embed/rank/arjuncvinod@mulearn" width="400px"></img>
 
 #### Leadership and Influence:
 
@@ -32,8 +32,7 @@ Beyond academics, I enjoy an active lifestyle, exploration, and networking with 
 
 #### History of Community Engagement:
 
--  Active participant in the Gtech Mulearn.
-
+-  Frontend intern at the Gtech Mulearn.
 
 #### Competitive Website Profiles:
 - [Leetcode](https://leetcode.com/arjuncvinod007/)

@@ -35,7 +35,7 @@ Kerala can excel by fostering innovation, investing in education, providing infr
 
 #### History of Community Engagement:
 
-Active member in GDSC, Tinkerhub and myulearn
+Active member in GDSC, Tinkerhub and mulearn
 
 #### Highly Visible Technical Content:
 
@@ -43,7 +43,7 @@ https://medium.com/@abinRd/the-beautiful-game-my-passion-for-football-10c03e4dfe
 
 #### Highly Used Software Tools:
 
-I use Python,HTML on a daily basis
+I use Python and a bit of web dev softwares
 
 #### Competitive Website Profiles:
 
