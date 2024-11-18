@@ -49,9 +49,6 @@ I'm Devika Lakshmi M Btech Computer Science Student at College of Engineering Ch
 
 #### Profile Card:
 
-- Share your profile embed link from mulearn dashboard here
 
-> In your portfolio, include the following details:
 
----
-
+[<img src="https://mulearn.org/embed/rank/devikalakshmim@mulearn" width="800" height="400">](https://app.mulearn.org/profile/devikalakshmim@mulearn)
