@@ -1,11 +1,11 @@
-# Abhay Balakrishnan (Web Developer)
+# Abhay Balakrishnan (Web Developer & UI/UX Designer)
 
 
 
 
 ### About Me
 
-> I'm a Full Stack Developer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept and design to coding, testing, and deployment. I am proficient in `Javascript`, `Python` and a variety of frameworks, such as Django, Express and React. I have experience working with databases such as MySQL, PostgreSQL and MongoDB
+> I’m Abhay, a UI/UX Designer and Web Developer from India. I specialize in crafting user-friendly websites that combine exceptional design with functionality to enhance every online experience. With a keen eye for detail and a passion for innovation, I aim to redefine how people interact with digital platforms.
 
 ---
 
@@ -13,52 +13,43 @@
 
 #### Leadership and Influence:
 
-- Led a team of 5 developers in delivering a complex drop-shiping platform ahead of schedule.
-- Organized and hosted 2 tech meetups in the local developer community.
+- Played a key role in shaping the IBeTo website, collaborating on multiple redesigns to create a platform that embodies "Innovation for a Better Tomorrow."
+- Conducted an impactful online Figma workshop, mentoring participants and inspiring them to explore user-centered design principles effectively.
 
 #### Networking:
 
-- Strong networking skills demonstrated through active participation in industry conferences such as Huddle Globa.
-- Co-founder of [Petagon](https://www.pentagon.com/group) a community of hackers, which has grown to 10 members.
+- Active contributor to IEDC MEC, the entrepreneurship cell at my college, where I collaborate with innovators and creators to push boundaries.
+- Represented my college at multiple tech fests and conferences, strengthening my professional network while promoting my projects.
 
 #### As a Top 100 Member:
 
-- Applying for Top 100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
-- Believing that being part of Top 100 will open doors to new opportunities, foster innovation, and enhance my career.
+- Excited to collaborate with a talented cohort of coders to innovate and solve impactful problems.
+- Leverage the network and opportunities from Top 100 Coders to build groundbreaking projects and share knowledge across the ecosystem.
 
 #### Career Plan:
 
-- In the immediate term, I plan to mentor junior developers and organize workshops to foster tech talent in Kerala.
-- In the long term, I aim to launch a tech startup focused on sustainable solutions in Kerala.
+- In the short term, I plan to focus on freelance projects and open-source contributions, enhancing my skills while collaborating with the global tech community.
+- Long term, I aim to build a creative agency that merges exceptional design with cutting-edge development, helping businesses create impactful digital experiences.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
-- Collaboration between academia, government, and industry will be key to achieving this vision.
+- Kerala is on the cusp of a technological revolution, with its strong emphasis on education and community-driven innovation.
+- I believe in fostering a thriving ecosystem by encouraging collaboration between student communities, startups, and the government.
 
 #### History of Open Source Contributions:
 
-- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by implementing feature Push Notification.
-- Actively maintain a popular open-source library for web development tools used by developers worldwide.
+- Actively contributed to EventSync, an open-source event management suite, focusing on creating an engaging and user-friendly landing page that simplifies event planning.
 
 #### History of Community Engagement:
 
-- Regularly answer technical questions on Stack Overflow, with a reputation score of 2k.
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
-
-#### Highly Visible Technical Content:
-
-- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
-
-#### Highly Used Software Tools:
-
-- Developed a web-based Task management tool called [TodoNow](https://github.com/vishakh-abhayan/TodoNow) used by 2000+ users.
+- Volunteered as a graphic designer and UI/UX specialist for events like ICTEST '24 and MEC.CONF '24, contributing to their visual identity and success.
+- Organized Figma workshops for aspiring designers, empowering them to bring their creative visions to life.
+- Actively involved in Excel MEC, FOSS MEC, and MACS MEC, contributing to collaborative tech projects and workshops.
 
 #### Competitive Website Profiles:
 
-- Active member on HackerRank with a 145k ranking in Data Structures.
-- Kaggle profile showcasing 3 completed data science projects.
+- Active on LeetCode [https://leetcode.com/u/itsabhaybal], where I have started solving algorithmic problems and improving my problem-solving skills.
+- Continuously working on enhancing my ranking and preparing for technical interviews through consistent practice.
 
 
 ---
