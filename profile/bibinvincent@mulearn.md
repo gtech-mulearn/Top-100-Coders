@@ -32,7 +32,7 @@ I am still learning various tools and technologies so I have not been very activ
 
 #### Career Plan:
 - Continue to enhance my knowledge in software development while exploring new domains and technologies that align with my interests.
-- Improve my skills and ensure peer learning among students.
+- Improve my skills and ensure peer learning.
 - I also aim to provide sustainable solutions to serious problems faced in Kerala.
   
 #### Thoughts on Kerala's Tech Ecosystem:
