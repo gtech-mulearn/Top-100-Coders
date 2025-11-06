@@ -25,12 +25,12 @@
 
 - [HackerRank](https://www.hackerrank.com/profile/umar1868807)
 - [LinkedIn](www.linkedin.com/in/umaralmukhtaribrahimkutty)
-- [GitHub](https://github.com/d-xrk)
+- [GitHub](https://github.com/UmarAlMukhtar)
 
 #### Leadership and Influence:
 
 - As the Technical Lead of the Innovation and Entrepreneurship Development Cell (IEDC) at my college, I have had the opportunity to coordinate and oversee numerous programs. This role has significantly enhanced my leadership abilities and allowed me to positively influence and guide others.
-- 
+  
 #### Networking:
 
 #### As a Top 100 Member:
@@ -47,4 +47,4 @@
 
 #### Profile Card:
 
- <img src="https://mulearn.org/embed/rank/umaralmukhtaribrahimkutty@mulearn" width="200" height="200"></img>
+ <img src="https://mulearn.org/embed/rank/umaralmukhtaribrahimkutty@mulearn" width="375" height="225"></img>
