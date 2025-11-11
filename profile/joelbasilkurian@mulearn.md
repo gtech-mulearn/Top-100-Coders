@@ -1,4 +1,4 @@
-# JOEL BASIL KURIAN (NLP & ML Enthusiast)
+# JOEL BASIL KURIAN (Generative AI Enthusiast)
 
 ### About Me
 
@@ -6,7 +6,9 @@
 
 
 ### Portfolio Highlights
-
+- [GitHub](https://github.com/joel0611)
+- [LinkedIn](https://www.linkedin.com/in/joel-basil-kurian-348517232/)
+- [MuLearn](https://mulearn.org/embed/rank/joelbasilkurian@mulearn)
 
 
 #### Leadership and Influence:
@@ -70,3 +72,7 @@ With each experience, I've reinforced my commitment to the AI domain and my role
 - [HackerRank](www.hackerrank.com/profile/22ct013)
 - [CodeChef](www.codechef.com/users/joel0611)
 - [LinkedIn](www.linkedin.com/in/joel-basil-kurian-348517232/)
+
+#### Profile Card:
+
+- [Joel Basil Kurian](https://app.mulearn.org/profile/joelbasilkurian@mulearn)
